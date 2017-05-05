@@ -1,25 +1,23 @@
-@charset "UTF-8";
-
-/// Provides an easy way to include a clearfix for containing floats.
-///
-/// @link http://cssmojo.com/latest_new_clearfix_so_far/
-///
-/// @example scss - Usage
-///   .element {
-///     @include clearfix;
-///   }
-///
-/// @example css - CSS Output
-///   .element::after {
-///     clear: both;
-///     content: "";
-///     display: table;
-///   }
+// Modern micro clearfix provides an easy way to contain floats without adding additional markup.
+//
+// Example usage:
+//
+//    // Contain all floats within .wrapper
+//    .wrapper {
+//      @include clearfix;
+//      .content,
+//      .sidebar {
+//        float : left;
+//      }
+//    }
 
 @mixin clearfix {
-  &::after {
-    clear: both;
-    content: "";
-    display: table;
+  &:after {
+    content:"";
+    display:table;
+    clear:both;
   }
 }
+
+// Acknowledgements
+// Beat *that* clearfix: [Thierry Koblentz](http://www.css-101.org/articles/clearfix/latest-new-clearfix-so-far.php)
