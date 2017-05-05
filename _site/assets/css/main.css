@@ -225,3 +225,31 @@ body {
   color: #2E2D33;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%; }
+
+header {
+  height: 56px; }
+  header .logo {
+    float: left;
+    margin: 30px 0 0 30px;
+    font-size: 24px;
+    font-weight: 700; }
+    header .logo a {
+      display: inline-block;
+      color: rgba(0, 0, 0, 0.7); }
+      header .logo a:hover {
+        color: black; }
+  header nav {
+    float: right;
+    margin: 30px 30px 0 0; }
+    header nav a {
+      display: inline-block;
+      margin-left: 20px;
+      color: rgba(0, 0, 0, 0.7);
+      font-size: 24px;
+      font-weight: 700; }
+      header nav a:hover {
+        color: black; }
+
+.site-container {
+  width: 700px;
+  margin: auto; }
