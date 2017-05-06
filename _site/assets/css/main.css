@@ -319,3 +319,27 @@ header {
       top: 0px;
       right: 0px;
       left: 0px; }
+
+footer {
+  height: 200px; }
+  footer .footer-wrap {
+    max-width: 500px;
+    margin: 0px auto 0px;
+    padding: 10px; }
+    footer .footer-wrap .footer-tagline {
+      text-align: center;
+      color: rgba(0, 0, 0, 0.7);
+      font-size: 24px;
+      font-weight: 700; }
+    footer .footer-wrap .social-media {
+      text-align: center; }
+      footer .footer-wrap .social-media nav {
+        margin: 0px;
+        padding: 0px; }
+        footer .footer-wrap .social-media nav a {
+          margin: 10px;
+          color: rgba(0, 0, 0, 0.7);
+          font-size: 20px;
+          font-weight: 700; }
+          footer .footer-wrap .social-media nav a:hover {
+            color: black; }
