@@ -4,7 +4,7 @@
 # Projects
 
 projects:
-- {name: Lagrange Jekyll Theme, image: 'lagrange-site.png'}
+- {name: Lagrange Jekyll Theme, description: A minimalist Jekyll theme for running a personal blog, image: 'lagrange-site.png'}
 - {name: Millennial Jekyll Theme, image: 'millennial-site.jpg'}
 - {name: Weather App, image: 'weather-app.png'}
 - {name: Quote App, image: 'quote-app.png'}
