@@ -227,7 +227,8 @@ body {
   -webkit-text-size-adjust: 100%; }
 
 body {
-  background: white; }
+  background: white;
+  font-family: "Roboto", sans-serif; }
 
 .site-container {
   width: 750px;
