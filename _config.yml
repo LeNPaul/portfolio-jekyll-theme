@@ -1,7 +1,7 @@
 # Build settings
 
 markdown: kramdown
-permalink: pretty
+permalink: none
 
 port: 3000
 
