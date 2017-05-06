@@ -226,11 +226,15 @@ body {
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%; }
 
+.site-container {
+  width: 750px;
+  margin: auto; }
+
 header {
-  height: 56px; }
+  height: 90px; }
   header .logo {
     float: left;
-    margin: 30px 0 0 30px;
+    margin: 30px;
     font-size: 24px;
     font-weight: 700; }
     header .logo a {
@@ -250,6 +254,33 @@ header {
       header nav a:hover {
         color: black; }
 
-.site-container {
-  width: 700px;
-  margin: auto; }
+.thumb-container {
+  max-width: 750px;
+  margin: 0px auto 0px;
+  padding: 30px; }
+  .thumb-container .thumb-unit {
+    display: block;
+    width: 600px;
+    height: 300px;
+    margin: 0px auto 30px;
+    position: relative;
+    overflow: hidden;
+    background-image: url(/assets/img/weather-app.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover; }
+    .thumb-container .thumb-unit .thumb-overlay {
+      position: absolute;
+      top: 100%;
+      right: 0px;
+      left: 0px;
+      height: 100%;
+      background: rgba(102, 102, 102, 0.5);
+      -webkit-transition: all 0.15s ease-out 0s;
+      -moz-transition: all 0.15s ease-out 0s;
+      transition: all 0.15s ease-out 0s; }
+    .thumb-container .thumb-unit:hover .thumb-overlay {
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      left: 0px; }
