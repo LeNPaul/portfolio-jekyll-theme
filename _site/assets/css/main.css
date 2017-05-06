@@ -243,20 +243,20 @@ header {
     font-weight: 700; }
     header .logo a {
       display: inline-block;
-      color: rgba(0, 0, 0, 0.7); }
+      color: black; }
       header .logo a:hover {
-        color: black; }
+        color: #BD5248; }
   header nav {
     float: right;
     margin: 30px 30px 0 0; }
     header nav a {
       display: inline-block;
       margin-left: 20px;
-      color: rgba(0, 0, 0, 0.7);
+      color: black;
       font-size: 24px;
       font-weight: 700; }
       header nav a:hover {
-        color: black; }
+        color: #BD5248; }
 
 .thumb-container {
   max-width: 750px;
@@ -321,6 +321,18 @@ header {
       right: 0px;
       left: 0px; }
 
+.page-content {
+  width: 450px;
+  margin: 30px; }
+  .page-content h1 {
+    line-height: 1.5;
+    color: black;
+    font-size: 30px;
+    font-weight: 700; }
+  .page-content p {
+    line-height: 1.5;
+    font-size: 16px; }
+
 footer {
   height: 200px; }
   footer .footer-wrap {
@@ -329,7 +341,7 @@ footer {
     padding: 10px; }
     footer .footer-wrap .footer-tagline {
       text-align: center;
-      color: rgba(0, 0, 0, 0.7);
+      color: black;
       font-size: 24px;
       font-weight: 700; }
     footer .footer-wrap .social-media {
@@ -339,8 +351,8 @@ footer {
         padding: 0px; }
         footer .footer-wrap .social-media nav a {
           margin: 10px;
-          color: rgba(0, 0, 0, 0.7);
+          color: black;
           font-size: 20px;
           font-weight: 700; }
           footer .footer-wrap .social-media nav a:hover {
-            color: black; }
+            color: #BD5248; }
