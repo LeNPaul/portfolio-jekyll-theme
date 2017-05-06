@@ -1,0 +1,8 @@
+# Projects
+
+projects:
+- {name: Lagrange Jekyll Theme, image: 'lagrange-site.png'}
+- {name: Millennial Jekyll Theme, image: 'millennial-site.jpg'}
+- {name: Weather App, image: 'weather-app.png'}
+- {name: Quote App, image: 'quote-app.png'}
+- {name: Wikipedia App, image: 'wikipedia-app.png'}

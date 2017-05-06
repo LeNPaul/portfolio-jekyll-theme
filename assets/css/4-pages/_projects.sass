@@ -12,7 +12,6 @@
     overflow: hidden
 
     background:
-      image: url(/assets/img/weather-app.png)
       position: center center
       repeat: no-repeat
       size: cover
@@ -20,13 +19,21 @@
     .thumb-overlay
       +position(absolute, 100% 0px null 0px)
       height: 100%
-      background: fade-out(#666, 0.5)
+      background: fade-out(#333, 0.5)
       text-align: center
       +transition
+      +display(flex)
+      +align-items(center)
+      +justify-content(space-around)
 
-        strong
-          padding: 20px
-
+      strong
+        display: block
+        padding: 20px
+        color: white
+        line-height: 1.2
+        font:
+          size: 24px
+          weight: 300
 
     &:hover .thumb-overlay
       +position(absolute, 0px 0px null 0px)

@@ -149,7 +149,7 @@ td, th {
   src: local("Open Sans"), local("OpenSans"), url(//themes.googleusercontent.com/static/fonts/opensans/v8/cJZKeOuBrn4kERxqtaUH3bO3LdcAZYWl9Si6vvxL-qU.woff) format("woff"); }
 .gigantic, .huge, .large, .bigger, .big,
 h1, h2, h3, h4, h5, h6 {
-  color: #BD5248;
+  color: #bd5248;
   font-weight: bold; }
 
 .gigantic {
@@ -188,14 +188,14 @@ strong {
   font-weight: bold; }
 
 hr {
-  border: solid #ddd;
+  border: solid #dddddd;
   border-width: 1px 0 0;
   clear: both;
   margin: 10px 0 30px;
   height: 0; }
 
 a {
-  color: #BD5248;
+  color: #bd5248;
   text-decoration: none;
   outline: 0; }
 
@@ -203,10 +203,10 @@ a:hover, a:focus {
   color: #d89993; }
 
 ::selection {
-  background: #FFF498; }
+  background: #fff498; }
 
 ::-moz-selection {
-  background: #FFF498; }
+  background: #fff498; }
 
 img::selection {
   background: transparent; }
@@ -215,72 +215,13 @@ img::-moz-selection {
   background: transparent; }
 
 body {
-  -webkit-tap-highlight-color: #FFF498; }
+  -webkit-tap-highlight-color: #fff498; }
 
 body {
-  background: #F6F6F8;
+  background: white;
   font-size: 14px;
   line-height: 1.6;
   font-family: "Open Sans" sans-serif;
-  color: #2E2D33;
+  color: #2e2d33;
   -webkit-font-smoothing: antialiased;
   -webkit-text-size-adjust: 100%; }
-
-.site-container {
-  width: 750px;
-  margin: auto; }
-
-header {
-  height: 90px; }
-  header .logo {
-    float: left;
-    margin: 30px;
-    font-size: 24px;
-    font-weight: 700; }
-    header .logo a {
-      display: inline-block;
-      color: rgba(0, 0, 0, 0.7); }
-      header .logo a:hover {
-        color: black; }
-  header nav {
-    float: right;
-    margin: 30px 30px 0 0; }
-    header nav a {
-      display: inline-block;
-      margin-left: 20px;
-      color: rgba(0, 0, 0, 0.7);
-      font-size: 24px;
-      font-weight: 700; }
-      header nav a:hover {
-        color: black; }
-
-.thumb-container {
-  max-width: 750px;
-  margin: 0px auto 0px;
-  padding: 30px; }
-  .thumb-container .thumb-unit {
-    display: block;
-    width: 600px;
-    height: 300px;
-    margin: 0px auto 30px;
-    position: relative;
-    overflow: hidden;
-    background-image: url(/assets/img/weather-app.png);
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover; }
-    .thumb-container .thumb-unit .thumb-overlay {
-      position: absolute;
-      top: 100%;
-      right: 0px;
-      left: 0px;
-      height: 100%;
-      background: rgba(102, 102, 102, 0.5);
-      -webkit-transition: all 0.15s ease-out 0s;
-      -moz-transition: all 0.15s ease-out 0s;
-      transition: all 0.15s ease-out 0s; }
-    .thumb-container .thumb-unit:hover .thumb-overlay {
-      position: absolute;
-      top: 0px;
-      right: 0px;
-      left: 0px; }
