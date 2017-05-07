@@ -1,16 +1,26 @@
-<section>
+<section class="section-work">
 
-  <div class="thumb-container">
+  <div class="work-belt">
 
-    {% for project in site.data.settings.projects %}
-
-    <a href="" class="thumb-unit" style="background-image: url(/assets/img/{{ project.image }})">
-      <div class="thumb-overlay">
-        <strong>{{ project.name }}</strong>
+    <div class='thumb-wrap'>
+      <div class="thumb-container">
+        {% for project in site.data.settings.projects %}
+          <div class="thumb-unit" style="background-image: url(/assets/img/{{ project.image }})">
+            <div class="thumb-overlay">
+              <strong>{{ project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+            </div>
+          </div>
+        {% endfor %}
       </div>
-    </a>
+    </div>
 
-    {% endfor %}
+    <div class="work-wrap">
+      <div class="work-container">
+        <div class="work-return"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
+        <h4>Project Title</h4>
+        <p>Project Description</p>
+      </div>
+    </div>
 
   </div>
 

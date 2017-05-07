@@ -1,10 +1,25 @@
+.section-work
+  overflow-x: hidden
+
+.work-belt
+  width: 200%
+  position: relative
+  left: 0%
+  +transition
+
+.thumb-wrap, .work-wrap
+  width: 50%
+  float: left
+
 .thumb-container
   max-width: 750px
   margin: 0px auto 0px
   padding: 30px
+  +clearfix
 
   .thumb-unit
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
+    cursor: pointer
     display: block
     width: 600px
     height: 300px
@@ -37,3 +52,24 @@
 
     &:hover .thumb-overlay
       +position(absolute, 0px 0px null 0px)
+
+.work-container
+  max-width: 750px
+  margin: 0px auto 0px
+  position: relative
+  display: none
+
+  h4
+    color: $accent-color
+    font:
+      weight: 300
+      size: 24px
+      line-height: 1.2
+
+  img
+    max-width: 100%
+
+  .work-return
+    cursor: pointer
+    font:
+      size: 24px
