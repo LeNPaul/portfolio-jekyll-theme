@@ -258,13 +258,11 @@ header {
       header nav a:hover {
         color: #BD5248; }
 
-.section-work {
-  overflow-x: hidden; }
-
 .work-belt {
   width: 200%;
   position: relative;
   left: 0%;
+  overflow-x: hidden;
   -webkit-transition: all 0.15s ease-out 0s;
   -moz-transition: all 0.15s ease-out 0s;
   transition: all 0.15s ease-out 0s; }
