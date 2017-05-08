@@ -262,7 +262,7 @@ header {
   width: 200%;
   position: relative;
   left: 0%;
-  overflow-x: hidden;
+  overflow: hidden;
   -webkit-transition: all 0.15s ease-out 0s;
   -moz-transition: all 0.15s ease-out 0s;
   transition: all 0.15s ease-out 0s; }
