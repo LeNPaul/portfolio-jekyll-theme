@@ -1,21 +1,3 @@
-//.section-work
-  overflow: hidden
-
-.work-belt
-  width: 200%
-  position: relative
-  left: 0%
-  overflow: hidden
-  +transition
-
-.thumb-wrap
-  width: 50%
-  float: left
-
-.work-wrap
-  width: 50%
-  float: right
-
 .thumb-container
   max-width: 750px
   margin: 0px auto 0px
@@ -41,7 +23,7 @@
       height: 100%
       background: fade-out(#333, 0.5)
       text-align: center
-      +transition
+      //+transition
       +display(flex)
       +align-items(center)
       +justify-content(space-around)
@@ -59,8 +41,8 @@
       +position(absolute, 0px 0px null 0px)
 
 .work-container
-  max-width: 750px
-  margin: 0px auto 0px
+  max-width: 600px
+  margin: 0px auto 30px
   position: relative
   display: none
 
@@ -78,3 +60,4 @@
     cursor: pointer
     font:
       size: 24px
+    +position(absolute, -3px null null -35px)

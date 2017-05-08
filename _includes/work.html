@@ -1,0 +1,18 @@
+<section>
+  <!--<a class="jumper" href="#test">Testing</a><div id="test"></div>-->
+  <div class="thumb-container">
+    {% for project in site.data.settings.projects %}
+      <div class="thumb-unit" data-folder="{{ site.github.url }}/work/{{ project.folder }}" style="background-image: url({{ site.github.url }}/assets/img/work/{{ project.folder }}/thumb.jpg)">
+        <div class="thumb-overlay">
+          <strong>{{ project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+
+  <div class="work-container">
+    <div class="work-return"><i class="fa fa-arrow-left" aria-hidden="true"></i></div>
+    <h4 class="project-title"></h4>
+    <div class="project-load"></div>
+  </div>
+</section>

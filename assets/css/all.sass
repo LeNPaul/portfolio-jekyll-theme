@@ -1,0 +1,22 @@
+---
+---
+
+@import '1-tools/-tools-dir'
+
+$projects: {% for project in site.data.settings.projects %} "{{ project.folder }}", {% endfor %}
+
+//------------------------------------------------
+// Set some colors as sass variables
+
+$accent-color: #BD5248
+$accent: {{ site.data.layout.accent }}
+$accent-light: adjust-hue(saturate(lighten($accent, 11%), 12.6%), 14%)
+$selectionColor: lighten($accent, 30%)
+
+$textColor: {{ site.data.layout.textColor }}
+$headlineColor: {{ site.data.layout.headlineColor }}
+$bgcolor: {{ site.data.layout.bgcolor }}
+$documentBackgroundColor: {{ site.data.layout.documentBackgroundColor }}
+
+@import '2-base/-base-dir'
+@import '3-sections/-sections-dir'

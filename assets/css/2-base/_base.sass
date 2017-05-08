@@ -1,8 +1,9 @@
-//	Typography
+/*	Typography presets
+  ------------------------------------	*/
 
-.gigantic, .huge, .large, .bigger, .big, 
+.gigantic, .huge, .large, .bigger, .big,
 h1, h2, h3, h4, h5, h6
-  color: $accent-color
+  color: $headlineColor
   font-weight: bold
 
 .gigantic
@@ -19,7 +20,7 @@ h1, h2, h3, h4, h5, h6
   font-size: 42px
   line-height: 1.14
 
-.bigger, h3 
+.bigger, h3
   font-size: 26px
   line-height: 1.38
 
@@ -27,7 +28,7 @@ h1, h2, h3, h4, h5, h6
   font-size: 22px
   line-height: 1.38
 
-.small, small 
+.small, small
   font-size: 10px
   line-height: 1.2
 
@@ -51,44 +52,70 @@ hr
 
 
 
-// Links
-
+/* Links
+  ------------------------------------	*/
 a
-  color: $link-color
+  color: $accent
   text-decoration: none
   outline: 0
-  
+
 a:hover, a:focus
-  color: lighten($link-color, 20%)
+  color: lighten($accent, 20%)
 
 
 
-// Selection colors (easy to forget)
+/* Selection colors (easy to forget)
+  ------------------------------------	*/
 
 ::selection
-  background: $selection-color
-  
+  background: $selectionColor
+
 ::-moz-selection
-  background: $selection-color
-  
+  background: $selectionColor
+
 img::selection
   background: transparent
-  
+
 img::-moz-selection
   background: transparent
-  
-body
-  -webkit-tap-highlight-color: $selection-color
-
-
-
-// Basic Styles
 
 body
-  background: $bg-color
+  -webkit-tap-highlight-color: $selectionColor
+
+
+
+/* Basic Styles
+  ------------------------------------	*/
+body
+  background: $documentBackgroundColor
   font-size: 14px
   line-height: 1.6
-  font-family: 'Open Sans' sans-serif
-  color: $text-color
+  font-family: 'Open Sans', sans-serif
+  color: $textColor
   -webkit-font-smoothing: antialiased
   -webkit-text-size-adjust: 100%
+
+svg
+  +size(100%)
+
+h3
+  @extend %small-bold
+  color: $accent-light
+  text-align: center
+  padding: 100px 0 30px
+
+fieldset
+  padding: 0
+  margin: 0
+  border: none
+
+@media screen and (max-width: 480px)
+  h3
+    padding: 50px 0 50px
+
+section:nth-child(odd)
+  background: $bgcolor
+  padding-bottom: 100px
+
+  h3
+    color: darken($accent-light, 10%)

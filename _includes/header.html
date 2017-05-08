@@ -1,14 +1,13 @@
 <header>
 
   <div class="logo">
-    <a href="/">Paul Le</a>
+    <a href="{{ site.github.url }}/">Paul Le</a>
   </div>
 
   <nav>
-    <a href="/">Projects</a>
-    <a href="/blog.html">Blog</a>
-    <a href="/about.html">About</a>
-    <a href="/contact.html">Contact</a>
+    {% for item in site.data.settings.menu %}
+      <a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>
+    {% endfor %}
   </nav>
 
 </header>

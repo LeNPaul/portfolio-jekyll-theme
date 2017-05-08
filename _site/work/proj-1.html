@@ -1,1 +1,0 @@
-Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. This theme is currently being used by about a hundred people, with this number growing every day.

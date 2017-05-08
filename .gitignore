@@ -1,3 +1,5 @@
+# Created by http://www.gitignore.io
+
 ### OSX ###
 .DS_Store
 .AppleDouble
@@ -21,6 +23,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+
+### Jekyll ###
+_site/
 
 ### Sass ###
 .sass-cache

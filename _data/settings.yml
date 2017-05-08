@@ -1,11 +1,72 @@
-# Social media
+#-------------------------------
+# General Site Settings
 
+title: Paul Le
+description: Front End Developer
+email: l.nguyen.paul@gmail.com
 
-# Projects
+menu:
+- {name: 'Projects', url: ''}
+- {name: 'Blog', url: 'blog.html'}
+- {name: 'About', url: 'about.html'}
+- {name: 'Contact', url: 'contact.html'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Provide a description for your website to make it visible to search engines.'
+  rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+  rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+#google-analytics-ua: UA-XXXXXX-X
+
+#-------------------------------
+# About Section
+
+about: >
+  # I’m a physics major turned programmer
+
+    Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Under Projects, you will find some of my favourite things that I have built over the years. You may find everything else on my [Github](http://github.com/lenpaul) and [Code Pen](https://codepen.io/lenpaul) profiles. You may also [download a copy of my resume](resume-paul-le.pdf).
+
+    I strongly believe that online open education is the future of education. One organization that I believe is leading this movement for computer programming is Free Code Camp. Some of my projects are those that I have developed through Free Code Camp’s Front End Development curriculum. You may view them all on my [Code Pen](https://codepen.io/lenpaul) profile.
+
+    At heart, I will always love physics. Something that I did not know going into university was how closely related computer programming and physics are, and how much programming actually goes on in physics. Ever since I first learned how to program through studying physics, I have been hooked. As a result, some of my favourite projects are those that I have done relating to computational physics.
+
+contact: >
+  # Contact
+
+  You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele).
+
+#-------------------------------
+# Work Section
 
 projects:
 - {name: 'Lagrange Jekyll Theme', folder: 'proj-1', file: 'work/proj-1.html'}
-- {name: 'Millennial Jekyll Theme', folder: 'proj-2', image: 'millennial-site.jpg'}
-- {name: 'Weather App', folder: 'proj-3', image: 'weather-app.png'}
-- {name: 'Quote App', folder: 'proj-4', image: 'quote-app.png'}
-- {name: 'Wikipedia App', folder: 'proj-5', image: 'wikipedia-app.png'}
+- {name: 'Millennial Jekyll Theme', folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: 'Weather App', folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: 'Quote App', folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: 'Wikipedia App', folder: 'proj-5', file: 'work/proj-5.html'}
+
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'twitter', link: 'https://twitter.com/paululele'}
+- {icon: 'instagram', link: 'https://instagram.com/paululele'}
+- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
+- {icon: 'linkedin', link: 'http://www.linkedin.com/in/lenpaul/'}
+- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
