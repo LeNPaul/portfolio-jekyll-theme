@@ -258,30 +258,12 @@ header {
       header nav a:hover {
         color: #BD5248; }
 
-.work-belt {
-  width: 200%;
-  position: relative;
-  left: 0%;
-  overflow: hidden;
-  -webkit-transition: all 0.15s ease-out 0s;
-  -moz-transition: all 0.15s ease-out 0s;
-  transition: all 0.15s ease-out 0s; }
-
-.thumb-wrap, .work-wrap {
-  width: 50%;
-  float: left; }
-
 .thumb-container {
   max-width: 750px;
   margin: 0px auto 0px;
   padding: 30px; }
-  .thumb-container:after {
-    content: "";
-    display: table;
-    clear: both; }
   .thumb-container .thumb-unit {
-    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
-    cursor: pointer;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     display: block;
     width: 600px;
     height: 300px;
@@ -339,22 +321,6 @@ header {
       top: 0px;
       right: 0px;
       left: 0px; }
-
-.work-container {
-  max-width: 750px;
-  margin: 0px auto 0px;
-  position: relative;
-  display: none; }
-  .work-container h4 {
-    color: #BD5248;
-    font-weight: 300;
-    font-size: 24px;
-    font-line-height: 1.2; }
-  .work-container img {
-    max-width: 100%; }
-  .work-container .work-return {
-    cursor: pointer;
-    font-size: 24px; }
 
 .page-content {
   width: 450px;
