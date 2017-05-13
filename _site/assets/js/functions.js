@@ -1,8 +1,8 @@
 $(function() {
 	smoothScroll(300);
 	previousPosition();
-	workBelt();
-	workLoad();
+	//workBelt();
+	//workLoad();
 	clientStuff();
 
 	$("header h1").fitText(1, { minFontSize: '20px', maxFontSize: '72px' });

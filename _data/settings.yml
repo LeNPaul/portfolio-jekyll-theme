@@ -37,11 +37,11 @@ seo:
 about: >
   # I’m a physics major turned programmer
 
-    Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Under Projects, you will find some of my favourite things that I have built over the years. You may find everything else on my [Github](http://github.com/lenpaul) and [Code Pen](https://codepen.io/lenpaul) profiles. You may also [download a copy of my resume](resume-paul-le.pdf).
+    Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Under Projects, you will find some of my favourite things that I have built over the years. You may find everything else on my [Github](http://github.com/lenpaul) and [Code Pen](https://codepen.io/lenpaul) profiles, as well as [download a copy of my resume](resume-paul-le.pdf).
 
-    I strongly believe that online open education is the future of education, and one organization that I believe is leading this movement for web development is Free Code Camp. Some of my projects are those that I have developed through Free Code Camp’s Front End Development curriculum. You may view them all on my [Code Pen](https://codepen.io/lenpaul) profile.
+    I strongly believe that online open education is the future of education, and one organization that I believe is leading this movement for web development is [Free Code Camp](https://freecodecamp.com). Some of my projects are those that I have developed through Free Code Camp’s [Front End Development curriculum](https://freecodecamp.com/map). You may view them all on my [Code Pen](https://codepen.io/lenpaul) profile.
 
-    At heart, I will always love physics. Something that I did not know going into university was how closely related computer programming and physics are, and how much programming actually goes on in physics. Ever since I first learned how to program through studying physics, I have been hooked. As a result, some of my favourite projects are those that I have done relating to computational physics.
+    At heart, I will always love physics. Something that I did not know going into university was how closely related computer programming and physics are, and how much programming actually goes on in physics. Ever since I first learned how to program through studying physics, I have been hooked, and as a result, some of my favourite projects are those that I have done relating to computational physics, which can again be found on my [Github](http://github.com/lenpaul) profile.
 
 contact: >
   # Contact
@@ -52,9 +52,9 @@ contact: >
 # Work Section
 
 projects:
+- {name: 'Free Code Camp Projects', folder: 'proj-3', file: 'work/proj-3.html'}
 - {name: 'Lagrange Jekyll Theme', folder: 'proj-1', file: 'work/proj-1.html'}
 - {name: 'Millennial Jekyll Theme', folder: 'proj-2', file: 'work/proj-2.html'}
-- {name: 'Free Code Camp Projects', folder: 'proj-3', file: 'work/proj-3.html'}
 - {name: 'Personal Portfolio Website', folder: 'proj-4', file: 'work/proj-4.html'}
 - {name: 'Currently Working On', folder: 'proj-5', file: 'work/proj-5.html'}
 
