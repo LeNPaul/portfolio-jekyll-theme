@@ -1,0 +1,21 @@
+---
+layout: post
+title: 'Computational Physics'
+---
+<p>The following are some of my favourite projects I have done relating to computational physics:</p>
+
+<h4>Ising Model Simulation</h4>
+
+<p><a href="https://en.wikipedia.org/wiki/Ising_model" target="_blank">The Ising model</a> is a model of how magnets work at the atomic level, and is an interesting physical problem with a complicated solution. If you actually try to solve this problem analytically (i.e. with pen and paper), it would actually take longer than the age of the universe, but with <a href="https://en.wikipedia.org/wiki/Monte_Carlo_method" target="_blank">Monte Carlo algorithms</a> you can solve it in a reasonable time (you also end up with <a href="https://www.youtube.com/watch?v=PWUTBnvGegg" target="_blank">cool visualizations</a>).</p>
+
+<p>The plot below shows how the magnetization of the system evolves over time for two different systems. I let the simulations run for a period of time before plotting the results, so the magnetizations appear to fluctuate around a certain magnetization value:</p>
+
+<a href="https://github.com/LeNPaul/computational-physics/tree/master/HW2/EX3" target="_blank"><img src="{{ site.github.url }}/assets/img/work/proj-4/ising-code.png"></a>
+
+<h4>Quantum Mechanics Simulation</h4>
+
+<p>As it turns out, most problems in quantum mechanics actually don't have an analytic solution (something you can solve with pen and paper). For physical systems more complicated than the hydrogen atom, you typically need to utilize numerical techniques to solve. One famous technique is called the <a href="https://en.wikipedia.org/wiki/Numerov's_method" target="_blank">Numerov algorithm</a>, which I implemented to solve some special cases.</p>
+
+<p>The plot below is an example that shows the probability of finding a particle within an electic potential:</p>
+
+<a href="https://github.com/LeNPaul/computational-physics/tree/master/HW4/EX1" target="_blank"><img src="{{ site.github.url }}/assets/img/work/proj-4/quantum-code.png"></a>
