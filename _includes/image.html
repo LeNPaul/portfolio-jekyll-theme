@@ -1,0 +1,14 @@
+<div class="image-container">
+  <a href="{{ include.url }}" target="_blank">
+    <img src="{{ site.github.url }}/assets/img/work/{{ include.image }}" alt="Avatar" class="image">
+    <div class="overlay">
+      <div class="text">
+        {% if include.text %}
+          {{ include.text }} <i class="fa fa-arrow-right" aria-hidden="true"></i>
+        {% else %}
+          View Demo <i class="fa fa-arrow-right" aria-hidden="true"></i>
+        {% endif %}
+      </div>
+    </div>
+  </a>
+</div>
