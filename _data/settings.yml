@@ -1,8 +1,8 @@
 #-------------------------------
 # General Site Settings
 
-title: Paul Le
-description: Front End Developer
+title: Personal Portfolio Theme
+description: Powered by Jekyll and GitHub Pages
 email: l.nguyen.paul@gmail.com
 
 menu:
@@ -35,27 +35,24 @@ seo:
 # About Section
 
 about: >
-  # I’m a physics major turned programmer
+  # Personal Portfolio Theme
 
-    Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Under Projects, you will find some of my favourite things that I have built over the years. You may find everything else on my [Github](http://github.com/lenpaul) and [Code Pen](https://codepen.io/lenpaul) profiles, as well as [download a copy of my resume](resume-paul-le.pdf).
-
-    I strongly believe that online open education is the future of education, and one organization that I believe is leading this movement for web development is [Free Code Camp](https://freecodecamp.com). Some of my projects are those that I have developed through Free Code Camp’s [Front End Development curriculum](https://freecodecamp.com/map). You may view them all on my [Code Pen](https://codepen.io/lenpaul) profile.
-
-    At heart, I will always love physics. Something that I did not know going into university was how closely related computer programming and physics are, and how much programming actually goes on in physics. Ever since I first learned how to program through studying physics, I have been hooked, and as a result, some of my favourite projects are those that I have done relating to computational physics, which can again be found on my [Github](http://github.com/lenpaul) profile.
+  This is my personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-theme/fork), to get started.
 
 contact: >
   # Contact
 
-  You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele).
+  You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
 
 #-------------------------------
 # Work Section
 
 projects:
-- {name: 'Free Code Camp Projects', folder: 'proj-1', file: 'work/proj-1.html'}
-- {name: 'Lagrange Jekyll Theme', folder: 'proj-2', file: 'work/proj-2.html'}
-- {name: 'Millennial Jekyll Theme', folder: 'proj-3', file: 'work/proj-3.html'}
-- {name: 'Personal Portfolio Website', folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: 'Project One', folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: 'Project Two', folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: 'Project Three', folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: 'Project Four', folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: 'Project Five', folder: 'proj-5', file: 'work/proj-5.html'}
 
 #-------------------------------
 # Contact Section
