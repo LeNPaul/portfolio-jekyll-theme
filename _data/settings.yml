@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Personal Portfolio Theme
+title: Portfolio Jekyll Theme
 description: Powered by Jekyll and GitHub Pages
 email: l.nguyen.paul@gmail.com
 
@@ -18,8 +18,8 @@ menu:
 
 seo:
   description: 'Personal portfolio powered by Jekyll and GitHub Pages '
-  rel-author: 'https://plus.google.com/u/0/115391695226276326378'
-  rel-publisher: 'https://plus.google.com/u/0/115391695226276326378'
+  rel-author: 'https://plus.google.com/u/0/#'
+  rel-publisher: 'https://plus.google.com/u/0/#'
 
 #-------------------------------
 # Google Analytics Section
@@ -35,9 +35,9 @@ seo:
 # About Section
 
 about: >
-  # Personal Portfolio Theme
+  # Portfolio Jekyll Theme
 
-  This is my personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-theme/fork), to get started.
+  This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
 
 contact: >
   # Contact
@@ -48,20 +48,20 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'Project One', folder: 'proj-1', file: 'work/proj-1.html'}
-- {name: 'Project Two', folder: 'proj-2', file: 'work/proj-2.html'}
-- {name: 'Project Three', folder: 'proj-3', file: 'work/proj-3.html'}
-- {name: 'Project Four', folder: 'proj-4', file: 'work/proj-4.html'}
-- {name: 'Project Five', folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: 'Project One', folder: 'proj-1', file: 'projects/proj-1.html'}
+- {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
+- {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
+- {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}
+- {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
 
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'github', link: 'https://www.github.com/lenpaul'}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/lenpaul/'}
-- {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'twitter', link: '#'}
+- {icon: 'instagram', link: '#'}
+- {icon: 'github', link: '#'}
+- {icon: 'linkedin', link: '#'}
+- {icon: 'envelope', link: 'mailto:#'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
