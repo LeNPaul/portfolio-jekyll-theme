@@ -1,13 +1,10 @@
 <header>
-
   <div class="logo">
     <a href="{{ site.github.url }}/">{{ site.data.settings.title }}</a>
   </div>
-
   <nav>
     {% for item in site.data.settings.menu %}
       <a href="{{ site.github.url }}/{{ item.url }}">{{ item.name }}</a>
     {% endfor %}
   </nav>
-
 </header>
