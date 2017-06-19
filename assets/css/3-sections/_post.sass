@@ -1,0 +1,24 @@
+.work-container
+  max-width: 600px
+  margin: 0px auto 30px
+  position: relative
+  display: block
+  h4
+    color: black
+    line-height: 1.2
+    margin-bottom: 10px
+    font:
+      weight: 700
+      size: 24px
+  img
+    max-width: 100%
+  a
+    &:hover img
+      opacity: 0.5
+  .work-return
+    cursor: pointer
+    font:
+      size: 24px
+    +position(absolute, -3px null null -35px)
+  .loading
+    text-align: center
