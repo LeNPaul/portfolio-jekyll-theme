@@ -89,8 +89,7 @@ Portfolio Jekyll Theme/
 ├── _posts                     # Where all your posts will go
 ├── assets                     # Style sheets and images are found here
 |  ├── css                     # Style sheets go here
-|  |  └── main.css             # Main CSS file
-|  |  └── syntax.css           # Style sheet for code syntax highlighting
+|  |  └── all.sass             # Main SASS file
 |  └── img                     # Images go here
 ├── pages                      # Menu pages
 ├── projects                   # Project pages
@@ -117,9 +116,9 @@ If you are hosting your site on GitHub Pages, then committing a change to the `_
 
 In the `settings.yml` file found in the `_data` folder, you will be able to customize your site settings, such as setting Disqus comments, Google Analytics, what shows up in your menu, and social media information.
 
-### Adding Menu Pages
+### Adding Menu and Project Pages
 
-The menu pages are found in the `menu` folder in the root directory, and can be added to your menu in the `settings.yml` file.
+The menu pages are found in the `menu` folder in the root directory, and can be added to your menu in the `settings.yml` file. Similarly, the project pages are found in the `projects` folder in the root directory, and can be added to your site in the `settings.yml` file. The images for your portfolio projects are stored in the `assets/img/projects/proj-n` folder, and should be named `thumb.jpg`.
 
 ### Posts
 
