@@ -7,9 +7,9 @@ email: l.nguyen.paul@gmail.com
 
 menu:
 - {name: 'Projects', url: ''}
-- {name: 'Blog', url: 'blog.html'}
-- {name: 'About', url: 'about.html'}
-- {name: 'Contact', url: 'contact.html'}
+- {name: 'Blog', url: 'pages/blog.html'}
+- {name: 'About', url: 'pages/about.html'}
+- {name: 'Contact', url: 'pages/contact.html'}
 
 #-------------------------------
 # SEO Section

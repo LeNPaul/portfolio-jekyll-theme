@@ -1,12 +1,12 @@
 # Portfolio Jekyll Theme
 
-This is a portfolio Jekyll theme built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P).
+This is a Jekyll theme built using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). The purpose of this theme is to provide a clea. Emphasis of placed on your
 
 ![alt-text](https://cloud.githubusercontent.com/assets/8409329/26227987/f2583642-3c03-11e7-81c4-28a9353c91ae.jpg)
 
 #### Quick-Start Guide
 
-To start using this theme right away, [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork). From there, you can rename the repository to `USERNAME.github.io`, where `USERNAME` is your GitHub username, and edit the `_config.yml` and `_settings.yml` file (in the _data folder) to your liking. Ensure that you have a branch named `gh-pages`. Your website should be ready immediately at `http://USERNAME.github.io`.
+To start using this theme right away, [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork). From there, you can rename the repository to `USERNAME.github.io`, where `USERNAME` is your GitHub username, and edit the `_config.yml` and `_settings.yml` file (in the `_data folder`) to your liking. Ensure that you have a branch named `gh-pages`. Your website should be ready immediately at `http://USERNAME.github.io`.
 
 Head over to the `_posts` directory to view all the blog posts that are currently on the website, and to see examples of what post files generally look like. Project content is added in the `projects` folder.  You can simply just duplicate the template posts and start adding your own content.
 
