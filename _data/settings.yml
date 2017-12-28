@@ -1,10 +1,6 @@
 #-------------------------------
 # General Site Settings
 
-title: Portfolio Jekyll Theme
-description: Powered by Jekyll and GitHub Pages
-email: l.nguyen.paul@gmail.com
-
 menu:
 - {name: 'Projects', url: ''}
 - {name: 'Blog', url: 'pages/blog.html'}

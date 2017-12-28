@@ -13,9 +13,9 @@
 
   <title>
     {% if page.title == "Home" %}
-      {{ site.data.settings.title }}
+      {{ site.title }}
     {% else %}
-      {{ page.title }} | {{ site.data.settings.title }}
+      {{ page.title }} | {{ site.title }}
     {% endif %}
   </title>
 
@@ -23,6 +23,9 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
   <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+  <!-- Use Atom -->
+  {% feed_meta %}
 
   <script type="text/javascript" async
     src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">

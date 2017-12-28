@@ -2,10 +2,16 @@
 
 markdown: kramdown
 permalink: none
-plugins:             [jekyll-sitemap]
+plugins:             [jekyll-sitemap, jekyll-feed]
 
 port: 4000
 
 sass:
   sass_dir: assets/css
   style: :nested
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+
+title:		           "Portfolio Jekyll Theme"
+description:	       "Powered by Jekyll and GitHub Pages"
+author:              "Paul Le"
