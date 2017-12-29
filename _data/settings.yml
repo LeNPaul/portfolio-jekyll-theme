@@ -28,6 +28,14 @@ seo:
 #google-analytics-ua: UA-XXXXXX-X
 
 #-------------------------------
+# Disqus Section
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'thathungrymind'
+
+#-------------------------------
 # About Section
 
 about: >

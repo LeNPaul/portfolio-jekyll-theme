@@ -7,6 +7,8 @@ layout: default
     <h4 class="project-title">{{ page.title }}</h4>
     <div class="project-load">{{ content }}</div>
   </div>
+  {% if site.data.settings.disqus.comments %}
+    {% include disqus.html %}
+  {% endif %}
 </section>
-
 {% include footer.html %}
