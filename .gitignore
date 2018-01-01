@@ -29,3 +29,6 @@ _site/
 
 ### Sass ###
 .sass-cache
+
+### Gemfile ###
+Gemfile.lock
