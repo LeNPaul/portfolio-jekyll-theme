@@ -2,7 +2,7 @@
 
 markdown: kramdown
 permalink: none
-plugins:             [jekyll-sitemap, jekyll-feed]
+plugins:             [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 port: 4000
 
