@@ -1,15 +1,11 @@
 #-------------------------------
 # General Site Settings
 
-title: Portfolio Jekyll Theme
-description: Powered by Jekyll and GitHub Pages
-email: l.nguyen.paul@gmail.com
-
 menu:
 - {name: 'Projects', url: ''}
-- {name: 'Blog', url: 'blog.html'}
-- {name: 'About', url: 'about.html'}
-- {name: 'Contact', url: 'contact.html'}
+- {name: 'Blog', url: 'pages/blog.html'}
+- {name: 'About', url: 'pages/about.html'}
+- {name: 'Contact', url: 'pages/contact.html'}
 
 #-------------------------------
 # SEO Section
@@ -29,7 +25,15 @@ seo:
 
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
-#google-analytics-ua: UA-XXXXXX-X
+google-analytics-ua: 'UA-112060364-3'
+
+#-------------------------------
+# Disqus Section
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'thathungrymind'
 
 #-------------------------------
 # About Section
