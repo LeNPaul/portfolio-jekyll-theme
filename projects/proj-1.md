@@ -1,9 +1,11 @@
 ---
 layout: post
-title: 'Project One'
+title: 'Large-scale refactoring across codebase'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+- Identify areas of code to refactor ,remove dead code and create a clean API with minimum dependencies to enable ability to switch individual components of the application.
+- Ability to switch components allows for integration into newer applications.
+- Update unit tests and ensure that existing regressions pass with refactoring.
+- Apply clean architecture and SOLID principles especially dependency inversion principle.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
+{% include image.html url="https://www.ansys.com/products/3d-design/ansys-aim" image="projects/proj-1/SOLID.jpeg" %}
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}

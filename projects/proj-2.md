@@ -1,8 +1,12 @@
 ---
 layout: post
-title: 'Project Two'
+title: 'Localization of ANSYS AIM'
 ---
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+Jan 2016 – Jul 2016
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+- Part of a cross-functional team to add Japanese and later Chinese language support to    the simulation software AIM offered by ANSYS.
+- Work with downstream client teams and serve as a subject matter expert for future    contact.
+Tools used: C#, internal framework,Visual Studio
+
+{% include image.html url="https://www.ansys.com/products/3d-design/ansys-aim" image="projects/proj-1/SOLID.jpeg" %}
