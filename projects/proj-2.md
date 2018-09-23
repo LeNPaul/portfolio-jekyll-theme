@@ -9,4 +9,4 @@ Jan 2016 – Jul 2016
 - Work with downstream client teams and serve as a subject matter expert for future    contact.
 Tools used: C#, internal framework,Visual Studio
 
-{% include image.html url="https://www.ansys.com/products/3d-design/ansys-aim" image="projects/proj-1/SOLID.jpeg" %}
+{% include image.html url="https://www.ansys.com/products/3d-design/ansys-aim" image="projects/proj-2/aim.jpg" %}

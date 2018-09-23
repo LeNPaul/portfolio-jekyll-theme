@@ -43,7 +43,7 @@ about: >
 contact: >
   # Contact
 
-  You can reach out to me via [email](mailto:soham.ghormade@gmail.com).
+  Feel free to  contact me via [email](mailto:soham.ghormade@gmail.com) if you are interested in learning more about my projects.
 
 #-------------------------------
 # Work Section
@@ -51,13 +51,12 @@ contact: >
 projects:
 - {name: 'Project One', folder: 'proj-1', file: 'projects/proj-1.html'}
 - {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
-- {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'twitter', link: ''}
-- {icon: 'instagram', link: '#'}
+- {icon: 'twitter', link: 'https://twitter.com/soham_ghormade?lang=en'}
+- {icon: 'medium', link: 'https://medium.com/@soham.ghormade'}
 - {icon: 'github', link: 'https://github.com/ghormadesoham'}
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/soham-ghormade/'}
 - {icon: 'envelope', link: 'mailto:soham.ghormade@gmail.com'}
