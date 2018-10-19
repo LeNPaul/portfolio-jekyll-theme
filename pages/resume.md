@@ -17,7 +17,7 @@ Computer Vision, Deep Learning, Robotics
 
 -  2014: Master of Science, Mechanical Engineering, <br>
    Stony Brook University, Stony Brook, New York<br>
-   GPA: 3.75 / 4.0
+   GPA: 3.73 / 4.0
 
 -  2013: Bachelor of Engineering, Mechanical Engineering,<br>
    University of Mumbai, Mumbai, India<br>
