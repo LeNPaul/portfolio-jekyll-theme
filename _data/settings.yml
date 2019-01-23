@@ -59,6 +59,8 @@ projects:
 - {name: 'TEDx Talk', folder: 'proj-3', file: 'projects/proj-3.html'}
 - {name: '#AruForJY Crowdfunding Campaign', folder: 'proj-4', file: 'projects/proj-4.html'}
 - {name: 'Walat', folder: 'proj-5', file: 'projects/proj-5.html'}
+- {name: 'Test', folder: 'proj-6', file: 'projects/proj-6.html'}
+
 
 #-------------------------------
 # Contact Section
