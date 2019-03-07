@@ -3,7 +3,7 @@ layout: post
 title: 
 ---
 
-<img src="../assets/img/LyndaBanner2.jpg">
+<img src="../assets/img/LyndaBanner.jpg">
 #### Yung Ta Lin (Lynda Lin)
 I've been enthusiatic in making something visible and having interaction with people. 
 That's why I did Human Computer Interaction (HCI) research in graduate school, and I did my first job in [GaussToys Inc](http://gausstoys.com/).
