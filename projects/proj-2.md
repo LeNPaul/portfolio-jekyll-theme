@@ -19,3 +19,4 @@ _This is my first independently developed game in [GaussToys Inc.](www.gausstoys
 - Demonstrated in [Essen Spiel 2018](https://www.spiel-messe.com/en/). 
 - Utilized: Unity 3D, C#, Processing, Java, Adobe Illustrator
 
+<img src="../assets/img/projects/proj-2/essen.jpg" alt="Demo in Essen Spiel 2018">
