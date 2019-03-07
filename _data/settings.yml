@@ -3,9 +3,9 @@
 
 menu:
 - {name: 'Projects', url: ''}
-- {name: 'Blog', url: 'pages/blog.html'}
+# - {name: 'Blog', url: 'pages/blog.html'}
 - {name: 'About', url: 'pages/about.html'}
-- {name: 'Contact', url: 'pages/contact.html'}
+# - {name: 'Contact', url: 'pages/contact.html'}
 
 #-------------------------------
 # SEO Section
@@ -39,11 +39,6 @@ disqus:
 #-------------------------------
 # About Section
 
-about: >
-  # Portfolio Jekyll Theme
-
-  This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
-
 contact: >
   # Contact
 
@@ -53,20 +48,20 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'Project One', folder: 'proj-1', file: 'projects/proj-1.html'}
-- {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
-- {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
-- {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}
-- {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
+- {name: 'Outside-In', folder: 'proj-1', file: 'projects/proj-1.html'}
+- {name: 'Sushi', folder: 'proj-2', file: 'projects/proj-2.html'}
+- {name: 'Lyric Display', folder: 'proj-3', file: 'projects/proj-3.html'}
+- {name: 'Yogee', folder: 'proj-4', file: 'projects/proj-4.html'}
+- {name: 'Others', folder: 'proj-5', file: 'projects/proj-5.html'}
 
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
-- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+# - {icon: 'twitter', link: '#'}
+- {icon: 'instagram', link: 'https://instagram.com/ynda.lyn'}
+- {icon: 'github', link: 'https://github.com/lynda0214'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/yung-ta-lin-8a5858159/'}
+- {icon: 'envelope', link: 'mailto:lynda0214@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

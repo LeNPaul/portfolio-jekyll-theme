@@ -1,8 +1,21 @@
 ---
 layout: post
-title: 'Project Two'
+title: 'Sushi'
 ---
 
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ultrices tortor nec nunc hendrerit rutrum. Nullam congue nulla eu placerat convallis. Morbi volutpat dolor nunc, nec dignissim neque condimentum nec. Nullam vel sem egestas augue tempus pulvinar in vitae neque. Ut mattis tincidunt felis, laoreet aliquet ex mollis ac. Sed sit amet nisl id enim blandit facilisis. Maecenas quis ultrices sapien, ac ullamcorper mi.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gbpMIbQiMFI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+#### Sushi: A Cooking Game Based on GaussSense
+
+The best way to keep sushi fresh is to serve customers’ order in time. 
+Put on the designated material on the chopping board. 
+Accomplish the task and go to the next level. 
+
+-----
+_This is my first independently developed game in [GaussToys Inc.](www.gausstoys.com), that I designed the process, the visual elements and writing the code._
+
+- Developed a digital board game on tablet using GaussSense. 
+- Illustrated all UI elements using Adobe Illustrator and implemented using Unity 3D.  
+- Demonstrated in [Essen Spiel 2018](https://www.spiel-messe.com/en/). 
+- Utilized: Unity 3D, C#, Processing, Java, Adobe Illustrator
+
