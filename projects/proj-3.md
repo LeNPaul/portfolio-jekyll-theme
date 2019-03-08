@@ -7,6 +7,8 @@ title: 'Lyric Display'
 
 #### Lyric Display: A Tool for Displaying Projection Lyrics Using in Performance
 
+**Yung Ta Lin**, 2018
+
 Projected lyrics has its necessity for the audience when performing songs in foreign languages. Inspired from the redundant chores that musical club performance have to make lyric slides repeatedly. When the show is long, thousand pages of slides would takes plenty of time to proof. Plus, the staff for playing the slides can easily get lost with monotonic action. 
 
 Accordingly, I proposed **Lyric Display** to address above issues. 
