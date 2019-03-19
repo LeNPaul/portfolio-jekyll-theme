@@ -45,7 +45,7 @@ _I also demonstrated this project in Tokyo, UIST 2016 conference._
 
 #### Yogee: An Android app that helps you keep traveling diary
 
-Meng Yin Chan, Jing Lin, Mei Zhi Chang, Yeh Ta Lu, Hui Jiang Yang, Yi Hsien Lyu, **Yung Ta Lin**
+Meng Yin Chan, Jing Lin, Mei Zhi Chang, Yeh Ta Lu, Hui Jiang Yang, Yi Hsien Lyu, **Yung Ta Lin**. 2015
 
 <img src = "../assets/img/projects/proj-5/yogee-main.png">
 <img src = "../assets/img/projects/proj-5/yogee-sub.png">
@@ -55,3 +55,17 @@ Meng Yin Chan, Jing Lin, Mei Zhi Chang, Yeh Ta Lu, Hui Jiang Yang, Yi Hsien Lyu,
 - Designed visual elements and user interfaces in Illustrator. 
 - Implemented UI layouts in Android Studio. 
 - Utilized: Android Studio, Java, XML, Adobe Illustrator
+
+<br><br><br><br>
+
+<img src = "../assets/img/projects/proj-5/quad9.png">
+
+#### Quad 9 Android App UI Design (on Play Store soon)
+
+Yung Ta Lin. 2018
+
+-----
+- Collaborated with an IBM intern engineer. 
+- Design visual elements and user interfaces in Illustrator. 
+- Suggested the engineer with possible implementation and adapted UI designs as well. 
+- Utilized: UI/UX, Material Design Guideline, Adobe Illustrator
