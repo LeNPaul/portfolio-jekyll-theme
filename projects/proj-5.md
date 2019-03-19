@@ -67,5 +67,5 @@ Yung Ta Lin. 2018
 -----
 - Collaborated with an IBM intern engineer. 
 - Design visual elements and user interfaces in Illustrator. 
-- Suggested the engineer with possible implementation and adapted UI designs as well. 
+- Suggested possible implementation to the engineer and adapted UI designs as well. 
 - Utilized: UI/UX, Material Design Guideline, Adobe Illustrator
