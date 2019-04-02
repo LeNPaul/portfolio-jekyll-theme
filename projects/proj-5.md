@@ -21,7 +21,12 @@ _I'm in charge of the visual designs and all the illustation in the game._
 _I also demonstrated this game in Denver, CHI 2017 conference._
 
 - Utilized: Adobe Photoshop, Adode Illustrator
+
+<h3><a href="../assets/wayout_chi_2017_sgc.pdf">[Download This Paper]</a></h3>
+
 <br><br><br><br>
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y_U4SjE-eUI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -39,6 +44,9 @@ _I'm in charge of visualization, communication between phone and computer_
 _I also demonstrated this project in Tokyo, UIST 2016 conference._
 
 - Utilized: Android Studio, Unity 3D, Blender, OSC Communication
+
+<h3><a href="../assets/UIST2016_AwardsSIC.pdf">[Certificate]</a></h3>
+
 <br><br><br><br>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e7BAuHgFKwI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
