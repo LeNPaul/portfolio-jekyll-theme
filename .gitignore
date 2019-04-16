@@ -32,6 +32,3 @@ _site/
 
 ### Gemfile ###
 Gemfile.lock
-
-### VSCODE
-.vscode/*
