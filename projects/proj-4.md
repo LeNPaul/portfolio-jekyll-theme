@@ -23,4 +23,4 @@ _I'm the first author. I'm resiponsible for the thesis writing, and the hardware
 
 
 <img src="../assets/img/projects/proj-4/shadow-poster.png">
-<h3><a href="https://aui16.files.wordpress.com/2016/05/aui2016_paper_7.pdf">[Download This Paper]</a></h3>
+<h3><a target="_blank" href="https://aui16.files.wordpress.com/2016/05/aui2016_paper_7.pdf">[Download This Paper]</a></h3>

@@ -22,7 +22,7 @@ _I also demonstrated this game in Denver, CHI 2017 conference._
 
 - Utilized: Adobe Photoshop, Adode Illustrator
 
-<h3><a href="../assets/wayout_chi_2017_sgc.pdf">[Download This Paper]</a></h3>
+<h3><a target="_blank" href="../assets/wayout_chi_2017_sgc.pdf">[Download This Paper]</a></h3>
 
 <br><br><br><br>
 
@@ -45,7 +45,7 @@ _I also demonstrated this project in Tokyo, UIST 2016 conference._
 
 - Utilized: Android Studio, Unity 3D, Blender, OSC Communication
 
-<h3><a href="../assets/UIST2016_AwardsSIC.pdf">[Certificate]</a></h3>
+<h3><a target="_blank" href="../assets/UIST2016_AwardsSIC.pdf">[Certificate]</a></h3>
 
 <br><br><br><br>
 
@@ -68,7 +68,7 @@ Meng Yin Chan, Jing Lin, Mei Zhi Chang, Yeh Ta Lu, Hui Jiang Yang, Yi Hsien Lyu,
 
 <img src = "../assets/img/projects/proj-5/quad9.png">
 
-#### Quad 9 Android App UI Design (on Play Store soon)
+#### Quad 9 Android App UI Design
 
 Yung Ta Lin. 2018
 
@@ -77,3 +77,5 @@ Yung Ta Lin. 2018
 - Design visual elements and user interfaces in Illustrator. 
 - Suggested possible implementation to the engineer and adapted UI designs as well. 
 - Utilized: UI/UX, Material Design Guideline, Adobe Illustrator
+
+<h3><a target="_blank" href="https://play.google.com/store/apps/details?id=com.quad9.aegis&utm_campaign=quad9-blog&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">[Play Store]</a></h3>

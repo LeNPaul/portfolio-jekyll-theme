@@ -14,12 +14,12 @@ Projected lyrics has its necessity for the audience when performing songs in for
 Accordingly, I proposed **Lyric Display** to address above issues. 
 
 -----
-_This is my first open source project, and I designed and implemented it indivisually._
+_I designed and implemented it indivisually._
 
 - Designed a system that read pure text and display like  slides. 
 - Implemented two versions on different platforms including web and standalone. 
 - Utilized: HTML/CSS, JavaScript, JQuery, GIT, Unity 3D, C# 
 
-<h3> <a href="https://github.com/lynda0214/lyricDisplay">[Lyric Display Web Version]</a> <br>
-<a href="https://github.com/lynda0214/lyricDisplayUnity">[Lyric Display Desktop Version]</a> </h3>
+<h3> <a target="_blank" href="https://github.com/lynda0214/lyricDisplay">[Lyric Display Web Version]</a> <br>
+<a target="_blank" href="https://github.com/lynda0214/lyricDisplayUnity">[Lyric Display Desktop Version]</a> </h3>
 

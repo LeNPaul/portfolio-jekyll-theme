@@ -5,12 +5,12 @@ title:
 
 <img src="../assets/img/LyndaBanner.jpg">
 #### Yung Ta Lin (Lynda Lin)
-I've been enthusiatic in making something visible and having interaction with people. 
+I've been enthusiastic about making something visible and having interaction with people. 
 That's why I did Human Computer Interaction (HCI) research in graduate school, and I did my first job in [GaussToys Inc](http://gausstoys.com/).
-Now, I'm looking forward to explore more on front-end, or application engineer positions.  
+Now, I'm looking forward to exploring more on front-end, or application engineer positions.  
 <br>
-Besides technology, I also have great passion in art and design (check my [Instagram](https://www.instagram.com/ynda.lyn/) below). 
-In the future, I expect myself to be the role who bridge the art and technology and make something impressive. 
+Besides technology, I also have a great passion for art and design (check my [Instagram](https://www.instagram.com/ynda.lyn/) below). 
+In the future, I expect myself to be the role who bridge art and technology and make something impressive. 
 
 #### Achievements
 **Outside-In: Visualizing Out-of-Sight Regions-of-Interest in a 360 Video Using Spatial Picture-in-Picture Previews.** <br>

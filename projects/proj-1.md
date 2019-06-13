@@ -27,5 +27,5 @@ _I was responsible for leading this group and implementing the core algorithm._
 - Presented in one of the top conference in Human Computer Interactions (HCI) (UIST’17). 
 - Utilized: Unity 3D, C#, Arduino, Research Methods, Thesis Writing, User Experience
 
-<h3> <a href="../assets/outsidein_uist_17.pdf">[Download This Paper]</a> <br>
-<a href="https://youtu.be/r3B_KWoiEP8">[Watch My Presentation]</a> </h3>
+<h3> <a target="_blank" href="../assets/outsidein_uist_17.pdf">[Download This Paper]</a> <br>
+<a target="_blank" href="https://youtu.be/r3B_KWoiEP8">[Watch My Presentation]</a> </h3>

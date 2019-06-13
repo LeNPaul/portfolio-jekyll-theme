@@ -50,9 +50,10 @@ contact: >
 projects:
 - {name: 'Outside-In', folder: 'proj-1', file: 'projects/proj-1.html'}
 - {name: 'Sushi', folder: 'proj-2', file: 'projects/proj-2.html'}
-- {name: 'Lyric Display', folder: 'proj-3', file: 'projects/proj-3.html'}
 - {name: 'Shadow', folder: 'proj-4', file: 'projects/proj-4.html'}
+- {name: 'Nogifiles', folder: 'proj-nogifiles', file: 'projects/proj-nogifiles.html'}
 - {name: 'Tsai Bro Pro Betel Nut Generator', folder: 'proj-45', file: 'projects/proj-45.html'}
+- {name: 'Lyric Display', folder: 'proj-3', file: 'projects/proj-3.html'}
 - {name: 'Others', folder: 'proj-5', file: 'projects/proj-5.html'}
 
 #-------------------------------

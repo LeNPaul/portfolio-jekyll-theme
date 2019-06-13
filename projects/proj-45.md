@@ -14,7 +14,7 @@ title: 'Tsai Bro Pro Betel Nut Generator'
 Inspired from this phenomenon, I came up with this idea of making a generator to help the trend spread.  
 
 -----
-_This is my second open source project, and I designed and implemented it indivisually._
+_I designed and implemented it indivisually._
 
 - Inspired from the Facebook fan page “財哥專業檳榔攤”, and try to make the generator. 
 - Integrated natural language processing library in node.js server to split Chinese sentence into vocabularies. 
@@ -23,6 +23,6 @@ _This is my second open source project, and I designed and implemented it indivi
 
 <img src="../assets/img/projects/proj-45/fanpage.png">
 
-<h3> <a href="https://github.com/lynda0214/TsaiBroProBetelNutGenerator">[Github Repository]</a> <br>
-<a href="https://tsaibro-probetelnut-generator.herokuapp.com/">[Heroku Application]</a> </h3>
+<h3> <a target="_blank" href="https://github.com/lynda0214/TsaiBroProBetelNutGenerator">[Github Repository]</a> <br>
+<a target="_blank" href="https://tsaibro-probetelnut-generator.herokuapp.com/">[Heroku Application]</a> </h3>
 
