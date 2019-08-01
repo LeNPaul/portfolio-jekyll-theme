@@ -52,6 +52,7 @@ projects:
 - {name: 'Application Integration', folder: 'proj-1', file: 'projects/proj-1.html'}
 - {name: 'Localization', folder: 'proj-2', file: 'projects/proj-2.html'}
 - {name: 'Computational Photography', folder: 'proj-3', file: 'projects/proj-3.html'}
+- {name: 'Robotics:AI Techniques', folder: 'proj-4', file: 'projects/proj-4.html'}
 #-------------------------------
 # Contact Section
 

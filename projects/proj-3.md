@@ -15,7 +15,7 @@ title: 'Computational Photography'
     </ul>
 
  - Here is a link to the <a href="/documents/cp/portfolio.pdf" target="_blank"> portfolio</a> summarizing what I learnt.
- - Tools used :Python, OpenCV, NumPy,SciPy, Numba
+ - **Tools used** :Python, OpenCV, NumPy,SciPy, Numba
 
 {% include image.html url="https://drive.google.com/drive/folders/1Mm61tc7_JTElEKbLAu-UAuohTlCH4Irc?usp=sharing" image="projects/proj-3/showcase.png" %}
 
