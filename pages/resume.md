@@ -7,7 +7,7 @@ Resume <a href="/documents/resume/Soham_Ghormade_Resume_2018.pdf" target="_blank
 <a href="/documents/resume/Soham_Ghormade_Resume_2018.docx" target="_blank">[Word]</a>
 
 ## Summary
-Software developer at ANSYS with three years of experience in C#/.NET application development on Windows.
+Software developer at ANSYS with experience in application integration and localization.
 
 ## Interests
 

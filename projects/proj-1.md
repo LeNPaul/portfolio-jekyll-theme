@@ -1,12 +1,20 @@
 ---
 layout: post
-title: 'Large-scale refactoring across codebase'
+title: 'Computational Photography'
 ---
-Dec 2016 – Present
-- Identify areas of code to refactor ,remove dead code and create a clean API with minimum dependencies to enable ability to switch individual components of the application.
-- Ability to switch components allows for integration into newer applications.
-- Update unit tests and ensure that existing regressions pass with refactoring.
-- Apply clean architecture and SOLID principles especially dependency inversion principle.
+Jan  – May 2019
+- I learnt about image processing techniques in the course projects and assignments for this <a href="https://www.omscs.gatech.edu/cs-6475-computational-photography" target="_blank"> class</a>.
 
-{% include image.html url="https://www.ansys.com/products/3d-design/ansys-aim" image="projects/proj-1/SOLID.jpeg" %}
+- Specifically,I learnt about
+    <ul>
+    <li>image processing,</li>
+    <li>tone mapping,</li>
+    <li>panorama generation,</li>
+    <li>video textures as well as</li>
+    <li>non-photorealistic rendering.</li>
+    </ul>
 
+ - Here is a link to the <a href="/documents/cp/portfolio.pdf" target="_blank"> portfolio</a> summarizing what I learnt.
+ - **Tools used** :Python, OpenCV, NumPy,SciPy, Numba
+
+{% include image.html url="https://drive.google.com/drive/folders/1Mm61tc7_JTElEKbLAu-UAuohTlCH4Irc?usp=sharing" image="projects/proj-1/showcase.png" %}
