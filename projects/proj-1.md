@@ -1,8 +1,16 @@
 ---
 layout: post
-title: 'Project One'
+title: 'random_song_exe'
 ---
-Mauris velit metus, tempor gravida nulla eget, auctor accumsan tellus. Curabitur volutpat sed dolor quis tempus. In scelerisque aliquam felis at tincidunt. Proin non augue fringilla, [pretium justo vitae](#), maximus dui. Nunc ipsum nisi, fermentum sit amet volutpat cursus, sodales ac nisl. Quisque nec tellus sem. Cras pharetra felis non quam mollis, nec efficitur lectus aliquet. Maecenas ipsum felis, eleifend nec [semper venenatis](#), consequat ut nunc. Donec est augue, facilisis quis placerat sed, imperdiet sit amet neque. Maecenas nec risus metus. Nunc non condimentum ipsum. Phasellus consectetur dapibus massa, convallis iaculis nisi vestibulum id. Phasellus et fringilla augue. Donec consequat dui ut rutrum elementum. Aenean nisi arcu, ornare eu lacus vel, faucibus tempor tortor.
+A Twitter bot built with Python3 that posts a random song from Spotify every
+hour. By using separate threads I was also able to build a functional menu, to
+change constants and check the status for the bot.
+<br><br>
+Because the Spotify doesn't have an API endpoint for a random song, my bot will
+search Spotify for tracks using a 'word of the day' and pick a random song from
+the list of returned objects. This allows me to have better control over what
+songs are posted, though a potential feature may be picking a random word from
+a dictionary to perform the search.
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
 

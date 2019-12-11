@@ -1,8 +1,10 @@
 ---
 layout: post
-title: 'Project Four'
+title: 'ZCoder'
 ---
 
-In diam odio, facilisis eu elementum in, sodales ut dolor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean fermentum ante vitae sagittis efficitur. Praesent interdum sagittis porttitor. Duis non hendrerit metus. Nullam bibendum nunc cursus elit cursus ornare. Nulla eget sodales erat. Quisque laoreet nibh eu eleifend vehicula.
+Written in Java, I made this in the hopes of giving my journal a basic level of
+protection from my sister. The 'ZCoder' converts ASCII text to binary text. Not
+only did it do that perfectly, it also prevented me from reading past entries
 
 {% include image.html url="http://www.gratisography.com" image="projects/proj-4/bike.jpg" %}
