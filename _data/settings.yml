@@ -3,7 +3,7 @@
 
 menu:
 - {name: 'Projects', url: ''}
-- {name: 'Blog', url: 'pages/blog.html'}
+# - {name: 'Blog', url: 'pages/blog.html'}
 - {name: 'About', url: 'pages/about.html'}
 - {name: 'Contact', url: 'pages/contact.html'}
 
@@ -14,8 +14,8 @@ menu:
 
 seo:
   description: 'Personal portfolio powered by Jekyll and GitHub Pages '
-  rel-author: 'https://plus.google.com/u/0/#'
-  rel-publisher: 'https://plus.google.com/u/0/#'
+  rel-author: 'https://twitter.com/zobiejrz'
+  rel-publisher: ''
 
 #-------------------------------
 # Google Analytics Section
@@ -26,7 +26,7 @@ seo:
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-analytics-ua: 'UA-112060364-3'
+google-analytics-ua: ''
 
 #-------------------------------
 # Disqus Section
@@ -40,14 +40,14 @@ disqus:
 # About Section
 
 about: >
-  # Portfolio Jekyll Theme
+  # Ben Zobrist
 
-  This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+  I'm a college student at Brigham Young University in Provo, UT. I'm currently studying Computer Science, but I've been playing with code since I was I was 10. When I'm not working on some side project, I also play Ultimate Frisbee and drink chocolate milk.
 
 contact: >
   # Contact
 
-  You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+  Feel free to connect [through email](mailto:ben@zobie.com), I generally get back to people within a day.
 
 #-------------------------------
 # Work Section
