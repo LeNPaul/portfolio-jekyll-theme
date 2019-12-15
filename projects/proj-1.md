@@ -5,7 +5,7 @@ title: 'Computational Photography'
 Jan  – May 2019
 - I learnt about image processing techniques in the course projects and assignments for this <a href="https://www.omscs.gatech.edu/cs-6475-computational-photography" target="_blank"> class</a>.
 
-- Specifically,I learnt about
+- Specifically, I learnt about:
     <ul>
     <li>image processing,</li>
     <li>tone mapping,</li>
