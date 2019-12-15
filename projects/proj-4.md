@@ -3,14 +3,14 @@ layout: post
 title: 'Computer Vision'
 ---
 
-Aug – December 2019
+August – December 2019
 
 - I learnt about the concepts and applications of computer vision in the problem sets for this <a href="https://www.omscs.gatech.edu/cs-6476-computer-vision" target="_blank"> class</a>.
 
 - Specifically, I learnt about:
     <ul>
     <li>application of hough transforms for traffic sign detection,</li>
-    <li>optic <a href="https://drive.google.com/open?id=1Y9CLjqKRwD-GieJSB_eNJkNGmwVK9VoP " target="_blank"> flow</a> for small motion using Hierarchial Lucas Kanade algorithm.</li>
+    <li>optic <a href="https://drive.google.com/open?id=1Y9CLjqKRwD-GieJSB_eNJkNGmwVK9VoP " target="_blank"> flow</a> for small motion using Hierarchial Lucas Kanade algorithm,</li>
     <li>image transformation and homography for marker <a href="https://drive.google.com/file/d/1-HgpJFW9h2S8Q0tjpfNzvMmLZkHLf4sc/view" target="_blank"> tracking</a>,</li>
     <li>pedestrian detection and tracking using Kalman and Particle Filter and,</li>
     <li>face detection using Viola Jones classifier.</li>
@@ -30,4 +30,4 @@ Aug – December 2019
 
 {% include image_plain.html image="projects/proj-4/ped.png" %}
 
-**Figure 2**:Particle Filter implemented from scratch in Python was tuned to track a student walking on the TUD university campus.
+**Figure 2**:A Particle Filter was implemented from scratch in Python.This particle filter was run on a video.The video recorded students walking on the TUD university campus.The bounding box indicates the location of the student and the points indicate the particles clustered at the estimated position.
