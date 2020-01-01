@@ -1,15 +1,15 @@
 ---
 layout: post
-title: 'Cooley'
+title: '100 Days of Code'
 ---
 
-My friends and I wanted to play Dungeons and Dragons long distance, but there
-was somewhat of a mobility issue since we would have to bring character sheets
-and dice with us if we wanted to play. All of us had our Discord accounts, so
-the idea of making a bot was born!
+For the 2020 New Year I committed to doing 100 Days of Code!
 <br><br>
-Built using C#, Cooley stores character sheets for users in JSON objects and
-allows them to select whichever one they want to use. Most things on the D&D 5e
-character sheets are accounted for, and commands to update or edit them.
+Because I can't be sure I'll have a separate side project for all 100 days,
+I made a Github repository I plan on filling with programming problems that I find on the internet.
+<br><br>
+To track my progress, check my [Twitter](https://twitter.com/zobiejrz){:target="_blank"}
+and the [Github Repository](https://github.com/zobiejrz/100DaysOfCode){:target="_blank"}
+for this goal.
 
-{% include image.html url="http://www.gratisography.com" image="projects/proj-2/stretch.jpg" %}
+{% include image.html url="https://www.100daysofcode.com" image="projects/proj-2/100DaysOfCodeWebsite.jpg" text="Official Site" %}
