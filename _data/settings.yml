@@ -17,6 +17,8 @@ seo:
   rel-author: 'https://twitter.com/zobiejrz'
   rel-publisher: ''
 
+url: https://zobiejrz.com
+
 #-------------------------------
 # Google Analytics Section
 
@@ -32,9 +34,9 @@ google-analytics-ua: ''
 # Disqus Section
 
 # Change to true for Disqus comments
-disqus:
-  comments: false
-  disqus_shortname: 'thathungrymind'
+# disqus:
+#   comments: false
+#   disqus_shortname: 'thathungrymind'
 
 #-------------------------------
 # About Section
@@ -47,7 +49,7 @@ about: >
 contact: >
   # Contact
 
-  Feel free to connect [through email](mailto:ben@zobie.com), I generally get back to people within a day.
+  Feel free to connect [through email](mailto:ben@zobie.com) or on [Twitter](https://twitter.com/intent/tweet?text=@zobiejrz). I generally get back to people the same day.
 
 #-------------------------------
 # Work Section
@@ -63,7 +65,6 @@ projects:
 
 social:
 - {icon: 'twitter', link: 'https://twitter.com/zobiejrz'}
-- {icon: 'instagram', link: '#'}
 - {icon: 'github', link: 'https://github.com/zobiejrz'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/ben-zobrist'}
 - {icon: 'envelope', link: 'mailto:ben@zobie.com'}
