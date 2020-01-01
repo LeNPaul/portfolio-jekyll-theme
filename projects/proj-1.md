@@ -11,7 +11,7 @@ search Spotify for tracks using a 'word of the day' and pick a random song from
 the list of returned objects. This allows me to have better control over what
 songs are posted, though a potential feature may be picking a random word from
 a dictionary to perform the search.
-
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/dog.jpg" %}
-
-{% include image.html url="http://www.gratisography.com" image="projects/proj-1/wall.jpg" %}
+<br><br>
+Feel free to visit [@random_song_exe](https://www.twitter.com/random_song_exe){:target="_blank"}
+on twitter. You can find the source code [here](https://github.com/zobiejrz/random_song_exe){:target="_blank"}.
+{% include image.html url="https://www.twitter.com/random_song_exe" image="projects/proj-1/thumb.jpg" %}
