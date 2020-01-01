@@ -14,4 +14,4 @@ a dictionary to perform the search.
 <br><br>
 Feel free to visit [@random_song_exe](https://www.twitter.com/random_song_exe){:target="_blank"}
 on twitter. You can find the source code [here](https://github.com/zobiejrz/random_song_exe){:target="_blank"}.
-{% include image.html url="https://www.twitter.com/random_song_exe" image="projects/proj-1/thumb.jpg" %}
+{% include image.html url="https://www.twitter.com/random_song_exe" image="projects/proj-1/TwitterCapture.jpg" text="Visit" %}
