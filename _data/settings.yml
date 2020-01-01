@@ -56,9 +56,9 @@ contact: >
 
 projects:
 - {name: 'random_song_exe', folder: 'proj-1', file: 'projects/proj-1.html'}
-- {name: 'Cooley', folder: 'proj-2', file: 'projects/proj-2.html'}
+- {name: '100 Days of Code', folder: 'proj-2', file: 'projects/proj-2.html'}
 - {name: 'ping-pong', folder: 'proj-3', file: 'projects/proj-3.html'}
-- {name: 'ZCoder', folder: 'proj-4', file: 'projects/proj-4.html'}
+- {name: 'Cooley', folder: 'proj-4', file: 'projects/proj-4.html'}
 
 #-------------------------------
 # Contact Section
