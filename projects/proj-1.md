@@ -2,6 +2,6 @@
 layout: post
 title: 'empanaditas de queso'
 ---
-{% include image image="projects/proj-1/queso.jpg" %}
+![queso](https://user-images.githubusercontent.com/58451312/75080875-55aa0c00-54db-11ea-9ba1-8fe256606f85.jpg)
 
-Come tu webada rapido
+Come tu cosa rapido
