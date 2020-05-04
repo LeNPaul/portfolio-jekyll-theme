@@ -1,15 +1,12 @@
 ---
 layout: post
-title: '100 Days of Code'
+title: 'Color Picker'
 ---
 
-For the 2020 New Year I committed to doing 100 Days of Code!
+A simple app to pick out colors using RGB values.
 <br><br>
-Because I can't be sure I'll have a separate side project for all 100 days,
-I made a Github repository I plan on filling with programming problems that I find on the internet.
+I wanted a project to practice SwiftUI, and this is it! I practiced using MVC and got to experience putting something on the app store for the first time.
 <br><br>
-To track my progress, check my [Twitter](https://twitter.com/zobiejrz){:target="_blank"}
-and the [Github Repository](https://github.com/zobiejrz/100DaysOfCode){:target="_blank"}
-for this goal.
+You can check out the Github Repository [here](https://github.com/zobiejrz/color){:target="_blank"}.
 
-{% include image.html url="https://www.100daysofcode.com" image="projects/proj-2/100DaysOfCodeWebsite.jpg" text="Official Site" %}
+{% include plain-img.html image="projects/proj-2/AppStoreImage.jpg" %}
