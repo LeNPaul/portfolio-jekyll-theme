@@ -9,4 +9,4 @@ I wanted a project to practice SwiftUI, and this is it! I practiced using MVC an
 <br><br>
 You can check out the Github Repository [here](https://github.com/zobiejrz/color){:target="_blank"}.
 
-{% include plain-img.html image="projects/proj-2/AppStoreImage.jpg" %}
+{% include plain-img.html image="projects/proj-2/App.jpg" %}
