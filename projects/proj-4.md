@@ -1,18 +1,14 @@
 ---
 layout: post
-title: 'Cooley'
+title: 'ping-pong'
 ---
 
-My friends and I wanted to play Dungeons and Dragons long distance, but there
-was somewhat of a mobility issue since we would have to bring character sheets
-and dice with us if we wanted to play. All of us had our Discord accounts, so
-the idea of making a bot was born!
-<br><br>
-Built using C#, Cooley stores character sheets for users in JSON objects and
-allows them to select whichever one they want to use. Most things on the D&D 5e
-character sheets are accounted for, and commands to update or edit them.
-<br><br>
-Cooley was fun because he has so many commands available to really make the most
-of the character sheets!
+For a sort of 'Hello World' for Swift 4, I built a game of Pong for Mac. Nothing
+to difficult, but it gave me a good introduction to Xcode.
 
-{% include plain-img.html image="projects/proj-4/Commands.jpg" %}
+I didn't make a playable version readily available, but feel free to visit the
+[repository](https://www.github.com/zobiejrz/ping-pong) and play with it locally.
+
+When I very first made this project from a tutorial, it was for the iPhone! It was
+much more feature dense, but wasn't written very well...
+{% include plain-img.html image="projects/proj-4/iPhoneVersion.jpg" %}

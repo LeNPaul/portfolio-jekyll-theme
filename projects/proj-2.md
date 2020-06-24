@@ -1,12 +1,14 @@
 ---
 layout: post
-title: 'Color Picker'
+title: 'Minesweeper'
 ---
 
-A simple app to pick out colors using RGB values.
-<br><br>
-I wanted a project to practice SwiftUI, and this is it! I practiced using MVC and got to experience putting something on the app store for the first time.
-<br><br>
-You can check out this Github Repository [here](https://github.com/zobiejrz/color){:target="_blank"}.
+My own game of minesweeper built using SwiftUI
+
+After spending time doing the Stanford CS192p class [on YouTube](https://youtu.be/jbtqIBpUG7g),
+I wanted to excercise some of my new skills with my own project! I hope to make this my first
+app on the app store, but I definitley have a bit to go before I can make that a reality.
+
+You can check out this Github Repository [here](https://github.com/zobiejrz/minesweeper).
 
 {% include plain-img.html image="projects/proj-2/App.jpg" %}

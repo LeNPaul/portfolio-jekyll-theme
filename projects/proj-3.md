@@ -1,14 +1,16 @@
 ---
 layout: post
-title: 'ping-pong'
+title: 'Color Picker'
 ---
 
-For a sort of 'Hello World' for Swift 4, I built a game of Pong for Mac. Nothing
-to difficult, but it gave me a good introduction to Xcode.
-<br><br>
-I didn't make a playable version readily available, but feel free to visit the
-[repository](https://www.github.com/zobiejrz/ping-pong) and play with it locally.
-<br><br>
-When I very first made this project from a tutorial, it was for the iPhone! It was
-much more feature dense, but wasn't written very well...
-{% include plain-img.html image="projects/proj-3/iPhoneVersion.jpg" %}
+A simple app to pick out colors using RGB values.
+
+This app is **not** super complex, or even that great, but it was my first attempt at SwiftUI
+without any real training. It is the result of many hours on Stack Overflow, and it is unique
+in that I even fully assembled the images it needed to be put on the App Store. Obviously it
+didn't make it through the review process, but it was nonetheless an exciting project for me
+at the time, and all around a great learning experience.
+
+Now it lives in this Github Repository [here](https://github.com/zobiejrz/color).
+
+{% include plain-img.html image="projects/proj-3/App.jpg" %}
