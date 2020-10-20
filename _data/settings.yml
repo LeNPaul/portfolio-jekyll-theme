@@ -68,7 +68,7 @@ social:
 - {icon: 'twitter', link: '#'}
 - {icon: 'instagram', link: '#'}
 - {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: 'www.linkedin.com/in/leongregori'}
+- {icon: 'linkedin', link: 'https://linkedin.com/in/leongregori'}
 - {icon: 'envelope', link: 'mailto:gluehbirnenkopf@leongregori.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
