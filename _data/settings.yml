@@ -40,10 +40,12 @@ disqus:
 # About Section
 
 about: >
-  # Portfolio Jekyll Theme
+  # gluehbirnenkopf - artist and software engineer
 
-  This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
-
+  This is my main page to show of some of my art projects. While enjoying the unconventional skill-mix of art and informatics, I try to create artworks which make everyday life somehow more exciting. I love it to surprise friends and family with unexpected artworks like e.g my [Canvas with Wifi](https://gluehbirnenkopf.github.io/projects/proj-3.html).
+  
+  When im not working as software engineer, im enjoying my free time with my wife or work on the projects you can see on the page.
+  If you want to know more about my technology / software engineering background, feel free to visit [my online CV](https://leon-gregori.com).
 contact: >
   # Contact
 
