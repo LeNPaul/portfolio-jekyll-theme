@@ -55,11 +55,11 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'Project One', folder: 'proj-1', file: 'projects/proj-1.html'}
-- {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
-- {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
-- {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}
-- {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
+- {name: 'tchncldbt', folder: 'proj-1', file: 'projects/proj-1.html'}
+- {name: 'porbeagle24', folder: 'proj-2', file: 'projects/proj-2.html'}
+- {name: 'thegr8esc', folder: 'proj-3', file: 'projects/proj-3.html'}
+- {name: 'pnbmmr', folder: 'proj-4', file: 'projects/proj-4.html'}
+- {name: 'krps75', folder: 'proj-5', file: 'projects/proj-5.html'}
 
 #-------------------------------
 # Contact Section
@@ -68,7 +68,7 @@ social:
 - {icon: 'twitter', link: '#'}
 - {icon: 'instagram', link: '#'}
 - {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+- {icon: 'linkedin', link: 'www.linkedin.com/in/leongregori'}
+- {icon: 'envelope', link: 'mailto:gluehbirnenkopf@leongregori.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
