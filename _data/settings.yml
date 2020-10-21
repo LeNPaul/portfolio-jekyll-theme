@@ -68,7 +68,7 @@ projects:
 social:
 - {icon: 'twitter', link: '#'}
 - {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
+- {icon: 'github', link: '#https://github.com/gluehbirnenkopf'}
 - {icon: 'linkedin', link: '#https://linkedin.com/in/leongregori'}
 - {icon: 'envelope', link: 'mailto:gluehbirnenkopf@leongregori.com'}
 
