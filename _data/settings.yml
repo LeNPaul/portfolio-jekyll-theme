@@ -5,7 +5,7 @@ menu:
 - {name: 'Projects', url: ''}
 # - {name: 'Blog', url: 'pages/blog.html'}
 - {name: 'About', url: 'pages/about.html'}
-- {name: 'Contact', url: 'pages/contact.html'}
+# - {name: 'Contact', url: 'pages/contact.html'}
 
 #-------------------------------
 # SEO Section
@@ -44,12 +44,12 @@ google-analytics-ua: ''
 about: >
   # Ben Zobrist
 
-  I'm a college student at Brigham Young University in Provo, UT. I started my Computer Science degree in the Fall of 2019, but I've been coding since I was I was 10. When I'm not working on a side project, I also play Ultimate Frisbee and drink chocolate milk.
+  Ben is a full time student at Brigham Young University pursuing his Bachelor in Computer Science. He loves solving puzzles and writing code. He plans to become a full time developer after graduation. <br><br>When he's not with a computer, Ben loves playing his friends in chess, building LEGOs, and Ultimate Frisbee.
 
-contact: >
-  # Contact
+# contact: >
+#   # Contact
 
-  Feel free to connect [through email](mailto:ben@zobie.com) or on [Twitter](https://twitter.com/intent/tweet?text=@zobiejrz). I generally get back to people the same day.
+  # Feel free to connect [on LinkedIn](https://linkedin.com/in/ben-zobrist), [through email](mailto:ben@zobie.com), or on [Twitter](https://twitter.com/intent/tweet?text=@zobiejrz). I generally get back to people the same day.
 
 #-------------------------------
 # Privacy Policy
@@ -77,9 +77,9 @@ privacy: >
 # Work Section
 
 projects:
-- {name: 'random_song_exe', folder: 'proj-1', file: 'projects/proj-1.html'}
+- {name: 'SafeDeath', folder: 'proj-3', file: 'projects/proj-3.html'}
 - {name: 'Minesweeper', folder: 'proj-2', file: 'projects/proj-2.html'}
-- {name: 'Color Picker', folder: 'proj-3', file: 'projects/proj-3.html'}
+- {name: 'random_song_exe', folder: 'proj-1', file: 'projects/proj-1.html'}
 - {name: 'ping-pong', folder: 'proj-4', file: 'projects/proj-4.html'}
 - {name: 'Cooley', folder: 'proj-5', file: 'projects/proj-5.html'}
 

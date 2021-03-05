@@ -1,16 +1,16 @@
 ---
 layout: post
-title: 'Color Picker'
+title: 'SafeDeath'
 ---
 
-A simple app to pick out colors using RGB values.
+My first attempt at a Minecraft server plug-in.
 
-This app is **not** super complex, or even that great, but it was my first attempt at SwiftUI
-without any real training. It is the result of many hours on Stack Overflow, and it is unique
-in that I even fully assembled the images it needed to be put on the App Store. Obviously it
-didn't make it through the review process, but it was nonetheless an exciting project for me
-at the time, and all around a great learning experience.
+This project was a pretty simple Java project, but ended up being loads of fun to write. After dying *many* times
+far from my bed on my friends server, I decided the only rational thing (after rage quitting of course)
+was to code my own plug-in to put player items into a chest on their death so nothing gets lost!
 
-Now it lives in this Github Repository [here](https://github.com/zobiejrz/color).
+It has some good configuration support so the server admins get to customize some things on their end.
 
-{% include plain-img.html image="projects/proj-3/App.jpg" %}
+It wasn't really meant to be for the public at large, so I keep it [here](https://github.com/zobiejrz/SafeDeathPlugin).
+
+{% include plain-img.html image="projects/proj-3/chest.jpg" %}
