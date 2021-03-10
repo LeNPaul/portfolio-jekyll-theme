@@ -3,7 +3,7 @@ layout: post
 title: "Getting Started"
 ---
 
-This is a portfolio Jekyll theme built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P).
+This is a portfolio Jekyll theme built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). For a guide on how to start a blog or personal website using Jekyll and GitHub Pages, please check out [this article](https://hungryminds.ca/how-to-start-a-blog-or-personal-website-using-jekyll-and-github-pages/).
 
 #### Quick-Start Guide
 
