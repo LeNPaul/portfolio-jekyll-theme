@@ -1,10 +1,6 @@
 ---
 ---
 
-@import '1-tools/-tools-dir'
-
-$projects: {% for project in site.data.settings.projects %} "{{ project.folder }}", {% endfor %}
-
 //------------------------------------------------
 // Set some colors as sass variables
 
@@ -18,5 +14,6 @@ $headlineColor: #333
 $bgcolor: #e5eaee
 $documentBackgroundColor: #fff
 
+@import '1-tools/-tools-dir'
 @import '2-base/-base-dir'
 @import '3-sections/-sections-dir'
