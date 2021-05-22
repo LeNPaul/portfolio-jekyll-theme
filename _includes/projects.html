@@ -1,9 +1,9 @@
 <section>
-  <div class="thumb-container">
+  <div class="project-container">
     {% for project in site.data.settings.projects %}
       <a href="{{ site.github.url }}/projects/{{ project.url }}">
-        <div class="thumb-unit" data-folder="{{ site.github.url }}/projects/{{ project.url }}" style="background-image: url({{ site.github.url }}/assets/img/projects/{{ project.url }}/thumb.jpg)">
-          <div class="thumb-overlay">
+        <div class="project-unit" data-folder="{{ site.github.url }}/projects/{{ project.url }}" style="background-image: url({{ site.github.url }}/assets/img/projects/{{ project.url }}/thumb.jpg)">
+          <div class="project-overlay">
             <strong>{{ project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></strong>
           </div>
         </div>
