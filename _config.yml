@@ -6,6 +6,8 @@ plugins:             [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
 
 port: 4000
 
+permalink: /:title
+
 sass:
   sass_dir: assets/css
   style: :nested
