@@ -1,9 +1,9 @@
-.thumb-container
+.project-container
   max-width: 750px
   margin: 0px auto 0px
   padding: 30px
   +clearfix
-  .thumb-unit
+  .project-unit
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23)
     cursor: pointer
     display: block
@@ -16,7 +16,7 @@
       position: center center
       repeat: no-repeat
       size: cover
-    .thumb-overlay
+    .project-overlay
       +position(absolute, 100% 0px null 0px)
       height: 100%
       background: fade-out(#333, 0.5)
@@ -33,12 +33,12 @@
         font:
           size: 24px
           weight: 300
-    &:hover .thumb-overlay
+    &:hover .project-overlay
       +position(absolute, 0px 0px null 0px)
 
 @media (max-width: 768px)
-  .thumb-container
+  .project-container
     max-width: 80vw
-    .thumb-unit
+    .project-unit
       width: 80vw
       height: 40vw
