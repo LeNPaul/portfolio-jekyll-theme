@@ -4,6 +4,11 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# Tundra Toucan
+I never dreamed of becoming a metal designer and illustrator. I only got into it after being snubbed by a local band from the Netherlands who felt my work was not symmetrical enough to be labeled "trve." 
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+Over the years, I've had the honor and pleasure to work with many talented bands and musicians from all over the world, including, amongst others, [Dauthuz](https://www.facebook.com/dauthuzdeathmetal/about/), [Funeral Void](https://fvneralvoid.bandcamp.com/), [Ghostheart Nebula](https://ghostheartnebula.bandcamp.com/), [Intero](https://intero.bandcamp.com/), [Psalmtanic](https://psalmtanic.bandcamp.com/), and [Toxocara](https://toxocara.bandcamp.com/).
+
+If I'm not working on a commission, then I'm working on my own science fiction comic book.  
+
+Thanks for showing interest in me and my work. 
