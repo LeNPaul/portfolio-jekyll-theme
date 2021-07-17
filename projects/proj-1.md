@@ -1,9 +1,11 @@
 ---
 layout: post
-title: 'Tragic Serenades'
+title: 'Cartoons and Character Designs'
 ---
-I did this logo for a newly-formed gothrock band, featuring some of Norway's best metal talent -- Ørjan "V'Gandr" Nordvik (Helheim, ex-Aeternus), Frode Gaustad (Dominanz, ex-Thy Grief), and Therese "Theto" Tofting (Fairy, Funeral Void). 
+When I'm not working on a commission, I'm usually crafting plots and designing characters and personalities.
 
-One night the band showed me a napkin sketch and asked it to turn it into a fully designed logo. Once I got back home I did some preliminary sketching in Clip Studio Paint, and then I modelled a "prototype" in Blender. The band wasn't too sure what to make of it. So I went back to drawing by hand, keeping things flat and plain, and the result was what you see here. 
+![Mare's Nest](..\assets\img\projects\proj-1\Mare.jpg)
 
-{% include image.html url="https://www.behance.net/gallery/113656197/Various-Logos-%28202021%29" image="projects/proj-1/Tragic Serenades.jpg"%}
+![Mario's Souls](..\assets\img\projects\proj-1\Mario.jpg)
+
+
