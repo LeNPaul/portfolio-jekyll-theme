@@ -12,7 +12,7 @@ Now, years later, I've had the honor and pleasure to work with many talented ban
 If I'm not working on a commission, then I'm working on my own science fiction comic book.  
 
 # My Process
-Here's how I typically work. First, I ask you what kind of design, whether a logo or T-shirt art, you in mind. Then I'll do some sketches and send them your way, and you can choose which design you favor. 
+Here's how I typically work. First, I ask you what kind of design, whether a logo or T-shirt art, you have in mind. Then I'll do some sketches and send them your way, and you can choose which design you favor. 
 
 If you go over to my [Behance](https://www.behance.net/tundratoucan) profile, you can find some step-by-step demonstrations from early sketches to finished works, which will give you an idea of my design process in action.
 
