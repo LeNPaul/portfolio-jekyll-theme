@@ -6,7 +6,7 @@ title: 'Illustrations'
 T-shirt design for Intero. 
 ![Intero](..\assets\img\projects\proj-2\Intero2.jpg)
 
-It was also used as cover art for their single, Social Leeches
+It was also used as cover art for their single, Social Leeches.
 <iframe width="600" height="355" src="https://www.youtube.com/embed/pEYqA262rrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Album cover design for Dauthuz' *Destined for Death*.
