@@ -9,15 +9,10 @@ Some logos I did for some bands.
 
 ![Funeral Void](..\assets\img\projects\proj-3\FuneralVoid.jpg)
 
-![Funeral Void](/assets/img/projects/proj-3/FuneralVoid.jpg)
+![Tragic Serenades](..\assets\img\projects\proj-3\TragicSerenades.jpg)
 
-![Funeral Void](\assets\img\projects\proj-3\FuneralVoid.jpg)
+![Wolf's Command](..\assets\img\projects\proj-3\WolfsCommand.jpg)
 
-{% include image.html url="" image="projects/proj-3/TragicSerenades.jpg"%}
+![Wraakzucht](..\assets\img\projects\proj-3\Wraakzucht.jpg)
 
-{% include image.html url="" image="projects/proj-3/WolfsCommand.jpg"%}
-
-{% include image.html url="" image="projects/proj-3/Wraakzucht.jpg"%}
-
-{% include image.html url="" image="projects/proj-3/GhostheartNebula.jpg"%}
-
+![Ghostheart Nebula](..\assets\img\projects\proj-3\GhostheartNebula.jpg)
