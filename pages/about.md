@@ -5,6 +5,8 @@ permalink: /about
 ---
 
 # About Me
+My name is Gerrit Rijken. I'm originally from the Netherlands but now living the dream in Bergen, Norway, the cradle of black metal.
+
 After graduation from high school, I entered the Erasmus University Rotterdam to study history. I got my bachelor's and then did some teaching. I learned early on that it wasn't my vocation to deal with young people and youth. So I quit and decided to try to make it as an illustrator. 
 
 Now, years later, I've had the honor and pleasure to work with many talented bands and musicians from all over the world, including, amongst others, [Dauthuz](https://www.facebook.com/dauthuzdeathmetal/about/), [Funeral Void](https://fvneralvoid.bandcamp.com/), [Ghostheart Nebula](https://ghostheartnebula.bandcamp.com/), [Intero](https://intero.bandcamp.com/), [Psalmtanic](https://psalmtanic.bandcamp.com/), and [Toxocara](https://toxocara.bandcamp.com/).
@@ -18,5 +20,5 @@ If you go over to my [Behance](https://www.behance.net/tundratoucan) profile, yo
 
 As payment for my services I ask a flat fee of 2000 NOK/200 EUR/200 USD that is somewhat flexible (depending on the scope and complexity of requirements), with 50% of the amount paid upfront **before start of the project** (unless we're friends). 
 
-# Closing Words
-Thanks for showing interest in me and my work.
+# Get in Touch!
+If you're interested in a collaboration or commission, please [get in touch](../contact)!
