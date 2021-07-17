@@ -15,4 +15,4 @@ If you go to my [Behance](https://www.behance.net/tundratoucan) profile, you can
 If I'm not working on a commission, then I'm working on my own science fiction comic book.  
 
 # Closing words
-Thanks for showing interest in me and my work. 
+Thanks for showing interest in me and my work.
