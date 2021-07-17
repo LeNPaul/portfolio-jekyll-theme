@@ -21,4 +21,4 @@ If you go over to my [Behance](https://www.behance.net/tundratoucan) profile, yo
 As payment for my services I ask a flat fee of 2000 NOK/200 EUR/200 USD that is somewhat flexible (depending on the scope and complexity of requirements), with 50% of the amount paid upfront **before start of the project** (unless we're friends). 
 
 # Get in Touch!
-If you're interested in a collaboration or commission, please [get in touch](../contact)!
+If you're interested in a collaboration or commission, or would just like to talk art and logo, [get in touch](../contact)!
