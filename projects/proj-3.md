@@ -18,6 +18,12 @@ Unless stated different, these logos were done digitally by hand, using *Clip St
 
 ![Ghostheart Nebula](..\assets\img\projects\proj-3\GhostheartNebula.jpg)
 
+![Illegible Semantics](..\assets\img\projects\proj-3\Illegible.jpg)
+
+![Visceral Encoding](..\assets\img\projects\proj-3\Visceral.jpg)
+
+![Tundra Toucan](..\assets\img\projects\proj-3\Toucan.jpg)
+
 In order of appearance:
 - Okkultation
 - Funeral Void @[Bandcamp](https://fvneralvoid.bandcamp.com/)
@@ -25,3 +31,16 @@ In order of appearance:
 - Wolf's Command
 - Wraakzucht 333
 - Ghostheart Nebula @[Bandcamp](https://ghostheartnebula.bandcamp.com/)
+- Illegible Semantics<sup>1</sup>
+- Visceral Encoding<sup>1</sup>
+- Tundra Toucan<sup>2</sup>
+
+
+
+###### [1] These two were made for a paper that will be submitted to a conference for publication.
+###### [2] This one I made for myself.
+
+<!-- [^1]
+
+[^1]: These two were made for a paper that will be submitted to a conference for publication.
+[^2]: This one I made for myself. -->
