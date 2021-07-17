@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Various Logos'
+title: 'Logos'
 ---
 
 
