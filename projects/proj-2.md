@@ -6,7 +6,7 @@ title: 'Illustrations'
 T-shirt design for Intero. It was also used as cover art for their single, [Social Leeches](https://www.youtube.com/watch?v=pEYqA262rrE/).
 ![Intero](..\assets\img\projects\proj-2\Intero2.jpg)
 
-Album cover design for Dauthuz's *Destined for Death*.
+Album cover design for Dauthuz' *Destined for Death*.
 ![Dauthuz](..\assets\img\projects\proj-2\Dauthuz2.jpg)
 
 Album cover design for Psalmtanic's *Psalmtanic Verses*.
