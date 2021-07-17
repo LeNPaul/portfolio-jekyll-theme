@@ -4,7 +4,7 @@ title: 'Various Logos'
 ---
 
 
-Unless stated different, these logos were done digitally by hand, using *Clip Studio Paint*.
+Unless stated different, these logos were done digitally by hand, using *Clip Studio Paint*. (How many are you able to read? Find the answers below.)
 
 ![Okkultation](..\assets\img\projects\proj-3\Okkultation.jpg)
 
@@ -18,7 +18,7 @@ Unless stated different, these logos were done digitally by hand, using *Clip St
 
 ![Ghostheart Nebula](..\assets\img\projects\proj-3\GhostheartNebula.jpg)
 
-
+In order of appearance:
 - Okkultation
 - Funeral Void, [Bandcamp](https://fvneralvoid.bandcamp.com/)
 - Tragic Serenades
