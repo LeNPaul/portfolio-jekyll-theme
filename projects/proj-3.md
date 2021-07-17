@@ -37,8 +37,8 @@ In order of appearance:
 
 
 
-###### [1] These two were made for a paper that will be submitted to a conference for publication.
-###### [2] This one I made for myself.
+##### [1] These two were made for a paper that will be submitted to a conference for publication.
+##### [2] This one I made for myself.
 
 <!-- [^1]
 
