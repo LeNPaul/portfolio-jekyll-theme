@@ -1,24 +1,13 @@
 ---
 layout: post
-title: "More Jekyll Themes!"
+title: "This is my first blog entry!"
 ---
 
-#### Lagrange
+#### Github, huh?
+In the past few months I have been stealthily working on my drawing craft. I did some logos for some bands that I'm not at liberty to show just yet. I also did some writing and sketching, working on my stuff. All in all I had precious little to blog about. 
 
-Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog.
+But in the past few weeks I've been working on a science paper, together with a crack team of computer scientists from around the world (including four professors, one of whom is my wife, and two PhDs). Unfortunately, I can't divulge too much about it because it may well set the research agenda for years to come! Actually it's more that some (most?) of the things my paper collaborators talkg about go over my head. I'm still waiting for the simplified, layman version, which should arrive soon, in a month, maybe two ...
 
-Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/getting-started.html">how to use install</a> and use the theme.
+At any rate, my wife feels it may boost my work and build my reputation. As a consequence, she's been pushing to me to put some of my work out (t)here.
 
-#### Millennial
-
-Millennial is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for a publication or blog.
-
-Feel free to check out <a href="https://lenpaul.github.io/Millennial/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Millennial/documentation/getting-started.html">how to use install</a> and use the theme.
-
-#### Jekyll Starter Kit
-
-The Jekyll Starter Kit is a simple framework for starting your own Jekyll project using all of the best practices that I learned from building my other Jekyll themes.
-
-Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
-
-YYYY-MM-DD-name-of-post.md
+Well, I guess it was about damn time. 
