@@ -13,7 +13,7 @@ menu:
 projects:
 - {name: 'Tragic Serenades',   url: 'proj-1'}
 - {name: 'Okkultation',   url: 'proj-2'}
-#- {name: 'Project Three', url: 'proj-3'}
+- {name: 'Various Logos', url: 'proj-3'}
 #- {name: 'Project Four',  url: 'proj-4'}
 #- {name: 'Project Five',  url: 'proj-5'}
 
