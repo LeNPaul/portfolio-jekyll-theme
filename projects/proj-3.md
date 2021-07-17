@@ -20,8 +20,8 @@ Unless stated different, these logos were done digitally by hand, using *Clip St
 
 In order of appearance:
 - Okkultation
-- Funeral Void, [Bandcamp](https://fvneralvoid.bandcamp.com/)
+- Funeral Void @[Bandcamp](https://fvneralvoid.bandcamp.com/)
 - Tragic Serenades
 - Wolf's Command
 - Wraakzucht 333
-- Ghostheart Nebula, [Bandcamp](https://ghostheartnebula.bandcamp.com/)
+- Ghostheart Nebula @[Bandcamp](https://ghostheartnebula.bandcamp.com/)
