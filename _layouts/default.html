@@ -21,18 +21,6 @@
     <meta property="og:image:width" content="600" />
     <meta property="og:image:height" content="400" />
 
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-X76L1RJMEX"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-X76L1RJMEX');
-</script>
-
-
     <title>
       {% if page.title == "Home" %}
         {{ site.title }}
@@ -49,9 +37,13 @@
     <script type="text/javascript" async
       src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
     </script>
-    {% include analytics.html %}
-    <!-- Use Jekyll SEO plugin -->
+    <!-- Use Jekyll SEO plugin -->   
     {% seo %}
+// _layouts/default.html
+...
+  {% if jekyll.environment == 'production' %}
+  {% include analytics.html %}  
+  {% endif %}
   </head>
   <body>
     <div class="site-container">
