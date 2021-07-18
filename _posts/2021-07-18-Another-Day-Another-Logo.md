@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Take me away"
+title: "Another Day, Another Logo"
 ---
 One day has passed since I launched my new website and already I got a new commission! I get to do a black metal logo for some known figures in the Bergen metal scene. 
 
