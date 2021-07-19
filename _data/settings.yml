@@ -52,7 +52,7 @@ seo:
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-analytics-ua: 'G-PRZJ6V9HKE'
+google-analytics-ua: 'UA-202534054-2'
 
 #-------------------------------
 # Disqus Section
