@@ -24,6 +24,8 @@ Unless stated different, these logos were done digitally by hand, using *Clip St
 
 ![Tundra Toucan](..\assets\img\projects\proj-3\Toucan.jpg)
 
+![Obeah](..\assets\img\projects\proj-3\Obeah.jpg)
+
 In order of appearance:
 - Okkultation
 - Funeral Void @[Bandcamp](https://fvneralvoid.bandcamp.com/)
@@ -34,11 +36,11 @@ In order of appearance:
 - Illegible Semantics<sup>1</sup>
 - Visceral Encoding<sup>1</sup>
 - Tundra Toucan<sup>2</sup>
-
-
+- Obeah<sup>3</sup> 
 
 ##### [1] These two were made for a paper that will be submitted to a conference for publication.
 ##### [2] This one I made for myself.
+##### [3] A conceptual redesign of friend's band logo.
 
 <!-- [^1]
 
