@@ -2,7 +2,7 @@
 layout: post
 title: "Now Playing ..."
 ---
-This weekend, I was drinking with the guys from Pandemonial, and at one point, one of them said to the other something along the lines of, "You should send Gerrit some music." The answer came swiftly: "No. Not before it's mastered." "But it may serve as the inspiration for the logo." Little did he know that I usually always go about my work without listening to a band's music. 
+This weekend, I was drinking with the guys from **Pandemonial**, and at one point, one of them said to the other something along the lines of, "You should send Gerrit some music." The answer came swiftly: "No. Not before it's mastered." "But it may serve as the inspiration for the logo." Little did he know that I usually always go about my work without listening to a band's music. 
 
 In part this is because I'm, well -- usually always the last to hear the music, sometimes for no other reason than that I often start working on a band's logo even before the band has started recording. But it's also because I'm not always in the mood for Black or Death Metal or whatever. In fact, recently I developed a taste for more subdued Doom Metal and yes, even a bit more poppy music. 
 
