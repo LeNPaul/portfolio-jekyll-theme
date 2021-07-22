@@ -4,7 +4,8 @@
 menu:
 - {name: 'Portfolio', url: ''}
 - {name: 'Blog',     url: 'blog'}
-- {name: 'About',    url: 'about'}
+#- {name: 'About',    url: 'about'}
+- {name: 'Work With Me',  url: 'work'}
 - {name: 'Contact',  url: 'contact'}
 
 #-------------------------------
@@ -19,9 +20,7 @@ projects:
 
 #-------------------------------
 # Contact Section
-
 social:
-
 - {icon: 'instagram', link: 'https://instagram.com/tundratoucan'}
 - {icon: 'behance', link: 'https://behance.net/tundratoucan'}
 # - {icon: 'github',    link: 'https://github.com/lenpaul'}
@@ -30,7 +29,6 @@ social:
 - {icon: 'twitter',   link: 'https://twitter.com/tundratoucan'}
 - {icon: 'envelope',  link: 'mailto:gerrit.rijken@gmail.com'}
  
-
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
 #-------------------------------
