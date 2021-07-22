@@ -4,9 +4,9 @@
 menu:
 - {name: 'Portfolio', url: ''}
 - {name: 'Blog',     url: 'blog'}
-#- {name: 'About',    url: 'about'}
+- {name: 'About',    url: 'about'}
 - {name: 'Work With Me',  url: 'work'}
-- {name: 'Contact',  url: 'contact'}
+#- {name: 'Contact',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
