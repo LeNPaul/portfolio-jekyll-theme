@@ -5,7 +5,7 @@ permalink: /work
 ---
 
 # What's Up?
-Looking for a new logo for your Black Metal band? Or are you shopping for T-shirt art to promote your Death Metal band? Great! I can you with that.
+Looking for a new logo for your Black Metal band? Or are you shopping for T-shirt art to promote your Death Metal band? Great! I can help you with that.
 
 
 # My Process
