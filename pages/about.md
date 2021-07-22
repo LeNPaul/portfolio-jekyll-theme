@@ -4,15 +4,13 @@ title: About
 permalink: /about
 ---
 
-# About Me
+# Is It a Bird?
 
 <!-- <div class="pull-left"><img src="..\assets\img\members\Gerrit.jpg"/></div> 
 <img style="float: left;" src="..\assets\img\members\Gerrit.jpg"/> -->
 
 <div style="float:left;margin:0 5px 5px 0" markdown="1"><img src="..\assets\img\members\Gerrit.jpg"/>
 </div>
-
-
 My name is Gerrit Rijken. I'm originally from a small city in the Netherlands but now living the dream in Bergen, Norway, "the cradle of Black Metal."
 
 After graduation from high school, I entered the Erasmus University Rotterdam to study history. I got my bachelor's and then did some teaching. Within a few months, I learned that it wasn't my vocation to deal with young people and youth. So I quit and decided to try to make it as an illustrator. 
