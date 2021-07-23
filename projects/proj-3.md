@@ -3,7 +3,6 @@ layout: post
 title: 'Logos'
 ---
 
-
 Unless stated different, these logos were done digitally by hand, using *Clip Studio Paint*. (How many are you able to read? Find the answers below.)
 
 ![Okkultation](..\assets\img\projects\proj-3\Okkultation.jpg)
@@ -27,6 +26,8 @@ Unless stated different, these logos were done digitally by hand, using *Clip St
 ![Tundra Toucan](..\assets\img\projects\proj-3\Toucan.jpg)
 
 ![Obeah](..\assets\img\projects\proj-3\Obeah.jpg)
+
+---
 
 In order of appearance:
 - Okkultation
