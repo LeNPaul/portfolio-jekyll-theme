@@ -16,4 +16,4 @@ As I was thinking of a title for this blog entry, <a href="https://www.youtube.c
 
 ---
 
-![Post-Metal](..\assets\img\blog\post.jpg)
+![Post-Metal](..\assets\img\blog\post2.jpg)
