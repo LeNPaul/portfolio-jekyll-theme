@@ -5,6 +5,8 @@ title: 'Logos'
 
 Unless stated different, these logos were done digitally by hand, using *Clip Studio Paint*. (How many are you able to read? Find the answers below.)
 
+![Okkultation](..\assets\img\projects\proj-3\pandemonial.jpg)
+
 ![Okkultation](..\assets\img\projects\proj-3\Okkultation.jpg)
 
 ![Funeral Void](..\assets\img\projects\proj-3\FuneralVoid.jpg)
@@ -30,6 +32,7 @@ Unless stated different, these logos were done digitally by hand, using *Clip St
 ---
 
 In order of appearance:
+- Pandemonial
 - Okkultation
 - Funeral Void @[Bandcamp](https://fvneralvoid.bandcamp.com/)
 - Tragic Serenades
