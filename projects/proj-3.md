@@ -5,7 +5,7 @@ title: 'Logos'
 
 Unless stated different, these logos were done digitally by hand, using *Clip Studio Paint*. (How many are you able to read? Find the answers below.)
 
-![Pandemonial](..\assets\img\projects\proj-3\pandemonial2.jpg)
+![Pandemonial](..\assets\img\projects\proj-3\panred.jpg)
 
 ![Okkultation](..\assets\img\projects\proj-3\Okkultation.jpg)
 
