@@ -5,6 +5,19 @@ title: 'Logos'
 
 Unless stated different, these logos were done digitally by hand, using *Clip Studio Paint*. (How many are you able to read? Find the answers below.)
 
+<!--
+
+
+
+
+![Vathr](..\assets\img\projects\proj-3\vathr.jpg)
+
+![Vathr](..\assets\img\projects\proj-3\vathrwingless.jpg)
+
+![Vinterbris](..\assets\img\projects\proj-3\vinterbris.png)
+
+-->
+
 ![Pandemonial](..\assets\img\projects\proj-3\pangray.jpg)
 
 ![Okkultation](..\assets\img\projects\proj-3\Okkultation.jpg)
@@ -25,7 +38,7 @@ Unless stated different, these logos were done digitally by hand, using *Clip St
 
 ![Visceral Encoding](..\assets\img\projects\proj-3\Visceral.jpg)
 
-![Tundra Toucan](..\assets\img\projects\proj-3\Toucan.jpg)
+![Tundra Toucan](..\assets\img\projects\proj-3\toucan2.png)
 
 ![Obeah](..\assets\img\projects\proj-3\Obeah.jpg)
 
