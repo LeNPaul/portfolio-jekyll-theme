@@ -14,6 +14,7 @@ menu:
 projects:
 - {name: 'See More',   url: 'proj-2'}
 - {name: 'See More', url: 'proj-3'}
+- {name: 'See More', url: 'proj-8'}
 #- {name: 'Cartoons and Character Designs',   url: 'proj-1'}
 #- {name: 'Project Four',  url: 'proj-4'}
 #- {name: 'Project Five',  url: 'proj-5'}
