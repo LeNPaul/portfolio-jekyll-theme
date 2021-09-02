@@ -18,13 +18,13 @@ Unless stated different, these logos were done digitally by hand, using *Clip St
 
 -->
 
-![Pandemonial](..\assets\img\projects\proj-3\pangray.jpg)
+[<img src="..\assets\img\projects\proj-3\pangray.jpg" alt="Pandemonial">](/PANDEMONIAL/)
 
-![Okkultation](..\assets\img\projects\proj-3\Okkultation.jpg)
+[<img src="..\assets\img\projects\proj-3\Okkultation.jpg" alt="Okkultation">](/OKKULTATION/)
 
-![Funeral Void](..\assets\img\projects\proj-3\FuneralVoid.jpg)
+[<img src="..\assets\img\projects\proj-3\FuneralVoid.jpg" alt="Funeral Void">](/FUNERALVOID/)
 
-![Tragic Serenades](..\assets\img\projects\proj-3\TragicSerenades.jpg)
+[<img src="..\assets\img\projects\proj-3\TragicSerenades.jpg" alt="Tragic Serenades">](/TRAGICSERENADES/)
 
 ![Wolf's Command](..\assets\img\projects\proj-3\WolfsCommand.jpg)
 
