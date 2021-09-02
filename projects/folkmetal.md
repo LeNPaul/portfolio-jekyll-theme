@@ -48,3 +48,5 @@ Some Folk bands take things to the next level by incorporating **viking helmets*
 ##### Related genre(s):
 [<img src="..\assets\img\projects\proj-9\pagan.jpg" alt="Pagan Black Metal" width=200 >](/PAGANBLACK/)
 [<img src="..\assets\img\projects\proj-9\pirate.jpg" alt="Pirate Metal" width=200 >](/PIRATEMETAL/)
+
+Take me back to the [sample overview](../projects/proj-8).

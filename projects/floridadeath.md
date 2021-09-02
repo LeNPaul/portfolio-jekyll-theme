@@ -45,3 +45,5 @@ In terms of logo design, it's hard to pinpoint specific characteristics. Perhaps
 ##### Some Death Metal (sub)genres to check out:
 [<img src="..\assets\img\projects\proj-9\brutal.jpg" alt="Brutal Death Metal" width=200 >](/BRUTALDEATH/)
 [<img src="..\assets\img\projects\proj-9\usthrash.jpg" alt="US Thrash Metal" width=200 >](/USTHRASH/)
+
+Take me back to the [sample overview](../projects/proj-8).

@@ -40,3 +40,5 @@ It is worthwhile pointing out here that you can often place a band in this genre
 ##### Some (sub)genres to check out:
 [<img src="..\assets\img\projects\proj-9\tech00.jpg" alt="Post-2000s Technical Death Metal" width=200 >](/TECHDEATH00S/)
 [<img src="..\assets\img\projects\proj-9\tech901.jpg" alt="Black Metal" width=200 >](/TEACHDEATH90S/)
+
+Take me back to the [sample overview](../projects/proj-8).

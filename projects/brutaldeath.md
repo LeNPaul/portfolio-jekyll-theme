@@ -45,3 +45,5 @@ Brutal Death Metal emerged most notably from the 1980s New York Hardcore movemen
 [<img src="..\assets\img\projects\proj-9\florida.jpg" alt="Florida Death Metal" width=200 >](/FLORIDADEATH/)
 [<img src="..\assets\img\projects\proj-9\tech901.jpg" alt="Technical Death Metal" width=200 >](/TECHDEATH90S)
 [<img src="..\assets\img\projects\proj-9\tech00.jpg" alt="Technical Death Metal" width=200 >](/TECHDEATH00S/)
+
+Take me back to the [sample overview](../projects/proj-8).

@@ -119,3 +119,5 @@ Today, Black Metal is an international phenomenon, and there are many Black Meta
 [<img src="..\assets\img\projects\proj-9\postblack.jpg" alt="Pagan Black Metal" width=200 >](/POSTBLACK/)
 [<img src="..\assets\img\projects\proj-9\war.jpg" alt="War Metal" width=200 >](/WARMETAL/)
 [<img src="..\assets\img\projects\proj-9\unblack.jpg" alt="War Metal" width=200 >](/UNBLACK/)
+
+Take me back to the [sample overview](../projects/proj-8).

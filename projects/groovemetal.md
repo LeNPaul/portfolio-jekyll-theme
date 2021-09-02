@@ -40,3 +40,5 @@ Because Groove Metal is a softened-up version of Thrash, it's only obvious that 
 ##### Related genre(s):
 [<img src="..\assets\img\projects\proj-9\nu.jpg" alt="Faux Metal" width=200 >](/NUMETAL/)
 [<img src="..\assets\img\projects\proj-9\usthrash.jpg" alt="US Thrash Metal" width=200 >](/USTHRASH/)
+
+Take me back to the [sample overview](../projects/proj-8).

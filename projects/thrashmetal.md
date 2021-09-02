@@ -49,3 +49,5 @@ Of course, Thrash Metal has its own aesthetics, too. Generally speaking, Thrash 
 [<img src="..\assets\img\projects\proj-9\groove.jpg" alt="Groove Metal" width=200 >](/GROOVEMETAL/)
 [<img src="..\assets\img\projects\proj-9\teutonic.jpg" alt="Teutonic Thrash Metal" width=200 >](/TEUTONICTHRASH/)
 [<img src="..\assets\img\projects\proj-9\usthrash.jpg" alt="US Thrash Metal" width=200 >](/USTHRASH/)
+
+Take me back to the [sample overview](../projects/proj-8).

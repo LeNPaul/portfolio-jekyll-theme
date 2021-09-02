@@ -44,3 +44,5 @@ But I'd say generally, as opposed to other the (sub)genres that we discuss in th
 [<img src="..\assets\img\projects\proj-9\nwobhm.jpg" alt="New Wave of British Heavy Metal" width=200 >](/NWOBHM/)
 [<img src="..\assets\img\projects\proj-9\power.jpg" alt="Power Metal" width=200 >](/POWER/)
 [<img src="..\assets\img\projects\proj-9\speed.jpg" alt="Speed Metal" width=200 >](/SPEED/)
+
+Take me back to the [sample overview](../projects/proj-8).

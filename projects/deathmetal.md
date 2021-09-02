@@ -42,3 +42,5 @@ And, contrary to Thrash Metal logos, Death Metal logos tend to have more **"soft
 [<img src="..\assets\img\projects\proj-9\melodic.jpg" alt="Melodic Death Metal" width=200 >](/MELODICDEATH/)
 [<img src="..\assets\img\projects\proj-9\tech901.jpg" alt="Technical Death Metal" width=200 >](/TECHDEATH90S)
 [<img src="..\assets\img\projects\proj-9\tech00.jpg" alt="Technical Death Metal" width=200 >](/TECHDEATH00S/)
+
+Take me back to the [sample overview](../projects/proj-8).

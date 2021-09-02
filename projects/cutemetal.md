@@ -32,3 +32,5 @@ Now, before you start jumping up and down, let me say this upfront: Cute Metal i
 </ul>
 </li>
 </ul>
+
+Take me back to the [sample overview](../projects/proj-8).

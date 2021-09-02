@@ -39,3 +39,5 @@ It's generally easy to recognize Symphonic Metal bands from others. Nine out of 
 ##### Related genre(s):
 [<img src="..\assets\img\projects\proj-9\gothic.jpg" alt="Gothic Metal" width=200 >](/GOTHICMETAL/)
 [<img src="..\assets\img\projects\proj-9\power.jpg" alt="Speed Metal" width=200 >](/POWERMETAL/)
+
+Take me back to the [sample overview](../projects/proj-8).

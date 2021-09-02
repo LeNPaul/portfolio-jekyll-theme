@@ -46,3 +46,5 @@ Here's another fun though not widely known fact for you: **Bestial Mockery**'s 2
 ##### Related genre(s):
 [<img src="..\assets\img\projects\proj-9\blackeneddeath.jpg" alt="Blackened Death Metal" width=200 >](/BLACKENEDDEATH/)
 [<img src="..\assets\img\projects\proj-9\black2.jpg" alt="Black Metal" width=200 >](/BLACKMETAL/)
+
+Take me back to the [sample overview](../projects/proj-8).

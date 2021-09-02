@@ -28,3 +28,5 @@ Their logo is a tongue-in-cheek riff on the **Emperor** logo, featuring **crosse
 ##### Related genre(s):
 [<img src="..\assets\img\projects\proj-9\black3.jpg" alt="Black Metal" width=200 >](/BLACKMETAL/)
 [<img src="..\assets\img\projects\proj-9\unblack.jpg" alt="Ecumenical Metal" width=200 >](/UNBLACK/)
+
+Take me back to the [sample overview](../projects/proj-8).

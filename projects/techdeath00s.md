@@ -69,3 +69,5 @@ It's fairly easy to recognize a post-2000s Technical Death band from a 1990s ban
 [<img src="..\assets\img\projects\proj-9\brutal.jpg" alt="Death Metal" width=200 >](/DEATHMETAL/)
 [<img src="..\assets\img\projects\proj-9\progressive.jpg" alt="Progressive Metal" width=200 >](/PROGRESSIVE/)
 [<img src="..\assets\img\projects\proj-9\tech901.jpg" alt="1990s Technical Death Metal" width=200 >](/TECHDEATH90S/)
+
+Take me back to the [sample overview](../projects/proj-8).

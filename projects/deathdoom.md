@@ -41,3 +41,4 @@ Typically, a Death-Doom logo is a **blackletter(-like) wordmark** surrounded wit
 [<img src="..\assets\img\projects\proj-9\funeral.jpg" alt="Doom Metal" width=200 >](/DOOMMETAL/)
 [<img src="..\assets\img\projects\proj-9\melodic.jpg" alt="Melodic Death Metal" width=200 >](/MELODICDEATH/)
 
+Take me back to the [sample overview](../projects/proj-8).

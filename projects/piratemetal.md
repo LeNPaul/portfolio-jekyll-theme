@@ -37,3 +37,5 @@ As you would expect, it's easy to do a Pirate Metal logo. Just do a **skull and 
 
 ##### Related genre(s)
 [<img src="..\assets\img\projects\proj-9\folk1.jpg" alt="Folk Metal" width=200 >](/FOLKMETAL/)
+
+Take me back to the [sample overview](../projects/proj-8).

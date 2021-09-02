@@ -35,3 +35,5 @@ As the name suggests, Industrial Metal fuses Heavy Metal and Industrial music, w
 
 ##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\nu.jpg" alt="Faux Metal" width=200 >](/NUMETAL/)
+
+Take me back to the [sample overview](../projects/proj-8).

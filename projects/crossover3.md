@@ -24,3 +24,4 @@ While "Blackened Death" may seem like a pleonasm, since black is associated with
 [<img src="..\assets\img\projects\proj-9\blackenedthrash.jpg" alt="Blackened Thrash Metal" width=200 >](/BLACKENEDTHRASH/)
 [<img src="..\assets\img\projects\proj-9\deathgrind1.jpg" alt="Deathgrind" width=200 >](/DEATHGRIND/)
 
+Take me back to the [sample overview](../projects/proj-8).

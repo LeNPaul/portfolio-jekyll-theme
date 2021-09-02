@@ -54,3 +54,4 @@ Blackened Thrash Metal is what you get when Black Metallers want to play somethi
 [<img src="..\assets\img\projects\proj-9\teutonic.jpg" alt="Teutonic Thrash Metal" width=200 >](/TEUTONICTHRASH)
 [<img src="..\assets\img\projects\proj-9\usthrash.jpg" alt="US Thrash Metal" width=200 >](/USTHRASH/)
 
+Take me back to the [sample overview](../projects/proj-8).

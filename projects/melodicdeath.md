@@ -47,3 +47,5 @@ Looking at the history of some of these bands, it kinda makes perfect sense. Tak
 #### Related genre(s):
 [<img src="..\assets\img\projects\proj-9\deathdoom.jpg" alt="Death-Doom" width=200 >](/DEATHDOOM/)
 [<img src="..\assets\img\projects\proj-9\brutal.jpg" alt="Death Metal" width=200 >](/DEATHMETAL/)
+
+Take me back to the [sample overview](../projects/proj-8).

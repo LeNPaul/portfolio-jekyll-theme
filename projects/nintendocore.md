@@ -42,3 +42,5 @@ It's quite simple, really. Just download a free font like <a href="https://www.f
 
 ##### Related genre(s):
 [<img src="..\assets\img\projects\proj-9\metalcore.jpg" alt="Metalcore" width=200 >](/METALCORE/)
+
+Take me back to the [sample overview](../projects/proj-8).

@@ -42,3 +42,5 @@ Here, I purposely decided to do a logo in the vein of those of **Iron Maiden** a
 ##### Related genre(s):
 [<img src="..\assets\img\projects\proj-9\heavy.jpg" alt="Heavy Metal" width=200 >](/HEAVYMETAL/)
 [<img src="..\assets\img\projects\proj-9\speed.jpg" alt="Speed Metal" width=200 >](/SPEEDMETAL/)
+
+Take me back to the [sample overview](../projects/proj-8).

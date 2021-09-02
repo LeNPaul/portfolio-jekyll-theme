@@ -63,3 +63,5 @@ Funeral Doom is characterized by its sloooooow tempos -- slow even for Doom stan
 </ul>
 </li>
 </ul>
+
+Take me back to the [sample overview](../projects/proj-8).
