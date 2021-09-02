@@ -2,6 +2,18 @@
 layout: post
 title: 'Illustrations'
 ---
+
+These illustrations were all done in **Clip Studio Paint**
+
+[<img src="..\assets\img\projects\proj-2\Intero2.jpg" alt="Intero" width=500 >](/INTERO/)
+[<img src="..\assets\img\projects\proj-2\Psalmtanic.jpg" alt="Psalmtanic" width=500 >](/PSALMTANIC/)
+[<img src="..\assets\img\projects\proj-2\Dauthuz2.jpg" alt="Dauthuz" width=500 >](/DAUTHUZ/)
+
+
+
+
+
+<!--
 T-shirt design for [Intero](https://intero.bandcamp.com/). 
 ![Intero](..\assets\img\projects\proj-2\Intero2.jpg)
 
@@ -11,15 +23,20 @@ It was also used as cover art for their single, Social Leeches.
 <iframe width="600" height="355" src="https://www.youtube.com/embed/pEYqA262rrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
+-->
+
+<!--
 
 Album cover design for [Dauthuz](https://dauthuz.bandcamp.com/)' *Destined for Death*.
 ![Dauthuz](..\assets\img\projects\proj-2\Dauthuz2.jpg)
 
 ---
 
+
 Album cover design for [Psalmtanic](https://psalmtanic.bandcamp.com/)'s *Psalmtanic Verses*.
 ![Psalmtanic](..\assets\img\projects\proj-2\Psalmtanic.jpg)
+-->
 
 <!-- {% include image.html url="https://www.behance.net/gallery/54688371/Dauthuz-Destined-for-Death-%28Album-cover-design-2017%29" image="projects/proj-2/Dauthuz.jpg"%} -->
 
-These illustrations were all done in *Clip Studio Paint*. 
+
