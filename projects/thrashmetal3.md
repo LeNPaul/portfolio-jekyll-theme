@@ -6,12 +6,27 @@ permalink: /THRASHMETAL3/
 
 Abrasive. Loud. Extremely fast yet still precise, with impeccable sense of timing. If judging by these words alone, it may sound like I'm describing a Dutch olympian -- a speed skater or a cyclist, perhaps. But we're talking music, aren't we? I'm talking Thrash Metal, of course, which means I'm talking yet another extreme subgenre of Heavy Metal. 
 
+<script type="text/javascript">
+    function toggle_visibility(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'none')
+          e.style.display = 'block';
+       else
+          e.style.display = 'none';
+    }
+</script>
+<a href="#bar" name="bar" onclick="toggle_visibility('foo');">Read more ...</a>
+<div id="foo" style="display:none;">
+
 Oh, and yes, it's "Thrash," not "Trash." Though some bands in this and adjacent genres are absolutely, undeniably, unapolgetically trash. (Thrashcore, anyone?) This is important to note because generally Thrash bands write music that touches the listener's emotions, and what's more they sing about "serious political and social issues, allowing [them] to avoid the perceived superficiality found in more commercial metal music."<sup>1</sup> 
-
-Of course, some Thrash lyrics tend to be much smarter than others. Take **Dark Angel**'s lyrics, for example: Gene Hoglan, the band's drummer who wrote them, "used a lot of big SAT words that made you run for the dictionary; a line from [Darkness Descends's] title track, for example, went, 'Inimical powers against humankind, this charnel house ensanguined.'"<sup>2</sup> His reasoning was simple: "There's no reason why we can't show a modicum of intelligence with our lyrics." Yeah well Gene, try telling that to the German thrashers of **Tankard** who have been singing about <a href="https://open.spotify.com/track/36L4XUmohtFFNTvs1WbBpe?si=21f1decf235a4dfe" target="_blank" rel="noopener"><span>a girl called Cerveza</span></a>, <a href="https://open.spotify.com/track/667pyBtcqvVZSVzDz1HcnA?si=cdbd61664d4e455c" target="_blank" rel="noopener"><span>needing money for beer</span></a>, and <a href="https://open.spotify.com/track/3sHhYuUlTBCiRNbJZwBeZy?si=d8bb8ae0deea4930" target="_blank" rel="noopener"><span>metal lady boys</span></a> since 1983, with no signs of changing lyrical preoccupations soon. I don't know why but I have an inkling their next single is called "Need money for a metal prostitute called Corona." (You heard it here first!)
-
-As a scene, it developed "as a 'fundamentalist' reaction against a perceived decadence found in more mainstream metal."<sup>3</sup> This happened simultaneously in different parts of the world, in different countries (Britain, Germany, Latin America, and the US), from where it developed out of different genres (most notably NWOBHM and Punk Hardcore), and this is why there is a variety of styles within the Thrash genre -- one that is in large part determined by bands' locality. 
-
+<br><br>
+Of course, some Thrash lyrics tend to be much smarter than others. Take **Dark Angel**'s lyrics, for example: Gene Hoglan, the band's drummer who wrote them, "used a lot of big SAT words that made you run for the dictionary; a line from [Darkness Descends's] title track, for example, went, 'Inimical powers against humankind, this charnel house ensanguined.'"<sup>2</sup> His reasoning was simple: "There's no reason why we can't show a modicum of intelligence with our lyrics."
+<br><br>
+Yeah well Gene, try telling that to the German thrashers of **Tankard** who have been singing about <a href="https://open.spotify.com/track/36L4XUmohtFFNTvs1WbBpe?si=21f1decf235a4dfe" target="_blank" rel="noopener"><span>a girl called Cerveza</span></a>, <a href="https://open.spotify.com/track/667pyBtcqvVZSVzDz1HcnA?si=cdbd61664d4e455c" target="_blank" rel="noopener"><span>needing money for beer</span></a>, and <a href="https://open.spotify.com/track/3sHhYuUlTBCiRNbJZwBeZy?si=d8bb8ae0deea4930" target="_blank" rel="noopener"><span>metal lady boys</span></a> since 1983, with no signs of changing lyrical preoccupations soon. I don't know why but I have an inkling their next single is called "Need money for a metal prostitute called Corona." (You heard it here first!)
+<br><br>
+Anyway. As a scene, it developed "as a 'fundamentalist' reaction against a perceived decadence found in more mainstream metal."<sup>3</sup> This happened simultaneously in different parts of the world, in different countries (Britain, Germany, Latin America, and the US), from where it developed out of different genres (most notably NWOBHM and Punk Hardcore), and this is why there is a variety of styles within the Thrash genre -- one that is in large part determined by bands' locality. 
+</div>
+<br><br>
 Of course, Thrash Metal has its own aesthetics, too. Generally speaking, Thrash logos tend to have **straight, sharp edges** that reflect the tightness and controlled nature of the music's rhythms.<sup>4</sup> (You know, tight and controlled ... like a murderer carving their name in a victim's chest.<sup>5</sup> Don't give me that look. How else is one supposed to purify Metal from commercialism?) Indeed, some exceptions aside, there is no softness to be found in them whatsoever -- there is only hardness.
 
 ## Bay Area Thrash
