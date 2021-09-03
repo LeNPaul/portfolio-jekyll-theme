@@ -37,6 +37,6 @@ Speed Metal has its roots in NWOBHM and would lay the foundation for later extre
 
 ##### Related (sub)genres:
 [<img src="..\assets\img\projects\proj-9\nwobhm.jpg" alt="New Wave of British Heavy Metal" width=200 >](/NWOBHM/)
-[<img src="..\assets\img\projects\proj-9\power.jpg" alt="Power Metal" width=200 >](/Power/)
+[<img src="..\assets\img\projects\proj-9\power.jpg" alt="Power Metal" width=200 >](/POWERMETAL/)
 
 Take me back to the [sample overview](../projects/proj-8).
