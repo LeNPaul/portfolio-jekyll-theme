@@ -34,7 +34,7 @@ Blackened Death Metal is usually straight-up Death Metal, but with lyrics that d
 </ul>
 
 
-##### Related genre(s):
+##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\brutal.jpg" alt="Death Metal" width=200 >](/DEATHMETAL/)
 [<img src="..\assets\img\projects\proj-9\war.jpg" alt="War Metal" width=200 >](/WARMETAL)
 

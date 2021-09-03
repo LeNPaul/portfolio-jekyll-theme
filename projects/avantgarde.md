@@ -35,7 +35,7 @@ Funnily enough however, whilst Avant-Garde bands most likely, definitely, absolu
 </li>
 </ul>
 
-##### Related (sub)genres
+##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\progressive.jpg" alt="Progressive Metal" width=200 >](/PROGRESSIVE/)
 
 Take me back to the [sample overview](../projects/proj-8).

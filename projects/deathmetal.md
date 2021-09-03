@@ -35,7 +35,7 @@ And, contrary to Thrash Metal logos, Death Metal logos tend to have more **"soft
 </li>
 </ul>
 
-##### Related genre(s):
+##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\brutal.jpg" alt="Brutal Death Metal" width=200 >](/BRUTALDEATH/)
 [<img src="..\assets\img\projects\proj-9\deathdoom.jpg" alt="Death-Doom" width=200 >](/DEATHDOOM/)
 [<img src="..\assets\img\projects\proj-9\florida.jpg" alt="Florida Death Metal" width=200 >](/FLORIDADEATH/)

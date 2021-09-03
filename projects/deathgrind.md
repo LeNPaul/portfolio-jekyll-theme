@@ -42,7 +42,7 @@ For starters, Black Metal logos are typically black and (inverted) white in colo
 </li>
 </ul>
 
-##### Related genre(s):
+##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\tech901.jpg" alt="Death Metal" width=200 >](/DEATHMETAL/)
 [<img src="..\assets\img\projects\proj-9\grindcore.jpg" alt="Grindcore" width=200 >](/GRINDCORE/)
 

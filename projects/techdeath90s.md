@@ -68,7 +68,7 @@ If they're still active to this day, they now probably have a **type-only logo**
 </li>
 </ul>
 
-##### Related genre(s):
+##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\brutal.jpg" alt="Death Metal" width=200 >](/DEATHMETAL/)
 [<img src="..\assets\img\projects\proj-9\progressive.jpg" alt="Progressive Metal" width=200 >](/PROGRESSIVE/)
 [<img src="..\assets\img\projects\proj-9\tech00.jpg" alt="Post-2000s Technical Death Metal" width=200 >](/TECHDEATH00S/)

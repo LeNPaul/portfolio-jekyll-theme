@@ -37,7 +37,7 @@ Melle Gerritsen, Grindcore fan extraordinaire, has this to say:
 </li>
 </ul>
 
-##### Related genre(s):
+##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\deathgrind1.jpg" alt="Deathgrind" width=200 >](/DEATHGRIND/)
 [<img src="..\assets\img\projects\proj-9\porngrind.jpg" alt="Porngrind" width=200 >](/PORNGRIND/)
 

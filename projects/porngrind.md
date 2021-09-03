@@ -45,7 +45,7 @@ It's a genre so base and vile, you won't be able to find most bands on Spotify. 
 </details>
 <br>
 
-##### Related genre(s):
+##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\grindcore.jpg" alt="Grindcore" width=200 >](/GRINDCORE/)
 
 Take me back to the [sample overview](../projects/proj-8).

@@ -39,7 +39,7 @@ But I'd say generally, as opposed to other the (sub)genres that we discuss in th
 </li>
 </ul>
 
-##### Related genre(s):
+##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\hair.jpg" alt="Glam Metal" width=200 >](/HAIRMETAL/)
 [<img src="..\assets\img\projects\proj-9\nwobhm.jpg" alt="New Wave of British Heavy Metal" width=200 >](/NWOBHM/)
 [<img src="..\assets\img\projects\proj-9\power.jpg" alt="Power Metal" width=200 >](/POWER/)

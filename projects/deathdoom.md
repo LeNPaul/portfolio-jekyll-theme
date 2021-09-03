@@ -35,7 +35,7 @@ Typically, a Death-Doom logo is a **blackletter(-like) wordmark** surrounded wit
 </li>
 </ul>
 
-##### Related genre(s):
+##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\blackeneddeath.jpg" alt="Blackened Death Metal" width=200 >](/CROSSOVER3/)
 [<img src="..\assets\img\projects\proj-9\brutal.jpg" alt="Death Metal" width=200 >](/DEATHMETAL/)
 [<img src="..\assets\img\projects\proj-9\funeral.jpg" alt="Doom Metal" width=200 >](/DOOMMETAL/)

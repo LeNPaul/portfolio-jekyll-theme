@@ -43,7 +43,7 @@ Logo-wise, War Metal bands seem to have a thing for **black "negative space" let
 
 Here's another fun though not widely known fact for you: **Bestial Mockery**'s 2005 split album with **Unholy Massacre**, *Attack of the Morbid Coven*,  is the very first album cover I (under my then-moniker Attar) ever worked on.
 
-##### Related genre(s):
+##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\blackeneddeath.jpg" alt="Blackened Death Metal" width=200 >](/BLACKENEDDEATH/)
 [<img src="..\assets\img\projects\proj-9\black2.jpg" alt="Black Metal" width=200 >](/BLACKMETAL/)
 

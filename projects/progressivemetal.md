@@ -35,7 +35,7 @@ The question then is how to best represent this visually? It may seem daunting b
 </li>
 </ul>
 
-##### Related genre(s):
+##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\avantgarde.jpg" alt="Black Metal" width=200 >](/AVANTGARDE/)
 [<img src="..\assets\img\projects\proj-9\djent.jpg" alt="Djent" width=200 >](/DJENT/)
 [<img src="..\assets\img\projects\proj-9\tech901.jpg" alt="Black Metal" width=200 >](/TECHDEATH/)

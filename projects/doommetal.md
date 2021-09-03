@@ -32,7 +32,7 @@ This is what makes Doom logo extremely challenging -- challenging for me at leas
 </li>
 </ul>
 
-##### Some related (sub)genres:
+##### Check out these Doom Metal and adjacent (sub)genres:
 [<img src="..\assets\img\projects\proj-9\funeral.jpg" alt="Funeral Doom" width=200 >](/FUNERALDOOM/)
 [<img src="..\assets\img\projects\proj-9\gothic.jpg" alt="Gothic Metal" width=200 >](/GOTHICMETAL/)
 [<img src="..\assets\img\projects\proj-9\sludge.jpg" alt="Sludge Metal" width=200 >](/SLUDGEMETAL/)

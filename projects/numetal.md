@@ -40,7 +40,7 @@ And what is there to say about Nu logos that has not yet been said by now? They 
 </li>
 </ul>
 
-#### Related genre(s):
+##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\groove.jpg" alt="Groove Metal" width=200 >](/GROOVEMETAL/)
 [<img src="..\assets\img\projects\proj-9\industrial.jpg" alt="Industrial Metal" width=200 >](/INDUSTRIAL/)
 [<img src="..\assets\img\projects\proj-9\metalcore.jpg" alt="Metalcore" width=200 >](/METALCORE/)

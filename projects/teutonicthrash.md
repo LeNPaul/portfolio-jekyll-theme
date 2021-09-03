@@ -34,7 +34,7 @@ As a genre, Teutonic Thrash Metal has a distinct German character, and a few not
 </li>
 </ul>
 
-##### Related (sub)genres:
+##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\blackenedthrash.jpg" alt="Blackened Thrash Metal" width=200 >](/BLACKENEDTHRASH/)
 [<img src="..\assets\img\projects\proj-9\usthrash.jpg" alt="US Thrash Metal" width=200 >](/USTHRASH/)
 

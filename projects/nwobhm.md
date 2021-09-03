@@ -39,7 +39,7 @@ Here, I purposely decided to do a logo in the vein of those of **Iron Maiden** a
 </ul>
 
 
-##### Related genre(s):
+##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\heavy.jpg" alt="Heavy Metal" width=200 >](/HEAVYMETAL/)
 [<img src="..\assets\img\projects\proj-9\speed.jpg" alt="Speed Metal" width=200 >](/SPEEDMETAL/)
 

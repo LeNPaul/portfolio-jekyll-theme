@@ -37,7 +37,7 @@ It probably speaks for itself: the lettering style is inspired by a **Gothic** -
 </li>
 </ul>
 
-##### Related genre(s):
+##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\deathdoom.jpg" alt="Death-Doom" width=200 >](/DEATHDOOM/)
 [<img src="..\assets\img\projects\proj-9\symphonic.jpg" alt="Symphonic Metal" width=200 >](/SYMPHONICMETAL/)
 

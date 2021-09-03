@@ -9,7 +9,7 @@ One subgenre that I originally couldn't be bothered with -- even though it is a 
 Where Symphonic Metal bands differ from Power Metal bands is that the former put even more emphasis on the bombast, believing themselves to be following in the footsteps of scoring giants like John Williams and Hans Zimmer -- though they'd be lucky if they could do the score for a <a href="https://www.youtube.com/watch?v=7M0_9YcRDQ0" target="_blank" rel="noopener"><span>Uwe Boll</span></a> movie --, and they're more likely to be female-fronted; and if they aren't, then it still sounds like they are. 
 
 It's generally easy to recognize Symphonic Metal bands from others. Nine out of ten bands have a **serif wordmark** with a **textured gradient fill** for a logo, with maybe one or two **customly elongated tails** -- making it look like someone sneezed while working on the letters; the tenth band, meanwhile, probably has a regular Power Metal logo. <!-- Oh, and if they play speedy music, the letters are probably in **cursive**. -->
-![Symphonic](..\assets\img\projects\proj-2\symphonic.jpg)
+![Symphonic](..\assets\img\projects\proj-8\symphonic.jpg)
 
 ##### Some Symphonic Metal bands to check out:
 
@@ -36,7 +36,7 @@ It's generally easy to recognize Symphonic Metal bands from others. Nine out of 
 </li>
 </ul>
 
-##### Related genre(s):
+##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\gothic.jpg" alt="Gothic Metal" width=200 >](/GOTHICMETAL/)
 [<img src="..\assets\img\projects\proj-9\power.jpg" alt="Speed Metal" width=200 >](/POWERMETAL/)
 

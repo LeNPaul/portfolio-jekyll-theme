@@ -35,7 +35,7 @@ Anyway, the design process of a Metalcore logo can best be described as follows:
 </li>
 </ul>
 
-##### Related genre(s):
+##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\nintendo.jpg" alt="Nintendocore" width=200 >](/NINTENDOCORE/)
 [<img src="..\assets\img\projects\proj-9\nu.jpg" alt="Nu Metal" width=200 >](/NUMETAL/)
 

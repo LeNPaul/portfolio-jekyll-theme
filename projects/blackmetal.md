@@ -112,7 +112,7 @@ Following in the wake of the second wave, new bands emerged all over the world, 
 
 Today, Black Metal is an international phenomenon, and there are many Black Metal doing things differently than the way the bands of the first and second wave did and sometimes still do, both in terms of music and of the ethos of making Black Metal, so it's impossible to cover them all here. But the bands mentioned above, should help get you some idea of how these bands vary in style and intensity. 
 
-##### Related genre(s):
+##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\blackeneddeath.jpg" alt="Blackened Death Metal" width=200 >](/BLACKENEDDEATH/)
 [<img src="..\assets\img\projects\proj-9\blackenedthrash.jpg" alt="Blackened Death Metal" width=200 >](/BLACKENEDTHRASH/)
 [<img src="..\assets\img\projects\proj-9\pagan.jpg" alt="Pagan Black Metal" width=200 >](/PAGANBLACK/)

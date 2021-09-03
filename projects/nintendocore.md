@@ -40,7 +40,7 @@ It's quite simple, really. Just download a free font like <a href="https://www.f
 </li>
 </ul>
 
-##### Related genre(s):
+##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\metalcore.jpg" alt="Metalcore" width=200 >](/METALCORE/)
 
 Take me back to the [sample overview](../projects/proj-8).

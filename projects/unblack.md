@@ -39,7 +39,7 @@ Logo-wise, it's what you may expect. Logos look like just your average Black Met
 </li>
 </ul>
 
-##### Related genre(s):
+##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\black4.jpg" alt="Black Metal" width=200 >](/BLACKMETAL/)
 [<img src="..\assets\img\projects\proj-9\ecumenical.jpg" alt="Ecumenical Metal" width=200 >](/ECUMENICAL/)
 

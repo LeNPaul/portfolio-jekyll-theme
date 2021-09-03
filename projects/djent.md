@@ -35,7 +35,7 @@ Djent logos are often deluged with "coffee stains." This is not necessarily a co
 </li>
 </ul>
 
-##### Related genre(s):
+##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\progressive.jpg" alt="Progressive Metal" width=200 >](/{PROGRESSIVEMETAL}/)
 
 Take me back to the [sample overview](../projects/proj-8).
