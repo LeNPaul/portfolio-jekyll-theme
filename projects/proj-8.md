@@ -85,23 +85,36 @@ It may well be that you have other ideas on what these logos are supposed to loo
 #### Acknowledgements
 I'd like to give a shoutout to everyone who helped me write this guide -- your insights and thoughts were much appreciated! I owe a special thanks to three in particular who shared their time and expertise with me throughout this project and provided me with useful feedback on my guide: Erik <a href="https://www.instagram.com/negakinu/" target="_blank" rel="noopener"><span>Negakinu</span></a>, Marco W., and Melle Gerritsen. 
 
-#### References
-##### [1] E. Nielson. Paragraph on Metal on Trial. *Rap on Trial: Race, Lyrics, and Guilt in America*, p. 89, 2019; M. Phillipov. *Death Metal and Music Criticism: Analysis at the Limits*, p. 55, 2012.
-##### [2] C. Harison. "Won't Get Fooled Again": The Atlantic Generation Comes of Age. *Feedback: The Who and their Generation*, pp. 156-57. 
-##### [3] S. Poole. Retro Rock and Heavy History. *Global Metal Music and Culture: Current Directions in Metal Studies*, pp. 302-303; M. Heatley. *The Virgin Encyclopedia of Rock: The World's Most Comprehensive Illustrated Rock Reference*, 122, 1996. 
-##### [4] J. Sturman(?) Heavy Metal: Visual Style and Iconography. J. Sturman, ed. *The SAGE International Encyclopedia of Music and Culture*; W. Philips and B. Cogan. Studs. *Encyclopedia of Heavy Metal Music*, 2009; R. Moore.  Ch. 3: Hell Awaits. *Sells Like Teen Spirit: Music, Youth Culture, and Social Crisis*, pp. 93-94, 2010; K. Grow. Rolling Stone: The Last Word: Judas Priest's Rob Halford on the Joys of Leather and 40 Years of 'Breaking the Law'. https://www.rollingstone.com/music/music-features/rob-halford-judas-priest-last-word-interview-1003838, 2020.
-##### [5] B. Hutcherson and R. Haenfler. Musical Genre as a Gendered Process: Authenticity in Extreme Metal. In N.K. Denzin, ed. *Studies in Symbolic Interaction*, p. 116, 2010.
-##### [6] L. Stinson. Wired: The Beauty and Total Illegibility of Extreme Metal Logos. https://www.wired.com/2015/10/the-beauty-and-total-illegibility-of-extreme-metal-logos, 2015.
-##### [7] D. Lombardo. Loudwire: Dave Lombardo - Wikipedia: Fact or Fiction? https://www.youtube.com/watch?v=LKppPspVNDs, 2015.
-##### [8] M. Phillipov. Ch. 6: The Pleasures of Horror. *Death Metal and Music Criticism: Analysis at the Limits*, p. 100, 2012. Here, the author cites N.J. Purcell. *Death Metal Music: The Passion and Politics of a Subculture*, pp. 172, 185, 2003; M. Dickstein. The Aesthetics of Fright. In B.K. Grant, ed. *Plans of Reason: Essays on the Horror Film*, 1984; and K.F.B. Fletcher and O. Umurhan, ed. Introduction: Where Metal and Classics Meet. *Classical Antiquity in Heavy Metal*, (2020).
-##### [9] M. Unger. *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, p. 20, 2016. [?]
-##### [10] M. Unger. *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, p. 24, 2016; A. O'Neill. *A History of Heavy Metal*, 2017 (Chapter 5 on The First Wave of Black Metal).
-##### [11] D. Peterson. *Black Metal: Evolution of the Cult*, p. 152, 2013.
-##### [12] B. Hutcherson and R. Haenfler. Musical Genre as a Gendered Process: Authenticity in Extreme Metal. In N.K. Denzin, ed. *Studies in Symbolic Interaction*, p. 116, 2015.
-##### [13] L. Stinson, Wired: The Beauty and Total Illegibility of Extreme Metal Logos. https://www.wired.com/2015/10/the-beauty-and-total-illegibility-of-extreme-metal-logos, 2015; and M. Rampton, Kerrang: Inside The World Of Extreme Metal Logos. https://www.kerrang.com/features/inside-the-world-of-extreme-metal-logos, 2018.
-##### [14] S. (unknown). The Progressive Subway. Interview: Psalmtanic. http://theprogressivesubway.com/2020/04/13/interview-psalmtanic, 2020.
-##### [15] T. Neilson. Where Myth and Metal Collide: Finnish Folk Metal. In S.A. Wilson, ed. *Music at the Extremes: Essays on Sounds Outside the Mainstream*, p. 136, 2015. 
-##### [16] D. Patterson. Marduk: Sweden Part I. Black Metal: Evolution of the Cult, p. 331-341, 2013.
-##### [17] Holdeneye. Oxygen Destroyer - Sinister Monstrosities Spawned by the Unfathomable Ignorance of Humankind Review. https://www.angrymetalguy.com/oxygen-destroyer-sinister-monstrosities-spawned-by-the-unfathomable-ignorance-of-humankind-review, 2021.
-##### [18] W. Irwin, *Black Sabbath and Philosophy: Mastering Reality*, p. 79, 2012.
+#### References (in Alphabetic Order)
+##### Davies, J.K. BandLogoJukeBox: Iron Maiden. https://www.bandlogojukebox.com/blog/2020/11/29/i2-iron-maiden, 2020.
+##### Dickstein, M. The Aesthetics of Fright. In B.K. Grant, ed. *Plans of Reason: Essays on the Horror Film*, 1984.
+##### Fletcher, K.F.B. and O. Umurhan, ed. Introduction: Where Metal and Classics Meet. *Classical Antiquity in Heavy Metal*, 2020.
+##### Grow, K. Rolling Stone: The Last Word: Judas Priest's Rob Halford on the Joys of Leather and 40 Years of 'Breaking the Law'. https://www.rollingstone.com/music/music-features/rob-halford-judas-priest-last-word-interview-1003838, 2020.
+##### Harison, C. *Feedback: The Who and their Generation*, 2014. 
+##### Heatly, M. *The Virgin Encyclopedia of Rock: The World's Most Comprehensive Illustrated Rock Reference*, 1996.
+##### Henderson, R. Billboard: View From the Bridge: Diverse Sounds Connect a Music-Rich Town, 14. apr. 2001.
+##### Holdeneye. Oxygen Destroyer - Sinister Monstrosities Spawned by the Unfathomable Ignorance of Humankind Review. https://www.angrymetalguy.com/oxygen-destroyer-sinister-monstrosities-spawned-by-the-unfathomable-ignorance-of-humankind-review, 2021.
+##### Hutcherson, B. and R. Haenfler. Musical Genre as a Gendered Process: Authenticity in Extreme Metal. In N.K. Denzin, ed. *Studies in Symbolic Interaction*, 2010.
+##### Irwin, W. *Black Sabbath and Philosophy: Mastering Reality*, 2012.
+##### Kaz, J. IGN: The Best Band Logos: Iconic emblems that put a visual spin on the rock. https://web.archive.org/web/20100324191426/http://music.ign.com/articles/941/941142p1.html, 2009.
+##### Konow, D. *Bang Your Head: The Rise and Fall of Heavy Metal*, 2002.
+##### Konow, D. LA Weekly: Drummer Gene Hohlan Was Just 18 When He Recorded an '80s Thrash Classic. https://www.laweekly.com/drummer-gene-hoglan-was-just-18-when-he-recorded-an-80s-thrash-classic/, 2017.
+##### Lombardo, D. Loudwire: Dave Lombardo - Wikipedia: Fact or Fiction? https://www.youtube.com/watch?v=LKppPspVNDs, 2015. 
+##### Mengerink, M.A. Hitler, the Holocaust, and Heavy Metal Music: Holocaust Memory and Representation in the Heavy Metal Subculture, 1980-Present. In S.T. Horsfall, J.-M. Meij, and M. Probtsfield, ed. *Music Sociology: Examining the Role of Music in Social Life*, (unknown), 2013.
+##### Moore, R. *Sells Like Teen Spirit: Music, Youth Culture, and Social Crisis*, 2010.
+##### Neilson, T. Where Myth and Metal Collide: Finnish Folk Metal. In S.A. Wilson, ed. *Music at the Extremes: Essays on Sounds Outside the Mainstream*, 2015. 
+##### Nielson, E. Paragraph on Metal on Trial. *Rap on Trial: Race, Lyrics, and Guilt in America*, 2019.
+##### O'Neill, A. *A History of Heavy Metal*, 2017.
+##### Patterson, D. *Black Metal: Evolution of the Cult*, 2013.
+##### Philips, B. and B. Cogan. Studs. *Encyclopedia of Heavy Metal Music*, 2009.
+##### Phillipov, M. *Death Metal and Music Criticism: Analysis at the Limits*, 2012.
+##### Pilo, B. True Norwegian Black Metal: Nationalism and Authenticity in the Norwegian Black Metal of the '90s. In T.M. Karjalainen, ed. *Sounds of Origin in Heavy Metal Music*, 2018.
+##### Poole, S. Retro Rock and Heavy History. *Global Metal Music and Culture: Current Directions in Metal Studies*, 2016.
+##### Rampton, M. Kerrang: Inside The World Of Extreme Metal Logos. https://www.kerrang.com/features/inside-the-world-of-extreme-metal-logos, 2018.
+##### Spracklen, K. and B. Spracklen. *The Evolution of Goth Culture: The Origins and Deeds of the New Goths*, 2018.
+##### Stinson, L. Wired: The Beauty and Total Illegibility of Extreme Metal Logos. https://www.wired.com/2015/10/the-beauty-and-total-illegibility-of-extreme-metal-logos, 2015.
+##### Sturman, J., ed. *The SAGE International Encyclopedia of Music and Culture*, 2019.
+##### Towe Horsfall, S., J.-M. Meij, and M. Probstfield, *Music Sociology: Examining the Role of Music in Social Life*, 2013.
+##### Unger, U. *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, 2016.
+##### (unknown), S. The Progressive Subway: Interview: Psalmtanic. http://theprogressivesubway.com/2020/04/13/interview-psalmtanic, 2020.
 

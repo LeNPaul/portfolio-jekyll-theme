@@ -10,7 +10,7 @@ Closely related to the Pagan Metal is Folk Metal. Where they differ is that whil
 
 > Well now my friend, who is himself a talented musician, made a compelling argument that Folk Metal musicians are often or usually talented in what they do. Sadly, what they do is play Folk Metal. And that brings us back to where we started. A bit of a circular argument, I know, but can you blame me when all I see when I think of Folk Metal are circles and polka dots? In case the joke went over your head: **Finntroll**, one of the first Folk Metal bands to gain international notoriety, play what is often referred to as Polka Metal on account of them integrating *huumpa* (Finnish polka melodies) with Black Metal.
 
-> The thing with Folk Metal is that it juxtaposes acoustic components, i.e. acoustic folk instruments such as violin, accordion, flute, bagpipe, and kantele, with the power and electronic distortion of Heavy Metal. Some people think it's cool and some people don't. (Actually, *most* people don't.) Music critic Scott Seward is one of the former. You ask him and he will tell you that contemporary folk "too often lack the fierceness and meatiness of music born from blood and fire and plague."<sup>15</sup> Meanwhile, listening to a Folk Metal band like **Korpiklaani** sends him "instantly back to a time when trolls ruled the woods." Well I got news for you, Scott. Trolls never ruled the woods. In fact, trolls never even existed! And you call yourself a critic? How about next time you do your due diligence and research your claims! It's what I did and, well -- it persuaded me that my bias was indeed correct. 
+> The thing with Folk Metal is that it juxtaposes acoustic components, i.e. acoustic folk instruments such as violin, accordion, flute, bagpipe, and kantele, with the power and electronic distortion of Heavy Metal. Some people think it's cool and some people don't. (Actually, *most* people don't.) Music critic Scott Seward is one of the former. You ask him and he will tell you that contemporary folk "too often lack the fierceness and meatiness of music born from blood and fire and plague."<sup>1</sup> Meanwhile, listening to a Folk Metal band like **Korpiklaani** sends him "instantly back to a time when trolls ruled the woods." Well I got news for you, Scott. Trolls never ruled the woods. In fact, trolls never even existed! And you call yourself a critic? How about next time you do your due diligence and research your claims! It's what I did and, well -- it persuaded me that my bias was indeed correct. 
 
 > I will say this much, if there's one thing you can count on it's that whoever is playing the accordion, or the violin, is probably a hot smoking babe. (Call me!)
 
@@ -48,5 +48,8 @@ Some Folk bands take things to the next level by incorporating **viking helmets*
 ##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\pagan.jpg" alt="Pagan Black Metal" width=200 >](/PAGANBLACK/)
 [<img src="..\assets\img\projects\proj-9\pirate.jpg" alt="Pirate Metal" width=200 >](/PIRATEMETAL/)
+
+##### Reference(s):
+##### [1] T. Neilson. Where Myth and Metal Collide: Finnish Folk Metal. In S.A. Wilson, ed. *Music at the Extremes: Essays on Sounds Outside the Mainstream*, p. 136, 2015. 
 
 Take me back to the [sample overview](../projects/proj-8).

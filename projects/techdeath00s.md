@@ -4,7 +4,7 @@ title: 'Technical Death Metal'
 permalink: /TECHDEATH00S/
 ---
 
-A hard-and-fast rule in Death Metal aesthetics is that the more technical the music, the less sophisticated the logo. This is exemplified in Technical Death Metal, a genre whose musicians and artists mix "fast, virtuosic guitar riffs and solos of varying tempos and time signature changes with prevalent drumming and frequent blast beats."<sup>9</sup> It's like they opt to convey an impression of modesty (or perhaps false modesty), often leading to conversations like this:
+A hard-and-fast rule in Death Metal aesthetics is that the more technical the music, the less sophisticated the logo. This is exemplified in Technical Death Metal, a genre whose musicians and artists mix "fast, virtuosic guitar riffs and solos of varying tempos and time signature changes with prevalent drumming and frequent blast beats."<sup>1</sup> It's like they opt to convey an impression of modesty (or perhaps false modesty), often leading to conversations like this:
 
 - "I can play with my eyes closed!"
 - "Cool! But did you also have to do that logo with your eyes closed?"
@@ -69,5 +69,8 @@ It's fairly easy to recognize a post-2000s Technical Death band from a 1990s ban
 [<img src="..\assets\img\projects\proj-9\brutal.jpg" alt="Death Metal" width=200 >](/DEATHMETAL/)
 [<img src="..\assets\img\projects\proj-9\progressive.jpg" alt="Progressive Metal" width=200 >](/PROGRESSIVE/)
 [<img src="..\assets\img\projects\proj-9\tech901.jpg" alt="1990s Technical Death Metal" width=200 >](/TECHDEATH90S/)
+
+##### Reference(s):
+##### [1] M. Unger. *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, p. 20, 2016.
 
 Take me back to the [sample overview](../projects/proj-8).

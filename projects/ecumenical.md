@@ -4,7 +4,7 @@ title: 'Ecumenical Metal'
 permalink: /ECUMENICAL/
 ---
 
-Sitting comfortably between the worlds of Black and White Metal, the Occult and Christianity, occupying their own niche genre called Ecumenical Metal, we find **Psalmtanic**. Their music is best described as, "What if we take psalms, preferably the more dark and grim ones lyrically, and give them a metal makeover."<sup>14</sup> It was a success, judging by the several positive Youtube comments on their videos. Lisa Vogel, for example, had this to say:
+Sitting comfortably between the worlds of Black and White Metal, the Occult and Christianity, occupying their own niche genre called Ecumenical Metal, we find **Psalmtanic**. Their music is best described as, "What if we take psalms, preferably the more dark and grim ones lyrically, and give them a metal makeover."<sup>1</sup> It was a success, judging by the several positive Youtube comments on their videos. Lisa Vogel, for example, had this to say:
 > "🤘🤘🤘🤘🤘. Wunderschön atmosphärisch,episch ,exzellent .👍👌👌👌"
 
 And if we can't trust Lisa Vogel, who then can we trust?
@@ -28,5 +28,8 @@ Their logo is a tongue-in-cheek riff on the **Emperor** logo, featuring **crosse
 ##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\black3.jpg" alt="Black Metal" width=200 >](/BLACKMETAL/)
 [<img src="..\assets\img\projects\proj-9\unblack.jpg" alt="Ecumenical Metal" width=200 >](/UNBLACK/)
+
+##### Reference(s):
+##### [1] S. (unknown). The Progressive Subway. Interview: Psalmtanic. http://theprogressivesubway.com/2020/04/13/interview-psalmtanic, 2020.
 
 Take me back to the [sample overview](../projects/proj-8).

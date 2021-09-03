@@ -6,8 +6,7 @@ permalink: /HEAVYMETAL/
 
 ![Heavy Metal](..\assets\img\projects\proj-8\heavy.png)
 
-Heavy Metal music was birthed by a Birmingham band called **Black Sabbath** in the late 1960s and early 1970s. From its inception, it was criticized for being "violent, aggressive, dark, depressing, angry, and misogynistic," and rightly so, because it was outsider music for outsiders -- mostly young men who faced economic and personal hardship.<sup>1</sup> Little did people know then that things were to get only more and more extreme in every imaginable way. But it would take about two decades before Heavy Metal started to branch out in the evermore extreme subgenres of Thrash, Death, Doom, and Black Metal (these will be discussed below), because that's how long it took for Heavy Metal to enter the mainstream of music. Of course, once that happened, many felt that Heavy Metal had become too commercial and too popular. Indeed, by the mid- to late-1980s, Heavy Metal had lost much of its original bark; now it was time to make things insular again, which is to say doing something that is not appreciated by many, something different and out of the mainstream.
-
+Heavy Metal music was birthed by a Birmingham band called **Black Sabbath** in the late 1960s and early 1970s, and this as a reaction against the "good vibrations" of the 1960s, the glam and glitter of trhe early-1970s music industry, and the toothlessness of the establishment bands of the 1960s who had increasingly become part of the establishment themselves.<sup>1</sup> From its inception, it was criticized for being "violent, aggressive, dark, depressing, angry, and misogynistic."<sup>2</sup> And no surprise there, because it was outsider music for outsiders -- mostly young men who faced economic and personal hardship. Little did people know then that things were to get only more and more extreme in every imaginable way. But it would take about two decades before Heavy Metal started to branch out in the evermore extreme subgenres of Thrash, Death, Doom, and Black Metal (these will be discussed below), because that's how long it took for Heavy Metal to enter the mainstream of music. Of course, once that happened, many felt that Heavy Metal had become too commercial and too popular. Indeed, by the mid- to late-1980s, Heavy Metal had lost much of its original bark; now it was time to make things insular again, which is to say doing something that is not appreciated by many, something different and out of the mainstream.
 
 What this means for our purposes is that we're looking at two decades of design evolution. Which is why I struggled to find a quintessential example of a pure, Heavy Metal Rock logo that I could use as inspiration, because these types of logos are kinda all over the place style-wise, from (initial) **wordmark** (i.e. type-only) logos of 1970s Heavy Metal bands (**Black Sabbath**, **Judas Priest**, **Motörhead**, **Scorpions**) to the extremely diverse custom logos of 1980s Heavy Metal bands. The latter range from rough, sketchy logos (**Skid Row**) to airbrushed or painted designs (**Y&T**) to logos that have a "Saturday-morning cartoon" feel to them (**Danger Danger**).
 
@@ -45,4 +44,9 @@ But I'd say generally, as opposed to other the (sub)genres that we discuss in th
 [<img src="..\assets\img\projects\proj-9\power.jpg" alt="Power Metal" width=200 >](/POWER/)
 [<img src="..\assets\img\projects\proj-9\speed.jpg" alt="Speed Metal" width=200 >](/SPEED/)
 
+##### Reference(s):
+##### [1] C. Harison. "Won't Get Fooled Again": The Atlantic Generation Comes of Age. *Feedback: The Who and their Generation*, pp. 156-57. 
+##### [2] E. Nielson. *Rap on Trial: Race, Lyrics, and Guilt in America*, p. 89, 2019; and M. Phillipov. *Death Metal and Music Criticism: Analysis at the Limits*, p. 55, 2012.
+
 Take me back to the [sample overview](../projects/proj-8).
+

@@ -3,7 +3,7 @@ layout: post
 title: 'Bay Area Thrash'
 permalink: /BAYTHRASH/
 ---
-If we are to distinguish further among US Thrash Metal bands and we continue differentiating, then the early-1980s San Francisco Bay Area scene surely deserves some attention from everyone! What's interesting here is that the aesthetics of said scene were largely characterized by a "do-it-yourself" ethos, as opposed to the aesthetics of the then already established Metal bands who often used established fonts for their logos (see **Iron Maiden**, for example). Arguably the most famous example of this is **Metallica**'s logo that was drawn up by none other than James Hetfield himself. This may be why certain US Thrash logos, or part of these logos, **look a bit off**; because they were not always done by trained graphic designers who are familiar with rulers and with drawing and measuring segments.
+If we are to distinguish further among US Thrash Metal bands and we continue differentiating, then the early-1980s San Francisco Bay Area scene surely deserves some attention from everyone! What's interesting here is that the aesthetics of said scene were largely characterized by a "do-it-yourself" ethos, as opposed to the aesthetics of the then already established Metal bands who often used established fonts for their logos (see **Iron Maiden**, for example).<sup>1</sup> Arguably the most famous example of this is **Metallica**'s logo that was drawn up by none other than James Hetfield himself. This may be why certain US Thrash logos, or part of these logos, **look a bit off**; because they were not always done by trained graphic designers who are familiar with rulers and with drawing and measuring segments.
 
 
 ![Bay Area Thrash](..\assets\img\projects\proj-8\bay.jpg)
@@ -39,3 +39,6 @@ Another thing to point out here is that in Bay Area Thrash logos you can often f
 [<img src="..\assets\img\projects\proj-9\usthrash.jpg" alt="Technical Death Metal" width=200 >](/USTHRASH/)
 
 Take me back to the [sample overview](../projects/proj-8).
+
+##### Reference(s):
+##### [1] J. Kaz. IGN: The Best Band Logos: Iconic emblems that put a visual spin on the rock. https://web.archive.org/web/20100324191426/http://music.ign.com/articles/941/941142p1.html, 2009; R. Henderson. Billboard: View From the Bridge: Diverse Sounds Connect a Music-Rich Town, 14. apr. 2001; and J.K. Davies. BandLogoJukeBox: Iron Maiden. https://www.bandlogojukebox.com/blog/2020/11/29/i2-iron-maiden, 2020.
