@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '	AVANT-GARDE METAL'
+title: 'AVANT-GARDE METAL'
 permalink: /AVANTGARDE/
 ---
 

@@ -4,7 +4,7 @@ title: 'Nintendocore'
 permalink: /NINTENDOCORE/
 ---
 
-![Nintendo](..\assets\img\projects\proj-8\nintendo.jpg)
+![Nintendocore](..\assets\img\projects\proj-8\nintendo.jpg)
 
 
 Nintendocore (a term originally, apparently jokingly, coined by Nathan Winneke, lead vocalist of **HORSE the band**) is a derivative form of Metalcore that fuses typical Metalcore elements -- i.e. mosh-friendly breakdowns and the screams of a prepubescent teenager -- with the sound of 1980s chiptune music. In other words, if it were a Jeopardy question, it would be: "What music won't get you laid?"
