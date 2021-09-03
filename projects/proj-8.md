@@ -100,7 +100,7 @@ I'd like to give a shoutout to everyone who helped me write this guide -- your i
 ##### Konow, D. *Bang Your Head: The Rise and Fall of Heavy Metal*, 2002.
 ##### Konow, D. LA Weekly: Drummer Gene Hohlan Was Just 18 When He Recorded an '80s Thrash Classic. https://www.laweekly.com/drummer-gene-hoglan-was-just-18-when-he-recorded-an-80s-thrash-classic/, 2017.
 ##### Lombardo, D. Loudwire: Dave Lombardo - Wikipedia: Fact or Fiction? https://www.youtube.com/watch?v=LKppPspVNDs, 2015. 
-##### Mengerink, M.A. Hitler, the Holocaust, and Heavy Metal Music: Holocaust Memory and Representation in the Heavy Metal Subculture, 1980-Present. In S.T. Horsfall, J.-M. Meij, and M. Probtsfield, ed. *Music Sociology: Examining the Role of Music in Social Life*, (unknown), 2013.
+##### Mengerink, M.A. Hitler, the Holocaust, and Heavy Metal Music: Holocaust Memory and Representation in the Heavy Metal Subculture, 1980-Present. In S.T. Horsfall, J.-M. Meij, and M. Probtsfield, ed. *Music Sociology: Examining the Role of Music in Social Life*, 2013.
 ##### Moore, R. *Sells Like Teen Spirit: Music, Youth Culture, and Social Crisis*, 2010.
 ##### Neilson, T. Where Myth and Metal Collide: Finnish Folk Metal. In S.A. Wilson, ed. *Music at the Extremes: Essays on Sounds Outside the Mainstream*, 2015. 
 ##### Nielson, E. Paragraph on Metal on Trial. *Rap on Trial: Race, Lyrics, and Guilt in America*, 2019.

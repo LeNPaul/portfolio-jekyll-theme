@@ -44,6 +44,6 @@ Here, I purposely decided to do a logo in the vein of those of **Iron Maiden** a
 [<img src="..\assets\img\projects\proj-9\speed.jpg" alt="Speed Metal" width=200 >](/SPEEDMETAL/)
 
 ##### Reference(s):
-S. Poole. Retro Rock and Heavy History. *Global Metal Music and Culture: Current Directions in Metal Studies*, pp. 302-303; and M. Heatley. *The Virgin Encyclopedia of Rock: The World's Most Comprehensive Illustrated Rock Reference*, p. 122, 1996.
+##### [1] S. Poole. Retro Rock and Heavy History. *Global Metal Music and Culture: Current Directions in Metal Studies*, pp. 302-303; and M. Heatley. *The Virgin Encyclopedia of Rock: The World's Most Comprehensive Illustrated Rock Reference*, p. 122, 1996.
 
 Take me back to the [sample overview](../projects/proj-8).

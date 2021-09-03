@@ -41,8 +41,8 @@ But I'd say generally, as opposed to other the (sub)genres that we discuss in th
 ##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\hair.jpg" alt="Glam Metal" width=200 >](/HAIRMETAL/)
 [<img src="..\assets\img\projects\proj-9\nwobhm.jpg" alt="New Wave of British Heavy Metal" width=200 >](/NWOBHM/)
-[<img src="..\assets\img\projects\proj-9\power.jpg" alt="Power Metal" width=200 >](/POWER/)
-[<img src="..\assets\img\projects\proj-9\speed.jpg" alt="Speed Metal" width=200 >](/SPEED/)
+[<img src="..\assets\img\projects\proj-9\power.jpg" alt="Power Metal" width=200 >](/POWERMETAL/)
+[<img src="..\assets\img\projects\proj-9\speed.jpg" alt="Speed Metal" width=200 >](/SPEEDMETAL/)
 
 ##### Reference(s):
 ##### [1] C. Harison. "Won't Get Fooled Again": The Atlantic Generation Comes of Age. *Feedback: The Who and their Generation*, pp. 156-57. 

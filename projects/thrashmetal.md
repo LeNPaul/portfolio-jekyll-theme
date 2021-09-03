@@ -12,7 +12,7 @@ Of course, some Thrash lyrics tend to be much smarter than others. Take **Dark A
 
 As a scene, it developed "as a 'fundamentalist' reaction against a perceived decadence found in more mainstream metal."<sup>3</sup> This happened simultaneously in different parts of the world, in different countries (Britain, Germany, Latin America, and the US), from where it developed out of different genres (most notably NWOBHM and Punk Hardcore), and this is why there is a variety of styles within the Thrash genre -- one that is in large part determined by bands' locality. 
 
-Of course, Thrash Metal has its own aesthetics, too. Generally speaking, Thrash logos tend to have **straight, sharp edges** that reflect the tightness and controlled nature of the music's rhythms.<sup>2</sup> (You know, tight and controlled ... like a murderer carving their name in a victim's chest.<sup>4</sup> Don't give me that look. How else is one supposed to purify Metal from commercialism?) Indeed, some exceptions aside, there is no softness to be found in them whatsoever -- there is only hardness.
+Of course, Thrash Metal has its own aesthetics, too. Generally speaking, Thrash logos tend to have **straight, sharp edges** that reflect the tightness and controlled nature of the music's rhythms.<sup>4</sup> (You know, tight and controlled ... like a murderer carving their name in a victim's chest.<sup>5</sup> Don't give me that look. How else is one supposed to purify Metal from commercialism?) Indeed, some exceptions aside, there is no softness to be found in them whatsoever -- there is only hardness.
 
 ## US Thrash
 ![Thrash Metal](..\assets\img\projects\proj-8\thrash.jpg)
@@ -49,5 +49,15 @@ It can be difficult to differentiate between a US Thrash band and a German one; 
 [<img src="..\assets\img\projects\proj-9\baythrash.jpg" alt="Bay Area Thrash Metal" width=130 >](/BAYTHRASH/)
 [<img src="..\assets\img\projects\proj-9\florida.jpg" alt="Florida Death Metal" width=130 >](/FLORIDADEATH/)
 [<img src="..\assets\img\projects\proj-9\teutonic.jpg" alt="Teutonic Thrash Metal" width=130 >](/TEUTONICTHRASH/)
+
+##### Reference(s):
+##### [1] M.A. Mengerink.  Hitler, the Holocaust, and Heavy Metal Music: Holocaust Memory and Representation in the Heavy Metal Subculture, 1980-Present. In S.T. Horsfall, J.-M. Meij, and M. Probtsfield, ed. *Music Sociology: Examining the Role of Music in Social Life*, 178-179, 2013.
+##### [2] D. Konow. LA Weekly: Drummer Gene Hohlan Was Just 18 When He Recorded an '80s Thrash Classic. https://www.laweekly.com/drummer-gene-hoglan-was-just-18-when-he-recorded-an-80s-thrash-classic/, 2017.
+##### [3] Mengerink. 2013.
+##### [4] L. Stinson. Wired: The Beauty and Total Illegibility of Extreme Metal Logos. https://www.wired.com/2015/10/the-beauty-and-total-illegibility-of-extreme-metal-logos, 2015.
+##### [5] D. Lombardo. Loudwire: Dave Lombardo - Wikipedia: Fact or Fiction? https://www.youtube.com/watch?v=LKppPspVNDs, 2015. 
+
+
+
 
 Take me back to the [sample overview](../projects/proj-8).

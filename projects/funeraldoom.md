@@ -41,7 +41,4 @@ Funeral Doom is characterized by its sloooooow tempos -- slow even for Doom stan
 [<img src="..\assets\img\projects\proj-9\sludge.jpg" alt="Sludge Metal" width=200 >](/SLUDGEMETAL/)
 [<img src="..\assets\img\projects\proj-9\psychedelic.jpg" alt="Stoner Metal" width=200 >](/STONERMETAL/)
 
-##### Reference(s):
-##### [1] W. Irwin. *Black Sabbath and Philosophy: Mastering Reality*, p. 79, 2012.
-
 Take me back to the [sample overview](../projects/proj-8).

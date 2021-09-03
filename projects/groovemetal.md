@@ -10,8 +10,6 @@ Groove Metal is an off-shoot of Thrash. The riffs are thrashy, but the tempos ar
 
 Because Groove Metal is a softened-up version of Thrash, it's only obvious that bands in this genre have a "softer" logo. And what is softer than a metal? Exactly -- wood. So I gave this one a **wooden finish**. (Honestly, I had no idea what I was supposed to do with Groove Metal. So I took some cues from Pantera and White Zombie and this is what it resulted in.)
 
-
-
 #### Some Groove Metal bands to check out:
 
 <ul>
