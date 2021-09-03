@@ -8,7 +8,7 @@ These logos were all created for a paper called **'Illegible Semantics: Explorin
 
 
 [<img src="..\assets\img\projects\proj-9\avantgarde.jpg" alt="Avant-Garde Metal" width=140 >](/AVANTGARDE/)
-[<img src="..\assets\img\projects\proj-9\baythrash.jpg" alt="Bay Area Thrash" width=140 >](/BAYTHRASH/)
+[<img src="..\assets\img\projects\proj-9\baythrash.jpg" alt="Bay Area Thrash" width=140 >](/THRASHMETAL3/)
 [<img src="..\assets\img\projects\proj-9\blackeneddeath.jpg" alt="Blackened Death Metal" width=140 >](/CROSSOVER1/)
 [<img src="..\assets\img\projects\proj-9\blackenedthrash.jpg" alt="Blackened Thrash Metal" width=140 >](/CROSSOVER2/)
 [<img src="..\assets\img\projects\proj-9\black11.jpg" alt="Black Metal" width=140 >](/BLACKMETAL/)
@@ -23,7 +23,7 @@ These logos were all created for a paper called **'Illegible Semantics: Explorin
 [<img src="..\assets\img\projects\proj-9\djent.jpg" alt="Djent" width=140 >](/DJENT/)
 [<img src="..\assets\img\projects\proj-9\ecumenical.jpg" alt="Ecumenical Metal" width=140 >](/ECUMENICAL/)
 [<img src="..\assets\img\projects\proj-9\florida.jpg" alt="Funeral Doom" width=140 >](/FLORIDADEATH/)
-[<img src="..\assets\img\projects\proj-9\funeral.jpg" alt="Funeral Doom" width=140 >](/FUNERALDOOM/)
+[<img src="..\assets\img\projects\proj-9\funeral.jpg" alt="Doom Metal" width=140 >](/DOOMMETAL/)
 [<img src="..\assets\img\projects\proj-9\folk1.jpg" alt="Folk Metal" width=140 >](/FOLKMETAL/)
 [<img src="..\assets\img\projects\proj-9\gothic.jpg" alt="Gothic Metal" width=140 >](/GOTHICMETAL/)
 [<img src="..\assets\img\projects\proj-9\grindcore.jpg" alt="Grindcore" width=140 >](/GRINDCORE/)
@@ -50,9 +50,9 @@ These logos were all created for a paper called **'Illegible Semantics: Explorin
 [<img src="..\assets\img\projects\proj-9\symphonic.jpg" alt="Symphonic Metal" width=140 >](/SYMPHONICMETAL/)
 [<img src="..\assets\img\projects\proj-9\tech00.jpg" alt="Technical Death Metal" width=140 >](/TECHDEATH00S/)
 [<img src="..\assets\img\projects\proj-9\tech901.jpg" alt="Technical Death Metal" width=140 >](/TECHDEATH90S/)
-[<img src="..\assets\img\projects\proj-9\teutonic.jpg" alt="Teutonic Thrash Metal" width=140 >](/TEUTONICTHRASH/)
+[<img src="..\assets\img\projects\proj-9\teutonic.jpg" alt="Teutonic Thrash Metal" width=140 >](/THRASHMETAL2/)
 [<img src="..\assets\img\projects\proj-9\unblack.jpg" alt="Unblack Metal" width=140 >](/UNBLACK/)
-[<img src="..\assets\img\projects\proj-9\usthrash.jpg" alt="US Thrash Metal" width=140 >](/USTHRASH/)
+[<img src="..\assets\img\projects\proj-9\usthrash.jpg" alt="US Thrash Metal" width=140 >](/THRASHMETAL/)
 [<img src="..\assets\img\projects\proj-9\war.jpg" alt="War Metal" width=140 >](/WARMETAL/)
 
 

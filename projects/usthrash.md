@@ -37,7 +37,6 @@ It can be difficult to differentiate between a US Thrash band and a German one; 
 ##### Related (sub)genres:
 [<img src="..\assets\img\projects\proj-9\baythrash.jpg" alt="Bay Area Thrash Metal" width=130 >](/BAYTHRASH/)
 [<img src="..\assets\img\projects\proj-9\florida.jpg" alt="Florida Death Metal" width=130 >](/FLORIDADEATH/)
-[<img src="..\assets\img\projects\proj-9\usthrash.jpg" alt="Bay Area Thrash Metal" width=130 >](/THRASHMETAL/)
 [<img src="..\assets\img\projects\proj-9\teutonic.jpg" alt="Teutonic Thrash Metal" width=130 >](/TEUTONICTHRASH/)
 
 Take me back to the [sample overview](../projects/proj-8).

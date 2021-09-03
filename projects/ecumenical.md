@@ -30,6 +30,6 @@ Their logo is a tongue-in-cheek riff on the **Emperor** logo, featuring **crosse
 [<img src="..\assets\img\projects\proj-9\unblack.jpg" alt="Ecumenical Metal" width=200 >](/UNBLACK/)
 
 ##### Reference(s):
-##### [1] S. (unknown). The Progressive Subway. Interview: Psalmtanic. http://theprogressivesubway.com/2020/04/13/interview-psalmtanic, 2020.
+##### [1] S. (unknown). The Progressive Subway: Interview: Psalmtanic. http://theprogressivesubway.com/2020/04/13/interview-psalmtanic, 2020.
 
 Take me back to the [sample overview](../projects/proj-8).

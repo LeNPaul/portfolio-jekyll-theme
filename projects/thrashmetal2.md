@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Thrash Metal'
-permalink: /THRASHMETAL/
+permalink: /THRASHMETAL2/
 ---
 
 Abrasive. Loud. Extremely fast yet still precise, with impeccable sense of timing. If judging by these words alone, it may sound like I'm describing a Dutch olympian -- a speed skater or a cyclist, perhaps. But we're talking music, aren't we? I'm talking Thrash Metal, of course, which means I'm talking yet another extreme subgenre of Heavy Metal. 
@@ -14,40 +14,38 @@ As a scene, it developed "as a 'fundamentalist' reaction against a perceived dec
 
 Of course, Thrash Metal has its own aesthetics, too. Generally speaking, Thrash logos tend to have **straight, sharp edges** that reflect the tightness and controlled nature of the music's rhythms.<sup>2</sup> (You know, tight and controlled ... like a murderer carving their name in a victim's chest.<sup>4</sup> Don't give me that look. How else is one supposed to purify Metal from commercialism?) Indeed, some exceptions aside, there is no softness to be found in them whatsoever -- there is only hardness.
 
-## US Thrash
-![Thrash Metal](..\assets\img\projects\proj-8\thrash.jpg)
+## Teutonic Thrash Metal
+As a genre, Teutonic Thrash Metal has a distinct German character, and a few notable exceptions aside, this is reflected in the kind of logos bands in this genre have. Like 1980s US Thrash logos, Teutonic Thrash logos are **extremely angular, with fixed angles**, but with **less emphasis on symmetry**, and the letters are generally **more blocky in shape**. With this, German Thrashers seem to be saying, "We believe in robustness over sophistication, and function over form." Which is all fine and dandy until you try to put a cube through a round hole. It's probably why you've never heard of **Kreator** ... while you no doubt own a copy of the **"Black"** album.
 
-It can be difficult to differentiate between a US Thrash band and a German one; perhaps the only clue is that US Thrash logos are more likely to have hints or elements of **symmetry** (because Americans love symmetry in all things except the balance of power) and **interconnectedness** to them. Come to think of it, they may also have more likelihood of having an **outline** or **"halo"** surrounding the letters. 
+![Teutonic Thrash](..\assets\img\projects\proj-8\teutonic.jpg)
 
-
-##### Some US Thrash bands to check out:
+##### Some Teutonic Thrash bands to check out:
 
 <ul>
-<li>Megadeth
+<li>Destruction	
 <ul>
-<li><a href="https://www.metal-archives.com/bands/Megadeth/138" target="_blank" rel="noopener"><span>Band information</span></a></li>
-<li><a href="https://open.spotify.com/track/3090goAxG6IlpCifA8m9xB?si=f5d0203473a6459b" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+<li><a href="https://www.metal-archives.com/bands/Destruction/155" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/1VHQF5TWJ8i0KCsMLhOaNI?si=533c93dc86f94abb" target="_blank" rel="noopener"><span>Spotify</span></a></li>
 </ul>
 </li>
 
-<li>Metallica
+<li>Kreator
 <ul>
-<li><a href="https://www.metal-archives.com/bands/Metallica/125" target="_blank" rel="noopener"><span>Band information</span></a></li>
-<li><a href="https://open.spotify.com/track/4d50VgYqfw1Rd0knRRL3qv?si=68181319926147c5" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+<li><a href="https://www.metal-archives.com/bands/Kreator/157" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/712ukvLX20rwHuTWg7Gcjb?si=b8ad6738e0f24100" target="_blank" rel="noopener"><span>Spotify</span></a></li>
 </ul>
 </li>
 
-<li>Slayer
+<li>Sodom
 <ul>
-<li><a href="https://www.metal-archives.com/bands/Slayer/72" target="_blank" rel="noopener"><span>Band information</span></a></li>
-<li><a href="https://open.spotify.com/track/5ohfpKB5tt275f4Y4lQ9F7?si=5cc2cc0fa80d4925" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+<li><a href="https://www.metal-archives.com/bands/sodom/419" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/3lMVtX2zN22nm30jGVoOpT?si=d42d94d609184209" target="_blank" rel="noopener"><span>Spotify</span></a></li>
 </ul>
 </li>
 </ul>
 
-##### Related (sub)genres:
-[<img src="..\assets\img\projects\proj-9\baythrash.jpg" alt="Bay Area Thrash Metal" width=130 >](/BAYTHRASH/)
-[<img src="..\assets\img\projects\proj-9\florida.jpg" alt="Florida Death Metal" width=130 >](/FLORIDADEATH/)
-[<img src="..\assets\img\projects\proj-9\teutonic.jpg" alt="Teutonic Thrash Metal" width=130 >](/TEUTONICTHRASH/)
+##### Related (sub)genre(s):
+[<img src="..\assets\img\projects\proj-9\blackenedthrash.jpg" alt="Blackened Thrash Metal" width=200 >](/BLACKENEDTHRASH/)
+[<img src="..\assets\img\projects\proj-9\usthrash.jpg" alt="US Thrash Metal" width=200 >](/USTHRASH/)
 
 Take me back to the [sample overview](../projects/proj-8).

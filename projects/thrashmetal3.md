@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Thrash Metal'
-permalink: /THRASHMETAL/
+permalink: /THRASHMETAL3/
 ---
 
 Abrasive. Loud. Extremely fast yet still precise, with impeccable sense of timing. If judging by these words alone, it may sound like I'm describing a Dutch olympian -- a speed skater or a cyclist, perhaps. But we're talking music, aren't we? I'm talking Thrash Metal, of course, which means I'm talking yet another extreme subgenre of Heavy Metal. 
@@ -14,40 +14,45 @@ As a scene, it developed "as a 'fundamentalist' reaction against a perceived dec
 
 Of course, Thrash Metal has its own aesthetics, too. Generally speaking, Thrash logos tend to have **straight, sharp edges** that reflect the tightness and controlled nature of the music's rhythms.<sup>2</sup> (You know, tight and controlled ... like a murderer carving their name in a victim's chest.<sup>4</sup> Don't give me that look. How else is one supposed to purify Metal from commercialism?) Indeed, some exceptions aside, there is no softness to be found in them whatsoever -- there is only hardness.
 
-## US Thrash
-![Thrash Metal](..\assets\img\projects\proj-8\thrash.jpg)
+## Bay Area Thrash
+If we are to distinguish among US Thrash Metal bands and we continue differentiating, then the early-1980s San Francisco Bay Area scene surely deserves some attention from everyone! What's interesting here is that the aesthetics of said scene were largely characterized by a "do-it-yourself" ethos, as opposed to the aesthetics of the then already established Metal bands who often used established fonts for their logos (see **Iron Maiden**, for example).<sup>1</sup> Arguably the most famous example of this is **Metallica**'s logo that was drawn up by none other than James Hetfield himself. This may be why certain US Thrash logos, or part of these logos, **look a bit off**; because they were not always done by trained graphic designers who are familiar with rulers and with drawing and measuring segments.
 
-It can be difficult to differentiate between a US Thrash band and a German one; perhaps the only clue is that US Thrash logos are more likely to have hints or elements of **symmetry** (because Americans love symmetry in all things except the balance of power) and **interconnectedness** to them. Come to think of it, they may also have more likelihood of having an **outline** or **"halo"** surrounding the letters. 
+![Bay Area Thrash](..\assets\img\projects\proj-8\bay.jpg)
 
+Another thing to point out here is that in Bay Area Thrash logos you can often find a **juxtaposition of straight lines with round shapes** or **straight lines against curved lines**. To refer back to the example of Metallica's logo, the C is rounded, but the first and last letters are sharp and italicized. 
 
-##### Some US Thrash bands to check out:
+##### Some Bay Area Thrash bands to check out:
 
 <ul>
-<li>Megadeth
+<li>Death Angel
 <ul>
-<li><a href="https://www.metal-archives.com/bands/Megadeth/138" target="_blank" rel="noopener"><span>Band information</span></a></li>
-<li><a href="https://open.spotify.com/track/3090goAxG6IlpCifA8m9xB?si=f5d0203473a6459b" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+<li><a href="https://www.metal-archives.com/bands/Death_Angel/179" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/20bJTQOaoHqeCHBhqIgcTl?si=345e2ba29df54623" target="_blank" rel="noopener"><span>Spotify</span></a></li>
 </ul>
 </li>
 
-<li>Metallica
+<li>Exodus
 <ul>
-<li><a href="https://www.metal-archives.com/bands/Metallica/125" target="_blank" rel="noopener"><span>Band information</span></a></li>
-<li><a href="https://open.spotify.com/track/4d50VgYqfw1Rd0knRRL3qv?si=68181319926147c5" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+<li><a href="https://www.metal-archives.com/bands/Exodus/173" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/5ZOOjqoCaUydmo8bxSdosj?si=4f8728e9b6094c85" target="_blank" rel="noopener"><span>Spotify</span></a></li>
 </ul>
 </li>
 
-<li>Slayer
+<li>Testament
 <ul>
-<li><a href="https://www.metal-archives.com/bands/Slayer/72" target="_blank" rel="noopener"><span>Band information</span></a></li>
-<li><a href="https://open.spotify.com/track/5ohfpKB5tt275f4Y4lQ9F7?si=5cc2cc0fa80d4925" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+<li><a href="https://www.metal-archives.com/bands/Testament/70" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/5xXeIlEiWIA8xnPa8BkJyj?si=e87ef00d97334129" target="_blank" rel="noopener"><span>Spotify</span></a></li>
 </ul>
 </li>
 </ul>
 
-##### Related (sub)genres:
-[<img src="..\assets\img\projects\proj-9\baythrash.jpg" alt="Bay Area Thrash Metal" width=130 >](/BAYTHRASH/)
-[<img src="..\assets\img\projects\proj-9\florida.jpg" alt="Florida Death Metal" width=130 >](/FLORIDADEATH/)
-[<img src="..\assets\img\projects\proj-9\teutonic.jpg" alt="Teutonic Thrash Metal" width=130 >](/TEUTONICTHRASH/)
+##### Related (sub)genre(s):
+[<img src="..\assets\img\projects\proj-9\florida.jpg" alt="Florida Death Metal" width=200 >](/FLORIDADEATH/)
+[<img src="..\assets\img\projects\proj-9\usthrash.jpg" alt="Technical Death Metal" width=200 >](/USTHRASH/)
+
+Take me back to the [sample overview](../projects/proj-8).
+
+##### Reference(s):
+##### [1] J. Kaz. IGN: The Best Band Logos: Iconic emblems that put a visual spin on the rock. https://web.archive.org/web/20100324191426/http://music.ign.com/articles/941/941142p1.html, 2009; R. Henderson. Billboard: View From the Bridge: Diverse Sounds Connect a Music-Rich Town, 14. apr. 2001; and J.K. Davies. BandLogoJukeBox: Iron Maiden. https://www.bandlogojukebox.com/blog/2020/11/29/i2-iron-maiden, 2020.
 
 Take me back to the [sample overview](../projects/proj-8).
