@@ -123,7 +123,7 @@ Today, Black Metal is an international phenomenon, and there are many Black Meta
 ##### Reference(s):
 ##### [1] M. Unger. *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, p. 24, 2016; and A. O'Neill. Ch. 5 on The First Wave of Black Metal. *A History of Heavy Metal*, 2017.
 ##### [2] D. Patterson. Ch. 33: Marduk: Part I. *Black Metal: Evolution of the Cult*, 2013.
-##### [3] B. Pilo. True Norwegian Black Metal: Nationalism and Authenticity in the Norwegian Black Metal of the '90s. In T.M. Karjalainen, ed. *Sounds of Origin in Heavy Metal Music*, p. 45-46, 2018.
+##### [3] B. Pilo. True Norwegian Black Metal: Nationalism and Authenticity in the Norwegian Black Metal of the '90s. In T.M. Karjalainen, ed. *Sounds of Origin in Heavy Metal Music*, pp. 45-46, 2018.
 ##### [4] B. Hutcherson and R. Haenfler. Musical Genre as a Gendered Process: Authenticity in Extreme Metal. In N.K. Denzin, ed. *Studies in Symbolic Interaction*, p. 116, 2015.
 ##### [5] L. Stinson. Wired: The Beauty and Total Illegibility of Extreme Metal Logos. https://www.wired.com/2015/10/the-beauty-and-total-illegibility-of-extreme-metal-logos, 2015; and M. Rampton. Kerrang: Inside The World Of Extreme Metal Logos. https://www.kerrang.com/features/inside-the-world-of-extreme-metal-logos, 2018.
 

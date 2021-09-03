@@ -25,7 +25,7 @@ While "Blackened Death" may seem like a pleonasm, since black is associated with
 [<img src="..\assets\img\projects\proj-9\deathgrind1.jpg" alt="Deathgrind" width=200 >](/DEATHGRIND/)
 
 ##### Reference(s):
-##### [1] D. Patterson. Marduk: Sweden Part I. *Black Metal: Evolution of the Cult*, p. 331-341, 2013.
+##### [1] D. Patterson. Marduk: Sweden Part I. *Black Metal: Evolution of the Cult*, pp. 331-341, 2013.
 ##### [2] Holdeneye. Oxygen Destroyer - Sinister Monstrosities Spawned by the Unfathomable Ignorance of Humankind Review. https://www.angrymetalguy.com/oxygen-destroyer-sinister-monstrosities-spawned-by-the-unfathomable-ignorance-of-humankind-review, 2021.
 
 Take me back to the [sample overview](../projects/proj-8).

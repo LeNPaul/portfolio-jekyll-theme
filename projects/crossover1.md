@@ -56,7 +56,7 @@ Blackened Death Metal is usually straight-up Death Metal, but with lyrics that d
 [<img src="..\assets\img\projects\proj-9\war.jpg" alt="War Metal" width=200 >](/WARMETAL)
 
 ##### Reference(s):
-##### [1] D. Patterson. Marduk: Sweden Part I. *Black Metal: Evolution of the Cult*, p. 331-341, 2013.
+##### [1] D. Patterson. Marduk: Sweden Part I. *Black Metal: Evolution of the Cult*, pp. 331-341, 2013.
 ##### [2] Holdeneye. Oxygen Destroyer - Sinister Monstrosities Spawned by the Unfathomable Ignorance of Humankind Review. https://www.angrymetalguy.com/oxygen-destroyer-sinister-monstrosities-spawned-by-the-unfathomable-ignorance-of-humankind-review, 2021.
 
 Take me back to the [sample overview](../projects/proj-8).

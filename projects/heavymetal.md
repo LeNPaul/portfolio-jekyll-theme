@@ -45,7 +45,7 @@ But I'd say generally, as opposed to other the (sub)genres that we discuss in th
 [<img src="..\assets\img\projects\proj-9\speed.jpg" alt="Speed Metal" width=200 >](/SPEEDMETAL/)
 
 ##### Reference(s):
-##### [1] C. Harison. "Won't Get Fooled Again": The Atlantic Generation Comes of Age. *Feedback: The Who and their Generation*, pp. 156-57. 
+##### [1] C. Harison. "Won't Get Fooled Again": The Atlantic Generation Comes of Age. *Feedback: The Who and their Generation*, pp. 156-57, 2014. 
 ##### [2] E. Nielson. *Rap on Trial: Race, Lyrics, and Guilt in America*, p. 89, 2019; and M. Phillipov. *Death Metal and Music Criticism: Analysis at the Limits*, p. 55, 2012.
 
 Take me back to the [sample overview](../projects/proj-8).
