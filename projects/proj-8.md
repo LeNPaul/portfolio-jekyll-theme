@@ -62,7 +62,7 @@ These logos were all created for a paper called **'Illegible Semantics: Explorin
 #### Introduction
 September 1, 2021
 
-About a month ago, I, together with a crackteam of scientists and researchers, submitted a paper called **Illegible Semantics: Exploring the Design Space of Metal Logos** to alt.VIS, a workshop at IEEE VIS, the premier forum for Visualization and Visual Analytics. Last night we got the news that it was accepted.
+About a month ago, I, together with a crack team of scientists and researchers, submitted a paper called **Illegible Semantics: Exploring the Design Space of Metal Logos** to alt.VIS, a workshop at IEEE VIS, the premier forum for Visualization and Visual Analytics. Last night we got the news that it was accepted.
 
 As you may surmise from the title, we explore the "design space" of Metal Logos in our paper; and when we say "Metal," we refer to Heavy Metal and its Extreme Metal subgenres -- and the subgenres within those. Each has its own visual aesthetics and codes that govern how logos can or should look like, generally. Here things can get weirdly specific. For example, bands in a genre often have the same kind of logos, but depending on subgenre, bands may have a different kind of logo, and a logo style can even depend on a given band's locality!
 
