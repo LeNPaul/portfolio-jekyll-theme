@@ -52,7 +52,6 @@ As a genre, Teutonic Thrash Metal has a distinct German character, and a few not
 ##### [1] M.A. Mengerink.  Hitler, the Holocaust, and Heavy Metal Music: Holocaust Memory and Representation in the Heavy Metal Subculture, 1980-Present. In S.T. Horsfall, J.-M. Meij, and M. Probtsfield, ed. *Music Sociology: Examining the Role of Music in Social Life*, 178-179, 2013.
 ##### [2] D. Konow. LA Weekly: Drummer Gene Hohlan Was Just 18 When He Recorded an '80s Thrash Classic. https://www.laweekly.com/drummer-gene-hoglan-was-just-18-when-he-recorded-an-80s-thrash-classic/, 2017.
 ##### [3] Mengerink. 2013.
-##### [4]
 ##### [4] L. Stinson. Wired: The Beauty and Total Illegibility of Extreme Metal Logos. https://www.wired.com/2015/10/the-beauty-and-total-illegibility-of-extreme-metal-logos, 2015.
 ##### [5] D. Lombardo. Loudwire: Dave Lombardo - Wikipedia: Fact or Fiction? https://www.youtube.com/watch?v=LKppPspVNDs, 2015. 
 
