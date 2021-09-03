@@ -85,7 +85,7 @@ It may well be that you have other ideas on what these logos are supposed to loo
 #### Acknowledgements
 I'd like to give a shoutout to everyone who helped me write this guide -- your insights and thoughts were much appreciated! I owe a special thanks to three in particular who shared their time and expertise with me throughout this project and provided me with useful feedback on my guide: Erik <a href="https://www.instagram.com/negakinu/" target="_blank" rel="noopener"><span>Negakinu</span></a>, Marco W., and Melle Gerritsen. 
 
-#### References (in Alphabetic Order)
+#### References
 ##### Davies, J.K. BandLogoJukeBox: Iron Maiden. https://www.bandlogojukebox.com/blog/2020/11/29/i2-iron-maiden, 2020.
 ##### Dickstein, M. The Aesthetics of Fright. In B.K. Grant, ed. *Plans of Reason: Essays on the Horror Film*, 1984.
 ##### Fletcher, K.F.B. and O. Umurhan, ed. Introduction: Where Metal and Classics Meet. *Classical Antiquity in Heavy Metal*, 2020.
@@ -117,4 +117,3 @@ I'd like to give a shoutout to everyone who helped me write this guide -- your i
 ##### Towe Horsfall, S., J.-M. Meij, and M. Probstfield, *Music Sociology: Examining the Role of Music in Social Life*, 2013.
 ##### Unger, U. *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, 2016.
 ##### (unknown), S. The Progressive Subway: Interview: Psalmtanic. http://theprogressivesubway.com/2020/04/13/interview-psalmtanic, 2020.
-
