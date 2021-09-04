@@ -8,7 +8,6 @@ As a genre, Teutonic Thrash Metal has a distinct German character, and a few not
 
 ![Teutonic Thrash Metal](..\assets\img\projects\proj-8\teutonic.jpg)
 
-
 ##### Some Teutonic Thrash bands to check out:
 
 <ul>

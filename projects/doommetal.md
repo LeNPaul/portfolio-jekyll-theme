@@ -32,13 +32,10 @@ This is what makes Doom logo extremely challenging -- challenging for me at leas
 </li>
 </ul>
 
-
 ## Funeral Doom
-
-![Funeral Doom](..\assets\img\projects\proj-8\funeral.jpg)
-
 Funeral Doom is characterized by its sloooooow tempos -- slow even for Doom standards. The letters are spaced **miles apart** from each other so as to visually convey the sense of mind-numbing slowness. And because the music doesn't inspire anyone to come up a cool custom design, Funeral Doom bands often have to settle for a **wordmark** with some **decorative curls** that are really only there to signal to the eyes that this or that letter is still very much part of the name and logo.   
 
+![Funeral Doom](..\assets\img\projects\proj-8\funeral.jpg)
 
 ##### Some Funeral Doom bands to check out:
 

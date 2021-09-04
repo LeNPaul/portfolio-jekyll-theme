@@ -4,20 +4,33 @@ title: 'Melodic Death Metal'
 permalink: /MELODICDEATH/
 ---
 
-![Melodic Death Metal](..\assets\img\projects\proj-8\gothenburg.jpg)
-
-
 Melodic Death Metal was arguably first pioneered in the United Kingdom, but the genre really came into its own in Sweden, specifically in Gothenburg. As a genre, it took its inspiration from a wide range of styles, from Death Metal to NWOBHM to Progressive Rock, with certain elements from these reference styles more predominant in one band's music than another's, which may help explain why it's difficult to think of a quintessential Melodic Death logo. 
 
-Initially, indeed, in the early 1990s, Melodic Death logos were very diverse in style, with some (seemingly) taking their inspiration from "mainstream" Death Metal logos (**In Flames**), others had intricate custom designs (**At the Gates**), while still others opted for a distorted and deformed Celtic type (**Dark Tranquillity**). In later and more recent years, however, most bands in this genre have **highly-readable wordmarks** that are sometimes "touched up" or "filled in" with a **dirt brush**. 
+<script type="text/javascript">
+    function toggle_visibility(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'none')
+          e.style.display = 'block';
+       else
+          e.style.display = 'none';
+    }
+</script>
+<a href="#bar" name="bar" onclick="toggle_visibility('foo');">Read more ...</a>
+<div id="foo" style="display:none;">
 
-Looking at the history of some of these bands, it kinda makes perfect sense. Take **In Flames**, for example. In the early-1990s, they were amongst the first to pioneer Melodic Death Metal, releasing their first two albums with a fiery red Death Metal-inspired logo with a keyline detail. Then, in the late 1990s, they changed their style towards a more general melodic sound, which had them change their logo to a (seemingly) unmodified, cursive wordmark. A few years later, they dipped their toes in the Metalcore craze of the mid-2000s, releasing some albums with a non-cursive wordmark. And, more recently, they seem to have settled down for an "alternative" sound, which had them change logos yet again ... If a band changes styles more often than I change my underwear, it makes no sense to commit to an ephemeral genre logo; hence probably the choice for a basic logo.
+Initially, indeed, in the early 1990s, Melodic Death logos were very diverse in style, with some (seemingly) taking their inspiration from "mainstream" Death Metal logos (<strong>In Flames</strong>), others had intricate custom designs (<strong>At the Gates</strong>), while still others opted for a distorted and deformed Celtic type (<strong>Dark Tranquillity</strong>). In later and more recent years, however, most bands in this genre have <strong>highly-readable wordmarks</strong> that are sometimes "touched up" or "filled in" with a <strong>dirt brush</strong>. 
+<br><br>
+Looking at the history of some of these bands, it kinda makes perfect sense. Take <strong>In Flames</strong>, for example. In the early-1990s, they were amongst the first to pioneer Melodic Death Metal, releasing their first two albums with a fiery red Death Metal-inspired logo with a keyline detail. Then, in the late 1990s, they changed their style towards a more general melodic sound, which had them change their logo to a (seemingly) unmodified, cursive wordmark. A few years later, they dipped their toes in the Metalcore craze of the mid-2000s, releasing some albums with a non-cursive wordmark. And, more recently, they seem to have settled down for an "alternative" sound, which had them change logos yet again ... If a band changes styles more often than I change my underwear, it makes no sense to commit to an ephemeral genre logo; hence probably the choice for a basic logo.
+<br><br>
+<strong>In Flames</strong> are not an isolated example; <strong>Amorphis</strong> <strong>At the Gates</strong> <strong>Carcass</strong> <strong>Dark Tranquillity</strong> <strong>Hypocrisy</strong> -- basically all the major bands in this genre have "gone basic" at some point in their career -- some permanently, some only momentarily.
+<br><br>
+</div>
 
 <!--
 ![Melodic Death Metal](https://viralviralvideos.com/wp-content/uploads/GIF/2015/08/Youre-basic-GIF.gif)
 -->
 
-**In Flames** are not an isolated example; **Amorphis**, **At the Gates**, **Carcass**, **Dark Tranquillity**, **Hypocrisy** -- basically all the major bands in this genre have "gone basic" at some point in their career -- some permanently, some only momentarily.
+![Melodic Death Metal](..\assets\img\projects\proj-8\gothenburg.jpg)
 
 ##### Some Melodic Death Metal bands to check out:
 

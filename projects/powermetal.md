@@ -4,10 +4,9 @@ title: 'Power Metal'
 permalink: /POWERMETAL/
 ---
 
-![Power Metal](..\assets\img\projects\proj-8\power.jpg)
-
 Power Metal takes its inspiration from both "traditional" Heavy Metal and Speed Metal and fuses the elements therefrom with theatrics and bombast in an effort to create something emotionally impactful and powerful. (More often, however, the result is akin to Wagnerian *bathos*, which is no doubt the reason why Power Metal is only really popular in Germany and German-speaking Europe.) This may be why Power logos are often **rendered in full 3D**, with a **metallic** or **stony texture**. Because, you know, Power Metal is that deep and powerful! Like metal or stone!
 
+![Power Metal](..\assets\img\projects\proj-8\power.jpg)
 
 ##### Some Power Metal bands to check out:
 

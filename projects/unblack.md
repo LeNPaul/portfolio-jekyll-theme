@@ -6,9 +6,23 @@ permalink: /UNBLACK/
 
 Seeing how listeners that grew up on, all things considered, mild Heavy Metal were now openly flirting with Satan and his false promises, the Evangelicals knew they had to fight fire with the fire of love, gentleness, and profound wisdom. And so they formed their own bands -- White Metal bands --, with unreserved commitment to try to win back the Metal masses on to the narrow path of virtue and salvation.
 
-The term "White Metal" (or "Christian Metal") is an umbrella term encompassing all of the Heavy and Extreme Metal (sub)genres that deal with Christianity and wholesome living. Here I want to focus on one specific microgenre: Unblack Metal. Bands in this genre emulate their actual and pseudo-Satanic counterparts in everything but personal ideology and religious belief.  
+<script type="text/javascript">
+    function toggle_visibility(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'none')
+          e.style.display = 'block';
+       else
+          e.style.display = 'none';
+    }
+</script>
+<a href="#bar" name="bar" onclick="toggle_visibility('foo');">Read more ...</a>
+<div id="foo" style="display:none;">
 
-And here's a fun fact for you: Jan Axel "Hellhammer" Blomberg (of **Mayhem** fame) -- yes, *that* Hellhammer -- performed drums on **Antestor**'s 2004 EP *Det tapte liv* and their 2005 full-length album *The Forsaken*.
+The term "White Metal" (or "Christian Metal") is an umbrella term encompassing all of the Heavy and Extreme Metal (sub)genres that deal with Christianity and wholesome living. Here I want to focus on one specific microgenre: Unblack Metal. Bands in this genre emulate their actual and pseudo-Satanic counterparts in everything but personal ideology and religious belief.  
+<br><br>
+And here's a fun fact for you: Jan Axel "Hellhammer" Blomberg (of <strong>Mayhem</strong> fame) -- yes, *that* Hellhammer -- performed drums on <strong>Antestor</strong>s 2004 EP *Det tapte liv* and their 2005 full-length album *The Forsaken*.
+<br><br>
+</div>
 
 Logo-wise, it's what you may expect. Logos look like just your average Black Metal logos -- except that the T's look like **upright crosses** instead of inverted ones and naturally it goes without saying that any crosses added to the logo are pictured standing upright.
 ![Unblack Metal](..\assets\img\projects\proj-8\unblack.jpg)

@@ -6,12 +6,27 @@ permalink: /WARMETAL/
 
 Someone suggested I add another distinct subgenre of Black Metal, namely War Metal (you know who you are). It's a genre I'm far from familiar with, in part maybe because the term "War Metal" is contested and ill-defined like many genres, which is why musicologists would rather do away with the notion of a "genre" ... but that's a whole different topic for another time and other people. The point of contention is that, according to some, War Metal is basically nothing other than Blackened Death (which wll be discussed below). Others, meanwhile, feel that the term Blackened Death is too broad to be meaningful and that War Metal has its own style and philosophy that sets it apart not just from Blackened Death, but from all subgenres of Black Metal. 
 
+<script type="text/javascript">
+    function toggle_visibility(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'none')
+          e.style.display = 'block';
+       else
+          e.style.display = 'none';
+    }
+</script>
+<a href="#bar" name="bar" onclick="toggle_visibility('foo');">Read more ...</a>
+<div id="foo" style="display:none;">
+
 So what is it that makes War Metal (supposedly) unique? Well, it's raw lo-fi and violent. "But isn't all Black Metal raw lo-fi and violent?" No. Yes. But War Metal takes things all the way to the extremes -- of the *extreme*. 
 
-Imagine early-days Thrash and Black Metal being stuck in a loveless relationship. At some point they're like, "Maybe we should spice things up. Let's have a threesome." So then they decide to put out an online ad on an ill-reputable website, because they don't want their friends and coworkers to find out. Years go by without answer ... until finally someone answers. He seems a bit weird and puerile. But beggars can't be choosers. So one night, the couple invites him over. *Why not? We got nothing to lose. It's not like things can get any more stale.* Fast forward nine months, a little hell-maker is making everyone's life miserable. That's War Metal in a nutshell. 
-
-Lyrically and thematically, it's all about war, genocide, nuclear holocaust, Satan and blasphemy, and -- *war*. This is reflected in the genre's visual aesthetics: cartridge belts, gask masks, and goat heads reign here.
-
+Imagine early-days Thrash and Black Metal being stuck in a loveless relationship. At some point they're like, "Maybe we should spice things up. Let's have a threesome." So then they decide to put out an online ad on an ill-reputable website, because they don't want their friends and coworkers to find out. Years go by without answer ... until finally someone answers. He seems a bit weird and puerile. But beggars can't be choosers. So one night, the couple invites him over. "Why not? We got nothing to lose. It's not like things can get any more stale." Fast forward nine months, a little hell-maker is making everyone's life miserable. That's War Metal in a nutshell. 
+<br><br>
+Lyrically and thematically, it's all about war, genocide, nuclear holocaust, Satan and blasphemy, and -- war! This is reflected in the genre's visual aesthetics: cartridge belts, gask masks, and goat heads reign here.
+<br><br>
+Oh, and here's another fun though not widely known fact for you: <strong>Bestial Mockery</strong>'s 2005 split album with <strong>Unholy Massacre</strong>, <italic>Attack of the Morbid Coven</italic>,  is the very first album cover I (under my then-moniker Attar) ever worked on.
+<br><br>
+</div>
 
 Logo-wise, War Metal bands seem to have a thing for **black "negative space" letters** with a **white keyline detail**, giving the whole logo an **embossed effect** illusion. One extra detail to add to the letters are **long, pointed spikes**, or perhaps rather **pointed bullet cartridges**, that protrude from the letters' edges. Together, they give the logo an uneasy impression -- it's as if you're looking at something of the Lovecraftian void; it's not there, yet it is -- when trying to grasp it, it hurts. 
 
@@ -40,8 +55,6 @@ Logo-wise, War Metal bands seem to have a thing for **black "negative space" let
 </ul>
 </li>
 </ul>
-
-Here's another fun though not widely known fact for you: **Bestial Mockery**'s 2005 split album with **Unholy Massacre**, *Attack of the Morbid Coven*,  is the very first album cover I (under my then-moniker Attar) ever worked on.
 
 ##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\blackeneddeath.jpg" alt="Blackened Death Metal" width=200 >](/BLACKENEDDEATH/)

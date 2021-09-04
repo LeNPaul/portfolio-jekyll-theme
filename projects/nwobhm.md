@@ -4,14 +4,13 @@ title: 'New Wave of British Heavy Metal (NWOBHM)'
 permalink: /NWOBHM/
 ---
 
-![NWOBHM](..\assets\img\projects\proj-8\nwobhm.png)
-
 In the late-1970s and early-1980s, as the British Heavy Metal supergroups (**Black Sabbath**, **Deep Purple**, **Led Zeppelin**) that once were part of the anti-establishment, had now become part of the Establishment, a new wave of British Heavy Metal (NWOBHM) emerged all over Britain "to satisfy the loyal fans' need for live music at grass-roots level."<sup>1</sup> As a genre, NWOBHM encompasses diverse mainstream and underground styles, but one thing that bands playing in this genre shared in common is that they drew inspiration from the anti-establishment punk movement of the late-1970s, producing fast and raw songs.
 
 With respect to NWOBHM logos, what was said earlier about Heavy Metal logos also applies here -- style-wise they're all over the place.
 
 Here, I purposely decided to do a logo in the vein of those of **Iron Maiden** and **Judas Priest**, because I felt it'd make for an interesting comparison with specifically Teutonic (i.e. German) Thrash Metal logos, which can be found further down. The key words here: **industrial**, **tight**, and **laser-like**.
 
+![NWOBHM](..\assets\img\projects\proj-8\nwobhm.png)
 
 ##### Some NWOBHM bands to check out:
 

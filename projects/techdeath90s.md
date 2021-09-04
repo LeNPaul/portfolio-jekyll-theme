@@ -11,7 +11,6 @@ A hard-and-fast rule in Death Metal aesthetics is that the more technical the mu
 
 It is worthwhile pointing out here that you can often place a band in this genre somewhere in time just by looking at the band's logo. In the 1990s and before, Tech Death bands had "analogously" hand-drawn logos; post-2000s, these logos have been done mostly digitally -- and it shows.
 
-
 ##### Some Technical Death Metal bands to check out:
 
 <ul>

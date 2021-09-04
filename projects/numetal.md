@@ -8,12 +8,11 @@ If you were born in a white, well-off family in the 1980s or 1990s, chances are 
 
 ## Nu Metal
 
-![Nu Metal](..\assets\img\projects\proj-8\nu.jpg)
-
 I'd rather not waste any words discussing an unseemly genre as Nu Metal, but for clarity's sake, here's what Nu Metal is: it's an eclectic genre that blends elements from Alternative and Groove Metal and a myriad of other styles as well, including but not limited to, Industrial, Hip-Hop, and Funk; vocal styles range from melodic whining to white boy's rap and hysterical screaming; lastly, occasionally turntables and sampling are given more weight than the guitars -- you know, those things whose sound is what give meaning to the term "Heavy Metal."
 
 And what is there to say about Nu logos that has not yet been said by now? They are **puerile in design** and **clumsily drawn**. To its credit in that respect, they convey well what the music is all about.  
 
+![Nu Metal](..\assets\img\projects\proj-8\nu.jpg)
 
 ##### Some Nu Metal bands to *not* check out:
 

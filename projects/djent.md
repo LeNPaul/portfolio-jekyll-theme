@@ -4,11 +4,11 @@ title: 'Djent'
 permalink: /DJENT/
 ---
 
-![Djent](..\assets\img\projects\proj-8\post.jpg)
-
 Djent. I know it's a spin-off from Progressive Metal; but what is it, really? Literally no one knows. But you know what it is when you hear it. (*The drumming starts off slow, then accelerates in bursts.* Padummm dum dum doom! padummm dum dum doom! *Shortly after, the singer's whiny vocals kick in ...*) And unless you're a Metal Hipster, you probably won't like it. Indeed, it is one of two genres that attracts a high proportion of Hipsters. You probably never heard of the other one. You haven't -- it's so underground, it's not even "indie."
 
 Djent logos are often deluged with "coffee stains." This is not necessarily a conscious design choice. It's simply because a lotta accidents happen when you spend your time writing songs in an independent urban coffee bar.
+
+![Djent](..\assets\img\projects\proj-8\post.jpg)
 
 ##### Some Djent bands to check out:
 

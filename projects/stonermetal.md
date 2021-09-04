@@ -4,13 +4,11 @@ title: 'Stoner Metal'
 permalink: /STONERMETAL/
 ---
 
-![Stoner Metal](..\assets\img\projects\proj-8\psychedelic.jpg)
-
 Because of its slow droning nature, Doom Metal and stoner culture go together like a herb grinder and a glass bong. And so a new genre was born, whose lyrics are often about getting stoned and tripping on acid-laid Kool-Aid.
 
 Logo-wise, nothing quite says stoner and psychedelia like a **hazy** or **cloud-like** Death Metal logo. (No joke -- this one was actually made by mesh-transforming the Brutal Death logo.) To make it further clear that this music is good for intense couch-sitting and bong-ripping, **greens** and **purples** are often used.
 
-
+![Stoner Metal](..\assets\img\projects\proj-8\psychedelic.jpg)
 
 ##### Some Stoner bands to check out:
 <!-- - <a href="https://open.spotify.com/track/1q36lfxjmHC3KZcJ1KKBUN?si=5d3d10162493498e" target="_blank" rel="noopener"><span>Dark Buddha Rising</span></a> -->

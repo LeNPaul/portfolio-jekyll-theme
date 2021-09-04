@@ -4,11 +4,11 @@ title: 'Metalcore'
 permalink: /METALCORE/
 ---
 
-![Metalcore](..\assets\img\projects\proj-8\metalcore.jpg)
-
 Metalcore is another one of those "negative synergy" fusion genres that combines the worst elements of Extreme Metal and Hardcore Punk. Still it's what all the cool kids -- and only kids -- are listening to these days so I don't know. (Really, don't ask me why. I'm probably getting old.)
 
 Anyway, the design process of a Metalcore logo can best be described as follows: After a band commissions you to do a logo, you do some preliminary sketching, to get a feel of the band's name, and at some point you probably send them out for approval. Now usually these **preliminary sketches** serve both as the scaffolding upon which the definitive lettering is superimposed and as a guide for any additional typographic style information. But with Metalcore logos, you leave the sketches **"as is."** There is no further work done on the logo. 
+
+![Metalcore](..\assets\img\projects\proj-8\metalcore.jpg)
 
 ##### Some Metalcore bands to check out:
 

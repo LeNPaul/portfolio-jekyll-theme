@@ -4,11 +4,11 @@ title: 'Sludge Metal'
 permalink: /SLUDGEMETAL/
 ---
 
-![Sludge Metal](..\assets\img\projects\proj-8\sludge.jpg)
-
 Musically, Sludge Metal in many ways is like Stoner Metal, with the only real difference being that Sludge Metal is not about being happily stoned. Quite the opposite, in fact -- its tunes ooze a decadent and depressive atmosphere. In that it's more like the aural equivalent of a bad trip.
 
 In terms of logos, Sludge Metal rather shares similarities with Post-Metal. But this leads to the problem that these logos could look like anything from **hand-lettered comics-type** logos to **contemporary pseudo-art nouveau** logos to **Melodic Death Metal-styled** wordmarks. No, that's not completely true across the board. If it looks like it was drawn by a Parkinson's patient sitting on top of a spinning washing machine -- it's more likely to be a Sludge logo.
+
+![Sludge Metal](..\assets\img\projects\proj-8\sludge.jpg)
 
 ##### Some Sludge Metal bands to check out:
 

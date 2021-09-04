@@ -4,13 +4,13 @@ title: 'Grindcore'
 permalink: /GRINDCORE/
 ---
 
-![Grindcore](..\assets\img\projects\proj-8\grind.jpg)
-
 Grindcore is one of the heavier microgenres. It fuses elements of Thrash and Death as well as Crust and Hardcore, and does away with things like standard time signatures, creating a negative synergy where one plus one usually equals less than two. No wonder, then, that Grindcore logos look **crude and unfinished** at best. But all is not bad either, for great (to some) is the genre's fondness for puerile humor and disgusting aesthetics, with **visual references to scathology** and **other bodily functions**. In short, think of Grindcore aesthetics as the typographic equivalent of a schoolboy's fantasies. This may also help explain the heavy usage of **color** and **texture**. Kids love color. Right? I wouldn't know, I'm not a father. I'm also not a Grindcore expert. Luckily, I know someone who *is*.
 
 Melle Gerritsen, Grindcore fan extraordinaire, has this to say:
 
 > (*In part translated and in part parahrased*): "Grindcore sucks, and all the fans know it. The sum is less than its parts -- and covered in excrement."
+
+![Grindcore](..\assets\img\projects\proj-8\grind.jpg)
 
 ##### Some Grindcore bands to check out:
 

@@ -4,13 +4,11 @@ title: 'Gothic Metal'
 permalink: /GOTHICMETAL/
 ---
 
-![Gothic Metal](..\assets\img\projects\proj-8\gothic.jpg)
-
 Gothic Metal is a broadly defined genre, comprising of two main subgenres: on the one hand there's bands that grew out of the Death-Doom genre (**Anathema**, **My Dying Bride**, **Paradise Lost**), favoring gloomy, introspective atmosphere over outward bombast, and on the other hand there's melodic symphonic bands that emerged instead from the more uplifting Power Metal (**After Forever**, **Tristania**, **Within Temptation**) and who are really only "Gothic" in dress and name. Below is an example of the former. 
 
 It probably speaks for itself: the lettering style is inspired by a **Gothic** -- which is basically synonymous with **blackletter** -- type. Of course, the astute reader will have noticed that everyone and their mom has blackletter(-inspired) wordmarks for logos. This is indeed a problem for whoever plays in the Gothic genre. The only recourse is to one-up the others by going all-in on the Gothic with yet further **Gothic flourishes**, regardless of whether they add anything of value to the design.
 
-
+![Gothic Metal](..\assets\img\projects\proj-8\gothic.jpg)
 
 ##### Some Gothic Metal bands to check out:
 
