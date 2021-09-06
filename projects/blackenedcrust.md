@@ -35,6 +35,8 @@ If I had to describe it, I'd say it's raw, fast, and crude, with a thick dirty, 
 <li><a href="https://open.spotify.com/track/6rxuNi3H0tbV0EGwSxrU85?si=4964b5aefc654d9c" target="_blank" rel="noopener"><span>Spotify</span></a></li>
 </ul>
 </li>
+</ul>
+
 
 ##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\black11.jpg" alt="Black Metal" width=130 >](/BLACKMETAL/)
