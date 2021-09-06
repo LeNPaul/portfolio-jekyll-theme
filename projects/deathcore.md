@@ -13,29 +13,28 @@ Yes, even the logos suck! (But what else did you expect from guys who think that
 ##### Some Deathcore bands to check out:
 
 <ul>
-<li>Thy Art is Murder
+<li>Carnifex
 <ul>	
 <li><a href="https://www.metal-archives.com/bands/Carnifex/91003" target="_blank" rel="noopener"><span>Band information</span></a></li>
 <li><a href="https://open.spotify.com/track/2NVQbNEmJ0ZVulQOpWa0PD?si=9dd1737cccf14eb9" target="_blank" rel="noopener"><span>Spotify</span></a></li>
 </ul>
 </li>
-</ul>
 
+<li>Thy Art is Murder
+<ul>
 <li><a href="https://www.metal-archives.com/bands/Thy_Art_Is_Murder/3540316559" target="_blank" rel="noopener"><span>Band information</span></a></li>
 <li><a href="https://open.spotify.com/track/7eDtl2KToh99gXNRRfuY9l?si=47aad88a82b941e9" target="_blank" rel="noopener"><span>Spotify</span></a></li>
 </ul>
 </li>
-</ul>
 
-
-
+<li>Whitechapel
+<ul>
 <li><a href="https://www.metal-archives.com/bands/Whitechapel/100482" target="_blank" rel="noopener"><span>Band information</span></a></li>
 <li><a href="https://open.spotify.com/track/5jFuZGmz1VmEmx31wP7lDy?si=86987fe36acb405c" target="_blank" rel="noopener"><span>Spotify</span></a></li>
 </ul>
 </li>
 </ul>
 
-</ul>
 
 ##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\metalcore.jpg" alt="Faux Metal" width=130 >](/METALCORE/)
