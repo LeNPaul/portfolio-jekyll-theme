@@ -8,7 +8,7 @@ Drone Metal is basically deconstructed minimalist Doom Metal. "[It] combines the
 
 ![Drone Metal](..\assets\img\projects\proj-8\drone.jpg)
 
-*This is probably the part where I get slapped with a cease and decist order.<sup>2</sup>*
+*This is probably the part where I get slapped with a cease and desist order.<sup>2</sup>*
 
 
 ##### Some Drone Metal bands to check out:
