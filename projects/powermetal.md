@@ -40,6 +40,8 @@ Power Metal takes its inspiration from both "traditional" Heavy Metal and Speed 
 
 ### Power Metal (Continued)
 
+
+<!--
 but I think it's 
 to give the other side a fair hearing. 
 
@@ -111,6 +113,6 @@ In the April issue of Germany's Rock Hard magazine (#227 - Christina Scabbia cov
 
 ##### Reference(s)
 ##### [1] D. Bukszpan. *The Encyclopedia of Heavy Metal*, 2003.
-
+-->
 
 Take me back to the [sample overview](../projects/proj-8).
