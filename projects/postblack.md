@@ -1,12 +1,16 @@
 ---
 layout: post
-title: 'Post-Black Metal'
+title: 'Post-Black Metal and Blackgaze'
 permalink: /POSTBLACK/
 ---
 
-Today we see bands that have moved beyond what "traditional" Black Metal is all about. These fall in the genre of Post-Black Metal. (Post-Metal as a genre at large will be discussed below.) For them, it's not about generating a subverse sense of apocalypse, it's about creating abstract soundscapes and dreamy texturalism. It's the sort of music you can put on when it's a lazy Sunday or when having a dinner party, or when you just want to <a href="https://en.wikipedia.org/wiki/Shoegaze" target="_blank" rel="noopener"><span>gaze at your shoes</span></a>. It's also why Post-Black Metal performers have little reason to don corpse paint. Seriously, why would they? Their presence and their music is so inoffensive they give Milquetoast a run for its money.
+Today we see bands that have moved beyond what "traditional" Black Metal is all about. These fall in the genre of Post-Black Metal. (Post-Metal as a genre at large will be discussed below.) 
 
-Typically, Post-Black Metal logos take the form of **Gothic hand-writing**. It's like someone looked at the <a href="https://www.imdb.com/title/tt0162661/" target="_blank" rel="noopener"><span>Sleepy Hollow logo</span></a> and said, "That right there is what I want."
+For those in this subgenre, Black Metal is not nor needs to be about raging rebeliousness (against religion), or extreme darkness and depresion. For them it's just about pushing the musical boundaries of Black Metal forward. In practice this boils down to bleaching the lyrics and softening the music. It's also why Post-Black Metal performers have little reason to don corpse paint. Seriously, why would they? Their presence and their music is so inoffensive, they give Milquetoast a run for its money.
+
+If the music has no "edge" or "attitude" whatsoever, then we're probably dealing with a "Blackgaze," a subset within the Post-Black genre. Unlike conventional Black Metal, Blackgaze is not about generating a subverse sense of apocalypse, it's about creating abstract soundscapes and dreamy texturalism. It's the sort of music you can put on when it's a lazy Sunday or when having a dinner party, or when you just want to <a href="https://en.wikipedia.org/wiki/Shoegaze" target="_blank" rel="noopener"><span>gaze at your shoes</span></a>.
+
+Typically, Post-Black Metal and Blackgaze logos take the form of **Gothic hand-writing**. It's like someone looked at the <a href="https://www.imdb.com/title/tt0162661/" target="_blank" rel="noopener"><span>Sleepy Hollow logo</span></a> and said, "That right there is what I want."
 
 ![Post Black Metal](..\assets\img\projects\proj-8\postblack.jpg)
 
