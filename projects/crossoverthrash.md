@@ -10,9 +10,9 @@ But as I just found out, Crossover Thrash is a (hybrid) genre in its own right, 
 
 Crossover Thrash logos look like Punk logos -- but with **constraints**. And they often seem to feature an ironic **pictorial image**. Because you know, these bands are all extremely ironic. Indeed, **S.O.D.**, the originators of the genre, were one big joke. I mean, literally it was "one big inside joke," according to band founder Scott Ian (of **Anthrax** fame).<sup>1</sup> 
 
-When recording **Anthrax**'s 1985 album *Spreading the Disease*, Ian got bored waiting around in the studio when he had finished recording his guitar tracks. In order to quench the boredom, he started drawing cartoons, which is how he came up with a "crusty-faced ghoul in an army officer named Sergeant D."<sup>2</sup> But seemingly that wasn't enough to make time go by. So, "Ian then started writing hyperspeed riffs and hardcore songs that were ninety seconds long." Finally he decided to put 1 and 2 together and "make a band out of Sgt. D and his stockpile of crazy riffs, calling it Stormtroopers of Death, or S.O.D. for short." 
+![Crossover Thrash](..\assets\img\projects\proj-8\crossoverthrash3.jpg)
 
-![Crossover Thrash](..\assets\img\projects\proj-8\crossoverthrash2.jpg)
+When recording **Anthrax**'s 1985 album *Spreading the Disease*, Ian got bored waiting around in the studio when he had finished recording his guitar tracks. In order to quench the boredom, he started drawing cartoons, which is how he came up with a "crusty-faced ghoul in an army officer named Sergeant D."<sup>2</sup> But seemingly that wasn't enough to make time go by. So, "Ian then started writing hyperspeed riffs and hardcore songs that were ninety seconds long." Finally he decided to put 1 and 2 together and "make a band out of Sgt. D and his stockpile of crazy riffs, calling it Stormtroopers of Death, or S.O.D. for short." 
 
 ##### Some Crossover Thrash bands to check out:
 
