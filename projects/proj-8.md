@@ -9,6 +9,7 @@ These logos were all created for a paper called **'Illegible Semantics: Explorin
 
 [<img src="..\assets\img\projects\proj-9\avantgarde.jpg" alt="Avant-Garde Metal" width=140 >](/AVANTGARDE/)
 [<img src="..\assets\img\projects\proj-9\baythrash.jpg" alt="Bay Area Thrash" width=140 >](/THRASHMETAL3/)
+[<img src="..\assets\img\projects\proj-9\blackenedcrust.jpg" alt="Blackened Crust" width=140 >](/BLACKENEDCRUST/)
 [<img src="..\assets\img\projects\proj-9\blackeneddeath.jpg" alt="Blackened Death Metal" width=140 >](/CROSSOVER1/)
 [<img src="..\assets\img\projects\proj-9\blackenedthrash.jpg" alt="Blackened Thrash Metal" width=140 >](/CROSSOVER2/)
 [<img src="..\assets\img\projects\proj-9\black11.jpg" alt="Black Metal" width=140 >](/BLACKMETAL/)
@@ -16,13 +17,16 @@ These logos were all created for a paper called **'Illegible Semantics: Explorin
 [<img src="..\assets\img\projects\proj-9\black3.jpg" alt="Black Metal" width=140 >](/BLACKMETAL/)
 [<img src="..\assets\img\projects\proj-9\black4.jpg" alt="Black Metal" width=140 >](/BLACKMETAL/)
 [<img src="..\assets\img\projects\proj-9\brutal.jpg" alt="Black Metal" width=140 >](/BRUTALDEATH/)
+[<img src="..\assets\img\projects\proj-9\crossoverthrash2.jpg" alt="Cute Metal" width=140 >](/CROSSOVERTHRASH/)
 [<img src="..\assets\img\projects\proj-9\cute.jpg" alt="Cute Metal" width=140 >](/CUTEMETAL/)
+[<img src="..\assets\img\projects\proj-9\deathcore.jpg" alt="Deathcore" width=140 >](/DEATHCORE/)
 [<img src="..\assets\img\projects\proj-9\deathdoom.jpg" alt="Death-Doom" width=140 >](/DEATHDOOM/)
 [<img src="..\assets\img\projects\proj-9\deathgrind1.jpg" alt="Deathgrind" width=140 >](/DEATHGRIND/)
 [<img src="..\assets\img\projects\proj-9\deathgrind2.jpg" alt="Deathgrind" width=140 >](/DEATHGRIND/)
 [<img src="..\assets\img\projects\proj-9\djent.jpg" alt="Djent" width=140 >](/DJENT/)
+[<img src="..\assets\img\projects\proj-9\drone.jpg" alt="Drone Metal" width=140 >](/DRONEMETAL/)
 [<img src="..\assets\img\projects\proj-9\ecumenical.jpg" alt="Ecumenical Metal" width=140 >](/ECUMENICAL/)
-[<img src="..\assets\img\projects\proj-9\florida.jpg" alt="Funeral Doom" width=140 >](/FLORIDADEATH/)
+[<img src="..\assets\img\projects\proj-9\florida.jpg" alt="Florida Death" width=140 >](/FLORIDADEATH/)
 [<img src="..\assets\img\projects\proj-9\funeral.jpg" alt="Doom Metal" width=140 >](/DOOMMETAL/)
 [<img src="..\assets\img\projects\proj-9\folk1.jpg" alt="Folk Metal" width=140 >](/FOLKMETAL/)
 [<img src="..\assets\img\projects\proj-9\funk.jpg" alt="Funk Metal" width=140 >](/FUNKMETAL/)
@@ -84,6 +88,8 @@ It may well be that you have other ideas on what these logos are supposed to loo
 I'd like to give a shoutout to everyone who helped me write this guide -- your insights and thoughts were much appreciated! I owe a special thanks to three in particular who shared their time and expertise with me throughout this project and provided me with useful feedback on my guide: Erik <a href="https://www.instagram.com/negakinu/" target="_blank" rel="noopener"><span>Negakinu</span></a>, Marco W., and Melle Gerritsen. 
 
 #### References
+##### Rosenberg, A. Metalsucks: Sunn O))) are Peeved That Someone is Aping Their Aped Logo. https://www.metalsucks.net/2015/03/16/sunn-o-peeved, 2015
+##### Archer-Capuzzo, S. and G. Capuzzo. *Metaldata: A Bibliography of Heavy Metal Resources*, 2021.
 ##### Buchy, A. Camion blanc: Bathory: The Root of Darkness and Evil, 2011.
 ##### Davies, J.K. BandLogoJukeBox: Iron Maiden. https://www.bandlogojukebox.com/blog/2020/11/29/i2-iron-maiden, 2020.
 ##### Dickstein, M. The Aesthetics of Fright. In B.K. Grant, ed. *Plans of Reason: Essays on the Horror Film*, 1984.
@@ -101,6 +107,7 @@ I'd like to give a shoutout to everyone who helped me write this guide -- your i
 ##### Konow, D. *Bang Your Head: The Rise and Fall of Heavy Metal*, 2002.
 ##### Konow, D. LA Weekly: Drummer Gene Hohlan Was Just 18 When He Recorded an '80s Thrash Classic. https://www.laweekly.com/drummer-gene-hoglan-was-just-18-when-he-recorded-an-80s-thrash-classic/, 2017.
 ##### Lombardo, D. Loudwire: Dave Lombardo - Wikipedia: Fact or Fiction? https://www.youtube.com/watch?v=LKppPspVNDs, 2015. 
+##### Lusty, H. Heavy Metal Microgenres. In A.H. Stevens, M.C. O'Donnell, ed. The Microgenre: A Quick Look at Small Culture, 167, 2020.
 ##### Manea, I.-M. Primal Roots: Ancestry and Race in Extreme Music Discourse. In *Proceedings of IAC-SSaH 2015: International Academic Conference on Social Sciences and Humanities in Prague 2015*, 2015.
 ##### Mengerink, M.A. Hitler, the Holocaust, and Heavy Metal Music: Holocaust Memory and Representation in the Heavy Metal Subculture, 1980-Present. In S.T. Horsfall, J.-M. Meij, and M. Probstfield, ed. *Music Sociology: Examining the Role of Music in Social Life*, 2013.
 ##### Miranovic, M. Metal Sound Magazine: Falkenbach: Heathen Pride https://metal-sound.net/falkenbach-heathen-pride, 2005.

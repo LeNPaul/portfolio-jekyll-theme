@@ -24,6 +24,15 @@ Pagan Black Metal is one of many off-shoots of traditional "mainstream" Black Me
 </ul>
 </li>
 
+<li>Moonsorrow
+<ul>
+<li><a href="https://www.metal-archives.com/bands/moonsorrow/89" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/2lL0Z7Ko5vfW6pVtKRgfu9?si=2179f17dbcac48b9" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+
+<!--
 <li>Falkenbach
 <ul>
 <li><a href="https://www.metal-archives.com/bands/Falkenbach/1071" target="_blank" rel="noopener"><span>Band information</span></a></li>
@@ -31,6 +40,8 @@ Pagan Black Metal is one of many off-shoots of traditional "mainstream" Black Me
 </ul>
 </li>
 </ul>
+-->
+
 
 ##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\black3.jpg" alt="Black Metal" width=130 >](/BLACKMETAL/)
