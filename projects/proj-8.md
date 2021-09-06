@@ -25,6 +25,7 @@ These logos were all created for a paper called **'Illegible Semantics: Explorin
 [<img src="..\assets\img\projects\proj-9\florida.jpg" alt="Funeral Doom" width=140 >](/FLORIDADEATH/)
 [<img src="..\assets\img\projects\proj-9\funeral.jpg" alt="Doom Metal" width=140 >](/DOOMMETAL/)
 [<img src="..\assets\img\projects\proj-9\folk1.jpg" alt="Folk Metal" width=140 >](/FOLKMETAL/)
+[<img src="..\assets\img\projects\proj-9\funk.jpg" alt="Funk Metal" width=140 >](/FUNKMETAL/)
 [<img src="..\assets\img\projects\proj-9\gothic.jpg" alt="Gothic Metal" width=140 >](/GOTHICMETAL/)
 [<img src="..\assets\img\projects\proj-9\grindcore.jpg" alt="Grindcore" width=140 >](/GRINDCORE/)
 [<img src="..\assets\img\projects\proj-9\groove.jpg" alt="Groove Metal" width=140 >](/GROOVEMETAL/)
