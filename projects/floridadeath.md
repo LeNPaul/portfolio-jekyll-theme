@@ -57,8 +57,8 @@ In terms of logo design, it's hard to pinpoint specific characteristics. Perhaps
 </ul>
 
 ##### Some Death Metal and adjacent (sub)genres to check out:
-[<img src="..\assets\img\projects\proj-9\brutal.jpg" alt="Brutal Death Metal" width=200 >](/BRUTALDEATH/)
-[<img src="..\assets\img\projects\proj-9\usthrash.jpg" alt="US Thrash Metal" width=200 >](/USTHRASH/)
+[<img src="..\assets\img\projects\proj-9\brutal.jpg" alt="Brutal Death Metal" width=130 >](/BRUTALDEATH/)
+[<img src="..\assets\img\projects\proj-9\usthrash.jpg" alt="US Thrash Metal" width=130 >](/USTHRASH/)
 
 ##### Reference(s):
 ##### [1] M. Phillipov. Ch. 6: The Pleasures of Horror. *Death Metal and Music Criticism: Analysis at the Limits*, p. 100, 2012. Here, the author cites N.J. Purcell. *Death Metal Music: The Passion and Politics of a Subculture*, pp. 172 and 185, 2003; M. Dickstein. The Aesthetics of Fright. In B.K. Grant, ed. *Plans of Reason: Essays on the Horror Film*, 1984; and K.F.B. Fletcher and O. Umurhan, ed. Introduction: Where Metal and Classics Meet. *Classical Antiquity in Heavy Metal*, (2020).

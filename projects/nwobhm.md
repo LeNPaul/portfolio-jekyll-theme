@@ -39,8 +39,8 @@ Here, I purposely decided to do a logo in the vein of those of **Iron Maiden** a
 
 
 ##### Related (sub)genre(s):
-[<img src="..\assets\img\projects\proj-9\heavy.jpg" alt="Heavy Metal" width=200 >](/HEAVYMETAL/)
-[<img src="..\assets\img\projects\proj-9\speed.jpg" alt="Speed Metal" width=200 >](/SPEEDMETAL/)
+[<img src="..\assets\img\projects\proj-9\heavy.jpg" alt="Heavy Metal" width=130 >](/HEAVYMETAL/)
+[<img src="..\assets\img\projects\proj-9\speed.jpg" alt="Speed Metal" width=130 >](/SPEEDMETAL/)
 
 ##### Reference(s):
 ##### [1] S. Poole. Retro Rock and Heavy History. *Global Metal Music and Culture: Current Directions in Metal Studies*, pp. 302-303; and M. Heatley. *The Virgin Encyclopedia of Rock: The World's Most Comprehensive Illustrated Rock Reference*, p. 122, 1996.

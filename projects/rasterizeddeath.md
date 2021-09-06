@@ -22,6 +22,6 @@ Just by looking at their <a href="https://www.instagram.com/p/CGas6abpA70/" targ
 </ul>
 
 ##### Related (sub)genres:
-[<img src="..\assets\img\projects\proj-9\brutal.jpg" alt="Death Metal" width=200 >](/DEATHMETAL/)
+[<img src="..\assets\img\projects\proj-9\brutal.jpg" alt="Death Metal" width=130 >](/DEATHMETAL/)
 
 Take me back to the [sample overview](../projects/proj-8).

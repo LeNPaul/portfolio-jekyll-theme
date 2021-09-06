@@ -35,7 +35,7 @@ Typically, Post-Black Metal logos take the form of **Gothic hand-writing**. It's
 </ul>
 
 ##### Related (sub)genre(s):
-[<img src="..\assets\img\projects\proj-9\black4.jpg" alt="Black Metal" width=200 >](/BLACKMETAL/)
-[<img src="..\assets\img\projects\proj-9\post.jpg" alt="Post-Metal" width=200 >](/POSTMETAL/)
+[<img src="..\assets\img\projects\proj-9\black4.jpg" alt="Black Metal" width=130 >](/BLACKMETAL/)
+[<img src="..\assets\img\projects\proj-9\post.jpg" alt="Post-Metal" width=130 >](/POSTMETAL/)
 
 Take me back to the [sample overview](../projects/proj-8).

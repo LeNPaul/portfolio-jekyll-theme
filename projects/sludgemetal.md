@@ -36,7 +36,7 @@ In terms of logos, Sludge Metal rather shares similarities with Post-Metal. But 
 </ul>
 
 ##### Related (sub)genres:
-[<img src="..\assets\img\projects\proj-9\funeral.jpg" alt="Doom Metal" width=200 >](/DOOMMETAL/)
-[<img src="..\assets\img\projects\proj-9\psychedelic.jpg" alt="Stoner Metal" width=200 >](/STONERMETAL/)
+[<img src="..\assets\img\projects\proj-9\funeral.jpg" alt="Doom Metal" width=130 >](/DOOMMETAL/)
+[<img src="..\assets\img\projects\proj-9\psychedelic.jpg" alt="Stoner Metal" width=130 >](/STONERMETAL/)
 
 Take me back to the [sample overview](../projects/proj-8).

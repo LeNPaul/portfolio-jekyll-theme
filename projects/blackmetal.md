@@ -130,12 +130,12 @@ Following in the wake of the second wave, new bands emerged all over the world, 
 Today, Black Metal is an international phenomenon, and there are many Black Metal doing things differently than the way the bands of the first and second wave did and sometimes still do, both in terms of music and of the ethos of making Black Metal, so it's impossible to cover them all here. But the bands mentioned above, should help get you some idea of how these bands vary in style and intensity. 
 
 ##### Related (sub)genre(s):
-[<img src="..\assets\img\projects\proj-9\blackeneddeath.jpg" alt="Blackened Death Metal" width=200 >](/BLACKENEDDEATH/)
-[<img src="..\assets\img\projects\proj-9\blackenedthrash.jpg" alt="Blackened Death Metal" width=200 >](/BLACKENEDTHRASH/)
-[<img src="..\assets\img\projects\proj-9\pagan.jpg" alt="Pagan Black Metal" width=200 >](/PAGANBLACK/)
-[<img src="..\assets\img\projects\proj-9\postblack.jpg" alt="Pagan Black Metal" width=200 >](/POSTBLACK/)
-[<img src="..\assets\img\projects\proj-9\war.jpg" alt="War Metal" width=200 >](/WARMETAL/)
-[<img src="..\assets\img\projects\proj-9\unblack.jpg" alt="War Metal" width=200 >](/UNBLACK/)
+[<img src="..\assets\img\projects\proj-9\blackeneddeath.jpg" alt="Blackened Death Metal" width=130 >](/BLACKENEDDEATH/)
+[<img src="..\assets\img\projects\proj-9\blackenedthrash.jpg" alt="Blackened Death Metal" width=130 >](/BLACKENEDTHRASH/)
+[<img src="..\assets\img\projects\proj-9\pagan.jpg" alt="Pagan Black Metal" width=130 >](/PAGANBLACK/)
+[<img src="..\assets\img\projects\proj-9\postblack.jpg" alt="Pagan Black Metal" width=130 >](/POSTBLACK/)
+[<img src="..\assets\img\projects\proj-9\war.jpg" alt="War Metal" width=130 >](/WARMETAL/)
+[<img src="..\assets\img\projects\proj-9\unblack.jpg" alt="War Metal" width=130 >](/UNBLACK/)
 
 ##### Reference(s):
 ##### [1] M. Unger. *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, p. 24, 2016; and A. O'Neill. Ch. 5 on The First Wave of Black Metal. *A History of Heavy Metal*, 2017.

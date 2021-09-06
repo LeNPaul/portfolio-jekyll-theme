@@ -37,7 +37,7 @@ Logo-wise, nothing quite says stoner and psychedelia like a **hazy** or **cloud-
 </ul>
 
 ##### Related (sub)genres:
-[<img src="..\assets\img\projects\proj-9\funeral.jpg" alt="Doom Metal" width=200 >](/DOOMMETAL/)
-[<img src="..\assets\img\projects\proj-9\sludge.jpg" alt="Sludge Metal" width=200 >](/SLUDGEMETAL/)
+[<img src="..\assets\img\projects\proj-9\funeral.jpg" alt="Doom Metal" width=130 >](/DOOMMETAL/)
+[<img src="..\assets\img\projects\proj-9\sludge.jpg" alt="Sludge Metal" width=130 >](/SLUDGEMETAL/)
 
 Take me back to the [sample overview](../projects/proj-8).

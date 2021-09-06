@@ -32,7 +32,7 @@ Blackened Thrash Metal is what you get when Black Metallers want to play somethi
 </ul>
 
 ##### Related (sub)genre(s):
-[<img src="..\assets\img\projects\proj-9\teutonic.jpg" alt="Teutonic Thrash Metal" width=200 >](/TEUTONICTHRASH/)
-[<img src="..\assets\img\projects\proj-9\usthrash.jpg" alt="Technical Death Metal" width=200 >](/USTHRASH/)
+[<img src="..\assets\img\projects\proj-9\teutonic.jpg" alt="Teutonic Thrash Metal" width=130 >](/TEUTONICTHRASH/)
+[<img src="..\assets\img\projects\proj-9\usthrash.jpg" alt="Technical Death Metal" width=130 >](/USTHRASH/)
 
 Take me back to the [sample overview](../projects/proj-8).

@@ -101,8 +101,8 @@ Some Folk bands take things to the next level by incorporating **viking helmets*
 </ul>
 
 ##### Related (sub)genre(s):
-[<img src="..\assets\img\projects\proj-9\pagan.jpg" alt="Pagan Black Metal" width=200 >](/PAGANBLACK/)
-[<img src="..\assets\img\projects\proj-9\pirate.jpg" alt="Pirate Metal" width=200 >](/PIRATEMETAL/)
+[<img src="..\assets\img\projects\proj-9\pagan.jpg" alt="Pagan Black Metal" width=130 >](/PAGANBLACK/)
+[<img src="..\assets\img\projects\proj-9\pirate.jpg" alt="Pirate Metal" width=130 >](/PIRATEMETAL/)
 
 ##### Reference(s):
 ##### [1] T. Neilson. Where Myth and Metal Collide: Finnish Folk Metal. In S.A. Wilson, ed. *Music at the Extremes: Essays on Sounds Outside the Mainstream*, p. 136, 2015. 

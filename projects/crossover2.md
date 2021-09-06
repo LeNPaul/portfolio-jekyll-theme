@@ -62,9 +62,9 @@ Blackened Thrash Metal is what you get when Black Metallers want to play somethi
 </ul>
 
 ##### Related genre(s):
-[<img src="..\assets\img\projects\proj-9\black2.jpg" alt="Black Metal" width=200 >](/BLACKMETAL/)
-[<img src="..\assets\img\projects\proj-9\teutonic.jpg" alt="Teutonic Thrash Metal" width=200 >](/TEUTONICTHRASH)
-[<img src="..\assets\img\projects\proj-9\usthrash.jpg" alt="US Thrash Metal" width=200 >](/USTHRASH/)
+[<img src="..\assets\img\projects\proj-9\black2.jpg" alt="Black Metal" width=130 >](/BLACKMETAL/)
+[<img src="..\assets\img\projects\proj-9\teutonic.jpg" alt="Teutonic Thrash Metal" width=130 >](/TEUTONICTHRASH)
+[<img src="..\assets\img\projects\proj-9\usthrash.jpg" alt="US Thrash Metal" width=130 >](/USTHRASH/)
 
 ##### Reference(s):
 ##### [1] D. Patterson. Marduk: Sweden Part I. *Black Metal: Evolution of the Cult*, pp. 331-341, 2013.

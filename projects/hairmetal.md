@@ -56,8 +56,8 @@ In terms of letter design and style, Glam logos come in all sorts of types and s
 
 
 ##### Related (sub)genre(s):
-[<img src="..\assets\img\projects\proj-9\cute.jpg" alt="Cute Metal" width=200 >](/CUTEMETAL/)
-[<img src="..\assets\img\projects\proj-9\heavy.jpg" alt="Heavy Metal" width=200 >](/HEAVYMETAL/)
+[<img src="..\assets\img\projects\proj-9\cute.jpg" alt="Cute Metal" width=130 >](/CUTEMETAL/)
+[<img src="..\assets\img\projects\proj-9\heavy.jpg" alt="Heavy Metal" width=130 >](/HEAVYMETAL/)
 
 ##### Reference(s):
 

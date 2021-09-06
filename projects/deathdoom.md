@@ -36,9 +36,9 @@ Typically, a Death-Doom logo is a **blackletter(-like) wordmark** surrounded wit
 </ul>
 
 ##### Related (sub)genre(s):
-[<img src="..\assets\img\projects\proj-9\blackeneddeath.jpg" alt="Blackened Death Metal" width=200 >](/CROSSOVER3/)
-[<img src="..\assets\img\projects\proj-9\brutal.jpg" alt="Death Metal" width=200 >](/DEATHMETAL/)
-[<img src="..\assets\img\projects\proj-9\funeral.jpg" alt="Doom Metal" width=200 >](/DOOMMETAL/)
-[<img src="..\assets\img\projects\proj-9\melodic.jpg" alt="Melodic Death Metal" width=200 >](/MELODICDEATH/)
+[<img src="..\assets\img\projects\proj-9\blackeneddeath.jpg" alt="Blackened Death Metal" width=130 >](/CROSSOVER3/)
+[<img src="..\assets\img\projects\proj-9\brutal.jpg" alt="Death Metal" width=130 >](/DEATHMETAL/)
+[<img src="..\assets\img\projects\proj-9\funeral.jpg" alt="Doom Metal" width=130 >](/DOOMMETAL/)
+[<img src="..\assets\img\projects\proj-9\melodic.jpg" alt="Melodic Death Metal" width=130 >](/MELODICDEATH/)
 
 Take me back to the [sample overview](../projects/proj-8).

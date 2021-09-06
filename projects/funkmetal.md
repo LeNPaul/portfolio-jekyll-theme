@@ -32,10 +32,10 @@ As a genre it blends together "the distinctive sound of funk" and "conventional 
 </li>
 </ul>
 
-<!--
+
 ##### Related (sub)genre(s):
-[<img src="..\assets\img\projects\proj-9\progressive.jpg" alt="Progressive Metal" width=200 >](/PROGRESSIVEMETAL/)
--->
+[<img src="..\assets\img\projects\proj-9\usthrash.jpg" alt="Thrash Metal" width=200 >](/THRASHMETAL/)
+
 
 ##### Reference(s)
 ##### [1] H. Lusty. Heavy Metal Microgenres. In A.H. Stevens, M.C. O'Donnell, ed. The Microgenre: A Quick Look at Small Culture, 167, 2020.

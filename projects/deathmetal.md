@@ -36,12 +36,12 @@ And, contrary to Thrash Metal logos, Death Metal logos tend to have more **"soft
 </ul>
 
 ##### Related (sub)genre(s):
-[<img src="..\assets\img\projects\proj-9\brutal.jpg" alt="Brutal Death Metal" width=200 >](/BRUTALDEATH/)
-[<img src="..\assets\img\projects\proj-9\deathdoom.jpg" alt="Death-Doom" width=200 >](/DEATHDOOM/)
-[<img src="..\assets\img\projects\proj-9\florida.jpg" alt="Florida Death Metal" width=200 >](/FLORIDADEATH/)
-[<img src="..\assets\img\projects\proj-9\melodic.jpg" alt="Melodic Death Metal" width=200 >](/MELODICDEATH/)
-[<img src="..\assets\img\projects\proj-9\tech901.jpg" alt="Technical Death Metal" width=200 >](/TECHDEATH90S)
-[<img src="..\assets\img\projects\proj-9\tech00.jpg" alt="Technical Death Metal" width=200 >](/TECHDEATH00S/)
+[<img src="..\assets\img\projects\proj-9\brutal.jpg" alt="Brutal Death Metal" width=130 >](/BRUTALDEATH/)
+[<img src="..\assets\img\projects\proj-9\deathdoom.jpg" alt="Death-Doom" width=130 >](/DEATHDOOM/)
+[<img src="..\assets\img\projects\proj-9\florida.jpg" alt="Florida Death Metal" width=130 >](/FLORIDADEATH/)
+[<img src="..\assets\img\projects\proj-9\melodic.jpg" alt="Melodic Death Metal" width=130 >](/MELODICDEATH/)
+[<img src="..\assets\img\projects\proj-9\tech901.jpg" alt="Technical Death Metal" width=130 >](/TECHDEATH90S)
+[<img src="..\assets\img\projects\proj-9\tech00.jpg" alt="Technical Death Metal" width=130 >](/TECHDEATH00S/)
 
 ##### Reference(s):
 ##### [1] M. Phillipov. Ch. 6: The Pleasures of Horror. *Death Metal and Music Criticism: Analysis at the Limits*, p. 100, 2012. Here, the author cites N.J. Purcell. *Death Metal Music: The Passion and Politics of a Subculture*, pp. 172 and 185, 2003; M. Dickstein. The Aesthetics of Fright. In B.K. Grant, ed. *Plans of Reason: Essays on the Horror Film*, 1984; and K.F.B. Fletcher and O. Umurhan, ed. Introduction: Where Metal and Classics Meet. *Classical Antiquity in Heavy Metal*, (2020).

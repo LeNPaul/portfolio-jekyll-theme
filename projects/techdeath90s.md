@@ -68,9 +68,9 @@ If they're still active to this day, they now probably have a **type-only logo**
 </ul>
 
 ##### Related (sub)genre(s):
-[<img src="..\assets\img\projects\proj-9\brutal.jpg" alt="Death Metal" width=200 >](/DEATHMETAL/)
-[<img src="..\assets\img\projects\proj-9\progressive.jpg" alt="Progressive Metal" width=200 >](/PROGRESSIVEMETAL/)
-[<img src="..\assets\img\projects\proj-9\tech00.jpg" alt="Post-2000s Technical Death Metal" width=200 >](/TECHDEATH00S/)
+[<img src="..\assets\img\projects\proj-9\brutal.jpg" alt="Death Metal" width=130 >](/DEATHMETAL/)
+[<img src="..\assets\img\projects\proj-9\progressive.jpg" alt="Progressive Metal" width=130 >](/PROGRESSIVEMETAL/)
+[<img src="..\assets\img\projects\proj-9\tech00.jpg" alt="Post-2000s Technical Death Metal" width=130 >](/TECHDEATH00S/)
 
 ##### Reference(s):
 ##### [1] M. Unger. *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, p. 20, 2016.

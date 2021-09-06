@@ -53,9 +53,9 @@ Brutal Death Metal emerged most notably from the 1980s New York Hardcore movemen
 </ul>
 
 ##### Some Death Metal (sub)genres to check out:
-[<img src="..\assets\img\projects\proj-9\florida.jpg" alt="Florida Death Metal" width=200 >](/FLORIDADEATH/)
-[<img src="..\assets\img\projects\proj-9\tech901.jpg" alt="Technical Death Metal" width=200 >](/TECHDEATH90S)
-[<img src="..\assets\img\projects\proj-9\tech00.jpg" alt="Technical Death Metal" width=200 >](/TECHDEATH00S/)
+[<img src="..\assets\img\projects\proj-9\florida.jpg" alt="Florida Death Metal" width=130 >](/FLORIDADEATH/)
+[<img src="..\assets\img\projects\proj-9\tech901.jpg" alt="Technical Death Metal" width=130 >](/TECHDEATH90S)
+[<img src="..\assets\img\projects\proj-9\tech00.jpg" alt="Technical Death Metal" width=130 >](/TECHDEATH00S/)
 
 ##### Reference(s):
 ##### [1] M. Phillipov. Ch. 6: The Pleasures of Horror. *Death Metal and Music Criticism: Analysis at the Limits*, p. 100, 2012. Here, the author cites N.J. Purcell. *Death Metal Music: The Passion and Politics of a Subculture*, pp. 172 and 185, 2003; M. Dickstein. The Aesthetics of Fright. In B.K. Grant, ed. *Plans of Reason: Essays on the Horror Film*, 1984; and K.F.B. Fletcher and O. Umurhan, ed. Introduction: Where Metal and Classics Meet. *Classical Antiquity in Heavy Metal*, (2020).

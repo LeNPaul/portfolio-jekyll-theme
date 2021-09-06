@@ -26,8 +26,8 @@ Their logo is a tongue-in-cheek riff on the **Emperor** logo, featuring **crosse
 </ul>
 
 ##### Related (sub)genre(s):
-[<img src="..\assets\img\projects\proj-9\black3.jpg" alt="Black Metal" width=200 >](/BLACKMETAL/)
-[<img src="..\assets\img\projects\proj-9\unblack.jpg" alt="Ecumenical Metal" width=200 >](/UNBLACK/)
+[<img src="..\assets\img\projects\proj-9\black3.jpg" alt="Black Metal" width=130 >](/BLACKMETAL/)
+[<img src="..\assets\img\projects\proj-9\unblack.jpg" alt="Ecumenical Metal" width=130 >](/UNBLACK/)
 
 ##### Reference(s):
 ##### [1] S. (unknown). The Progressive Subway: Interview: Psalmtanic. http://theprogressivesubway.com/2020/04/13/interview-psalmtanic, 2020.

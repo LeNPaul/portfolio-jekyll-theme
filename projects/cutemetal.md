@@ -33,4 +33,7 @@ Now, before you start jumping up and down, let me say this upfront: Cute Metal i
 </li>
 </ul>
 
+##### Related (sub)genre(s):
+[<img src="..\assets\img\projects\proj-9\hair.jpg" alt="Hair Metal" width=130 >](/HAIRMETAL/)
+
 Take me back to the [sample overview](../projects/proj-8).

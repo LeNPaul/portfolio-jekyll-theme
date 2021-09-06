@@ -45,8 +45,8 @@ As a genre, Teutonic Thrash Metal has a distinct German character, and a few not
 </ul>
 
 ##### Related (sub)genre(s):
-[<img src="..\assets\img\projects\proj-9\blackenedthrash.jpg" alt="Blackened Thrash Metal" width=200 >](/BLACKENEDTHRASH/)
-[<img src="..\assets\img\projects\proj-9\usthrash.jpg" alt="US Thrash Metal" width=200 >](/USTHRASH/)
+[<img src="..\assets\img\projects\proj-9\blackenedthrash.jpg" alt="Blackened Thrash Metal" width=130 >](/BLACKENEDTHRASH/)
+[<img src="..\assets\img\projects\proj-9\usthrash.jpg" alt="US Thrash Metal" width=130 >](/USTHRASH/)
 
 ##### Reference(s):
 ##### [1] M.A. Mengerink.  Hitler, the Holocaust, and Heavy Metal Music: Holocaust Memory and Representation in the Heavy Metal Subculture, 1980-Present. In S.T. Horsfall, J.-M. Meij, and M. Probtsfield, ed. *Music Sociology: Examining the Role of Music in Social Life*, pp. 178-179, 2013.

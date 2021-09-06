@@ -32,9 +32,9 @@ And then there's Death 'n' Roll (<strong>The Cumshots</strong>, <strong>Entombed
 </div>
 
 ##### Some crossover genres to check out:
-[<img src="..\assets\img\projects\proj-9\blackeneddeath.jpg" alt="Blackened Death Metal" width=200 >](/BLACKENEDDEATH/)
-[<img src="..\assets\img\projects\proj-9\blackenedthrash.jpg" alt="Blackened Thrash Metal" width=200 >](/BLACKENEDTHRASH/)
-[<img src="..\assets\img\projects\proj-9\deathgrind1.jpg" alt="Deathgrind" width=200 >](/DEATHGRIND/)
+[<img src="..\assets\img\projects\proj-9\blackeneddeath.jpg" alt="Blackened Death Metal" width=130 >](/BLACKENEDDEATH/)
+[<img src="..\assets\img\projects\proj-9\blackenedthrash.jpg" alt="Blackened Thrash Metal" width=130 >](/BLACKENEDTHRASH/)
+[<img src="..\assets\img\projects\proj-9\deathgrind1.jpg" alt="Deathgrind" width=130 >](/DEATHGRIND/)
 
 ##### Reference(s):
 ##### [1] D. Patterson. Marduk: Sweden Part I. *Black Metal: Evolution of the Cult*, pp. 331-341, 2013.

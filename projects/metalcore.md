@@ -36,7 +36,7 @@ Anyway, the design process of a Metalcore logo can best be described as follows:
 </ul>
 
 ##### Related (sub)genre(s):
-[<img src="..\assets\img\projects\proj-9\nintendo.jpg" alt="Nintendocore" width=200 >](/NINTENDOCORE/)
-[<img src="..\assets\img\projects\proj-9\nu.jpg" alt="Nu Metal" width=200 >](/NUMETAL/)
+[<img src="..\assets\img\projects\proj-9\nintendo.jpg" alt="Nintendocore" width=130 >](/NINTENDOCORE/)
+[<img src="..\assets\img\projects\proj-9\nu.jpg" alt="Nu Metal" width=130 >](/NUMETAL/)
 
 Take me back to the [sample overview](../projects/proj-8).

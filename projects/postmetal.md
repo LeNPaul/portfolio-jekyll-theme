@@ -39,6 +39,6 @@ And if the band name consists of several words, the words are set in different s
 </ul>
 
 ##### Related (sub)genre(s):
-[<img src="..\assets\img\projects\proj-9\postblack.jpg" alt="Post-Black Metal" width=200 >](/POSTBLACK/)
+[<img src="..\assets\img\projects\proj-9\postblack.jpg" alt="Post-Black Metal" width=130 >](/POSTBLACK/)
 
 Take me back to the [sample overview](../projects/proj-8).

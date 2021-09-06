@@ -37,8 +37,8 @@ Funeral Doom is characterized by its sloooooow tempos -- slow even for Doom stan
 
 
 ##### Related (sub)genres:
-[<img src="..\assets\img\projects\proj-9\gothic.jpg" alt="Gothic Metal" width=200 >](/GOTHICMETAL/)
-[<img src="..\assets\img\projects\proj-9\sludge.jpg" alt="Sludge Metal" width=200 >](/SLUDGEMETAL/)
-[<img src="..\assets\img\projects\proj-9\psychedelic.jpg" alt="Stoner Metal" width=200 >](/STONERMETAL/)
+[<img src="..\assets\img\projects\proj-9\gothic.jpg" alt="Gothic Metal" width=130 >](/GOTHICMETAL/)
+[<img src="..\assets\img\projects\proj-9\sludge.jpg" alt="Sludge Metal" width=130 >](/SLUDGEMETAL/)
+[<img src="..\assets\img\projects\proj-9\psychedelic.jpg" alt="Stoner Metal" width=130 >](/STONERMETAL/)
 
 Take me back to the [sample overview](../projects/proj-8).

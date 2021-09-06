@@ -34,8 +34,8 @@ Power Metal takes its inspiration from both "traditional" Heavy Metal and Speed 
 </ul>
 
 ##### Related (sub)genre(s):
-[<img src="..\assets\img\projects\proj-9\heavy.jpg" alt="Heavy Metal" width=200 >](/HEAVYMETAL/)
-[<img src="..\assets\img\projects\proj-9\speed.jpg" alt="Speed Metal" width=200 >](/SPEEDMETAL/)
-[<img src="..\assets\img\projects\proj-9\symphonic.jpg" alt="Symphonic Metal" width=200 >](/SYMPHONICMETAL/)
+[<img src="..\assets\img\projects\proj-9\heavy.jpg" alt="Heavy Metal" width=130 >](/HEAVYMETAL/)
+[<img src="..\assets\img\projects\proj-9\speed.jpg" alt="Speed Metal" width=130 >](/SPEEDMETAL/)
+[<img src="..\assets\img\projects\proj-9\symphonic.jpg" alt="Symphonic Metal" width=130 >](/SYMPHONICMETAL/)
 
 Take me back to the [sample overview](../projects/proj-8).

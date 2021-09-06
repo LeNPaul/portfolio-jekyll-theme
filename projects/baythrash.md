@@ -35,7 +35,7 @@ Another thing to point out here is that in Bay Area Thrash logos you can often f
 </ul>
 
 ##### Related (sub)genre(s):
-[<img src="..\assets\img\projects\proj-9\usthrash.jpg" alt="Technical Death Metal" width=200 >](/USTHRASH/)
+[<img src="..\assets\img\projects\proj-9\usthrash.jpg" alt="Technical Death Metal" width=130 >](/USTHRASH/)
 
 Take me back to the [sample overview](../projects/proj-8).
 
