@@ -44,5 +44,5 @@ Here, I purposely decided to do a logo in the vein of those of **Iron Maiden** a
 
 ##### Reference(s):
 ##### [1] S. Poole. Retro Rock and Heavy History. *Global Metal Music and Culture: Current Directions in Metal Studies*, pp. 302-303; and M. Heatley. *The Virgin Encyclopedia of Rock: The World's Most Comprehensive Illustrated Rock Reference*, p. 122, 1996.
-
+##### [2] J.K. Davies. BandLogoJukeBox: Iron Maiden. https://www.bandlogojukebox.com/blog/2020/11/29/i2-iron-maiden, 2020.
 Take me back to the [sample overview](../projects/proj-8).
