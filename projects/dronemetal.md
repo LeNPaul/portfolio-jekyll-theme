@@ -15,7 +15,7 @@ Drone Metal is basically deconstructed minimalist Doom Metal. "[It] combines the
 
 <ul>
 <li>Boris
-<ul>
+<ul>	
 <li><a href="https://www.metal-archives.com/bands/boris/9387" target="_blank" rel="noopener"><span>Band information</span></a></li>
 <li><a href="https://open.spotify.com/track/1zcV54IyIHMrIDhTytt3b2?si=b1cd30090daa472d" target="_blank" rel="noopener"><span>Spotify</span></a></li>
 </ul>
