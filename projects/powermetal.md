@@ -38,6 +38,10 @@ Power Metal takes its inspiration from both "traditional" Heavy Metal and Speed 
 [<img src="..\assets\img\projects\proj-9\speed.jpg" alt="Speed Metal" width=130 >](/SPEEDMETAL/)
 [<img src="..\assets\img\projects\proj-9\symphonic.jpg" alt="Symphonic Metal" width=130 >](/SYMPHONICMETAL/)
 
+### Power Metal and True Metal (continued)
+True Metal
+
+
 <!--
 ### Power Metal and True Metal (Continued)
 

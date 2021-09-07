@@ -3,7 +3,9 @@ layout: post
 title: 'Sample Guide'
 ---
 
-These logos were all created for a paper called **'Illegible Semantics: Exploring the Design Space of Metal Logos'**, which was submitted to and accepted by **alt.VIS**, a workshop at **IEEE VIS**. The paper's about how Heavy and Extreme Metal logos tell a story -- even if it isn't always immediately apparent. It's true! Go see for yourself! It just takes one click. But if you want to first know more about the paper, go [here](#illegible).
+These logos were all created for a paper called **'Illegible Semantics: Exploring the Design Space of Metal Logos'**, which was submitted to and accepted by **alt.VIS**, a workshop at **IEEE VIS**. It is available to all readers; you download a PDF version [here](https://arxiv.org/pdf/2109.01688).
+
+The paper's about how Heavy and Extreme Metal logos tell a story -- even if it isn't always immediately apparent. It's true! Go see for yourself! It just takes one click. But if you want to first know more about the paper, you can read a brief summary and conclusive remarks [below](#illegible).
 
 
 
@@ -17,7 +19,7 @@ These logos were all created for a paper called **'Illegible Semantics: Explorin
 [<img src="..\assets\img\projects\proj-9\black3.jpg" alt="Black Metal" width=140 >](/BLACKMETAL/)
 [<img src="..\assets\img\projects\proj-9\black4.jpg" alt="Black Metal" width=140 >](/BLACKMETAL/)
 [<img src="..\assets\img\projects\proj-9\brutal.jpg" alt="Black Metal" width=140 >](/BRUTALDEATH/)
-[<img src="..\assets\img\projects\proj-9\crossoverthrash3.jpg" alt="Cute Metal" width=140 >](/CROSSOVERTHRASH/)
+[<img src="..\assets\img\projects\proj-9\crossoverthrash3.jpg" alt="Crossover Thrash" width=140 >](/CROSSOVERTHRASH/)
 [<img src="..\assets\img\projects\proj-9\cute.jpg" alt="Cute Metal" width=140 >](/CUTEMETAL/)
 [<img src="..\assets\img\projects\proj-9\deathcore.jpg" alt="Deathcore" width=140 >](/DEATHCORE/)
 [<img src="..\assets\img\projects\proj-9\deathdoom.jpg" alt="Death-Doom" width=140 >](/DEATHDOOM/)
