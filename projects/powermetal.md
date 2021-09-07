@@ -54,7 +54,6 @@ As is hopefully clear, this whole guide is a tongue-in-cheek affair. Even so, I 
 
 
 
-<!--
 As is hopefully clear, this whole guide is a tongue-in-cheek affair. Even so, I don't want to give the impression that I have a strong automatic dislike against Power Metal bands compared to bands in other genres and subgenres, which is why I want to give a German fan of Power Metal the opportunity to make a case for the genre that he grew up with and is a fan of. Therefore, dear reader, let me introduce to you, Bastian Warmduscher, Power Metal fan extraordinaire.
 
 > "Thank you for letting me write a piece on behalf of the fans of True Metal, and I respectfully ask that these remarks will be published without editing.
@@ -73,7 +72,7 @@ Wizard are a power metal or “true” metal band known as Germany's answer to M
 ##### Reference(s)
 
 -->
-
+<!--
 ##### Some True Metal bands to check out:
 <ul>
 <li>Majesty
@@ -103,5 +102,6 @@ Wizard are a power metal or “true” metal band known as Germany's answer to M
 ##### [] D. Bukszpan. *The Encyclopedia of Heavy Metal*, 2003.
 ##### [2] G. Kühnemund. Rockhard, No. 277: Gnadenloser Schlagabtausch, 2006.
 ##### [] R. Trousdale. Teaching Comic Narratives. In R. Jacobs, ed. *Teaching Narrative*, p. 73, 2018.
+-->
 
 Take me back to the [sample overview](../projects/proj-8).
