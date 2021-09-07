@@ -64,6 +64,36 @@ The paper's now available open access; you download a PDF version <a href="https
 <a name="illegible"></a> 
 # Illegible Semantics
 #### Introduction
+Metal logos can be by turns gaudy, uncouth, or nearly illegible. Yet, these logos work: they communicate sophisticated notions of genre and emotional effect. Now if you're a metalhead, you already know that. But it has never been investiged scientifically that Metal logos actually tell a story -- even if it's not always immediately apparent. Well, not until now, that is. 
+
+#### Background
+We, a group of international researchers and myself, worked on a paper on Metal logo design that was submitted to and accepted by alt.VIS, a workshop at IEEE VIS, the premier forum for Visualization and Visual Analytics research. 
+
+#### Results
+The paper is called "Illegible Semantics: Exploring the Design Space of Metal Logos," and as you can surmise from the title, it's about all Metal logo designs and what information they encode and how. Oh, and when we say "Metal," we refer to Heavy Metal and its Extreme Metal subgenres and microgenres. 
+
+What we did, and why did it, is best explained in the paper, but the short of it is that --
+- we worked on a framework, which we dubbed the "Dimensions of Doom," to help characterize "illegible" band logos. To test and further develop this, I created almost 50 logos of the same word (VIS) in various genre-representative styles.
+- we developed a web tool that is based on machine learning that (1) allows the user to explore a "cloud" of thousands of existing band logos that were scraped from Encyclopaedia Metallum and (2) group them based on certain characteristics such as genre, color, and "image-likenes."
+
+The main result of the paper is that we can now say that there is definitely more to designing Metal logos than just making them as unreadable as possible; that there is indeed a visual language in the logos, which may have implications for visualization research topics.
+
+#### What's Next?
+In the future, we plan to continue working to both extend, refine, and unify our parallel approaches. Doing this should help us get a better understanding of how visual style creates meaning in band logos.
+
+To this end, additional interactive features and filter options will be added to the web tool (such as geography or our Dimensions of Doom). The Dimensions of Doom, too, are a work in progress and not a gospel that can't be changed. In fact, we already have some ideas for future changes and improvements.
+
+#### Conclusion
+We see a potential that reaches beyond logo design and the Metal industry at large. Further work may indeed well lead to an expanding knowledge of visual rhetoric and its history.
+
+Based on our preliminary study, we may already cautiously suggest that literal legibility -- that is legibility understood in terms of clarity and efficiency -- is not the be-all-end-all of textual information visualization, contrary to what common wisdom says on the matter.
+
+#### More Information
+Each genre of Metal, of which there are many, has its own rules and aesthetics. Here things can get weirdly specific. For example, bands in a genre often have the same kind of logos, but depending on subgenre or microgenre, bands may have a different kind of logo, and a logo style can even depend on a band's locality!
+
+As you can imagine, it can get complicated fairly quickly when you're trying to get a handle on what's what and how things play out visually, concretely, and practically -- especially if you're not in the know. In order to facilitate understanding, I created a ton of sample logos -- covering a broad range of genres and subgenres, and microgenres -- that have been "vetted" by scene veterans. Additionally, I added some humorous, insightful, tongue-in-cheek commentary to give you some idea into the design process of each of these genre logos. 
+
+<!--
 Wednesday, September 1, 2021
 
 About a month ago, I, together with a crack team of scientists and researchers, submitted a paper called **Illegible Semantics: Exploring the Design Space of Metal Logos** to alt.VIS, a workshop at IEEE VIS, the premier forum for Visualization and Visual Analytics. Last night we got the news that it was accepted.
@@ -78,6 +108,8 @@ What we did, and why we did it, is best explained in the paper, but the short of
 The main result of the paper is that we can now say that there is definitely more to designing extreme metal logos than just making them as unreadable as possible – there is a system to the madness: there is indeed a visual language in the logos. And following this we may even suggest that literal legibility – that is “legibility” understood in terms of clarity and efficiency – is not the be-all-end-all of textual information visualisation.
 
 But it doesn’t end there. Over the past few weeks, I also worked on a fairly comprehensive genre guide for the paper’s companion on the web, featuring a ton of samples that have been “vetted” by scene veterans and a fellow-metal designer. I had much fun with it. And I sincerely believe that it can be of help to someone, which is why I added it to my website.
+-->
+
 
 #### Full Disclosure
 With these genre samples I tried to represent as faithfully as possible a broad range of genres, based on my own years of experience in designing Metal logos and studying up on genres that I'm not too familiar with. I then had them checked by several scene veterans and a fellow designer to confirm style accuracy and coverage. As of yet, some of these have not officially been checked and validated by the "field experts." But, ultimately, these remain interpretations, anyway. 
