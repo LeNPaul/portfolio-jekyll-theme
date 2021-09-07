@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pagan Black Metal'
+title: 'Pagan Black Metal and Viking Metal'
 permalink: /PAGANBLACK/
 ---
 
@@ -42,11 +42,14 @@ Pagan Black Metal is one of many off-shoots of traditional "mainstream" Black Me
 </ul>
 -->
 
-
 ##### Related (sub)genre(s):
+[<img src="..\assets\img\projects\proj-9\black3.jpg" alt="Black Metal" width=130 >](/BLACK METAL/)
+[<img src="..\assets\img\projects\proj-9\folk1.jpg" alt="Folk Metal" width=130 >](/Metal METAL/)
 
-[<img src="..\assets\img\projects\proj-9\black3.jpg" alt="Black Metal" width=130 >](/BLACKMETAL/)
-[<img src="..\assets\img\projects\proj-9\folk1.jpg" alt="Folk Metal" width=130 >](/FOLKMETAL/)
+
+### Viking Metal
+
+
 
 Take me back to the [sample overview](../projects/proj-8).
 
