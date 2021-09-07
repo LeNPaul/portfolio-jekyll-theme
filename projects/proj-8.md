@@ -5,11 +5,7 @@ title: 'Sample Guide'
 
 These logos were all created for a paper called **'Illegible Semantics: Exploring the Design Space of Metal Logos'**, which was submitted to and accepted by **alt.VIS**, a workshop at **IEEE VIS**. It's about how Heavy and Extreme Metal logos tell a story -- even if it isn't always immediately apparent. It's true! Go see for yourself! It just takes one click. But if you want to first know more about the paper, you can read a brief summary and conclusive remarks [below](#illegible).
 
-##### Update (Wednesday, 7 September, 2021): The paper's available to all readers; you download a PDF version ![here](https://arxiv.org/pdf/2109.01688). Its website companion can be can be found ![here](http://www.illegiblesemantics.com), which contains, among other things, a link to the MetalVis web tool and a tutorial on how to use it.
-
-
-
-
+The paper's available to all readers; you download a PDF version <a href="https://arxiv.org/pdf/2109.01688" target="_blank" rel="noopener"><span>here</span></a>. Its website companion can be can be found <a href="http://www.illegiblesemantics.com" target="_blank" rel="noopener"><span>here</span></a>.
 
 [<img src="..\assets\img\projects\proj-9\avantgarde.jpg" alt="Avant-Garde Metal" width=140 >](/AVANTGARDE/)
 [<img src="..\assets\img\projects\proj-9\baythrash.jpg" alt="Bay Area Thrash" width=140 >](/THRASHMETAL3/)
