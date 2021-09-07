@@ -59,7 +59,7 @@ Of course, it's hard *not* to mock the genre, when not even <strong>Manowar</str
 <br><br>
 Said DeMaio: "Ich glaube an die Fans. Ich glaube an den Metal, mehr als jeder andere, den Du je getroffen hast. Und noch etwas: Ich bin bereit, für den Metal zu sterben. Du auch?"<sup>2</sup> (This translates to: "I believe in the fans. I believe in Metal more than anybody you've ever met. And another thing: I'm prepared to die for Metal. Are you?") This was then followed by an invitation to come to one of their shows and shoot him on stage. 
 <br><br>
-Whether this was serious or just for laugs, it's hard to tell with DeMaio. Either way, it makes a mockery of the genre. And that's where we are right now with True Metal. It is one big joke.
+Whether this was serious or just for laugs, it's hard to tell with a guy like DeMaio. Either way, it makes a mockery of the genre. And that's where we are right now with True Metal. It is one big joke.
 <br><br>
 </div>
 
