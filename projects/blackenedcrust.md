@@ -27,7 +27,6 @@ If I had to describe it, I'd say it's raw, fast, and crude, with a thick dirty, 
 <li><a href="https://open.spotify.com/track/3r5FVHNGs65IDEsydrPsHT?si=46c29cbeabaf401d" target="_blank" rel="noopener"><span>Spotify</span></a></li>
 </ul>
 </li>
-</ul>
 
 <li>Hellbastard
 <ul>
@@ -36,7 +35,6 @@ If I had to describe it, I'd say it's raw, fast, and crude, with a thick dirty, 
 </ul>
 </li>
 </ul>
-
 
 ##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\black11.jpg" alt="Black Metal" width=130 >](/BLACKMETAL/)
