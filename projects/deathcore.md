@@ -37,6 +37,7 @@ Yes, even the logos suck! (But what else did you expect from guys who think that
 
 
 ##### Related (sub)genre(s):
-[<img src="..\assets\img\projects\proj-9\metalcore.jpg" alt="Faux Metal" width=130 >](/METALCORE/)
+[<img src="..\assets\img\projects\proj-9\brutal.jpg" alt="Death Metal" width=130 >](/DEATHMETAL/)
+[<img src="..\assets\img\projects\proj-9\metalcore.jpg" alt="Metalcore" width=130 >](/METALCORE/)
 
 Take me back to the [sample overview](../projects/proj-8).
