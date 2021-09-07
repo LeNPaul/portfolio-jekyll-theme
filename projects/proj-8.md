@@ -3,7 +3,7 @@ layout: post
 title: 'Sample Guide'
 ---
 
-These logos were all created for a paper called **'Illegible Semantics: Exploring the Design Space of Metal Logos'**, which was submitted to and accepted by **alt.VIS**, a workshop at **IEEE VIS**. It's about how Heavy and Extreme Metal logos tell a story -- even if it isn't always immediately apparent. It's true! Go see for yourself! It just takes one click. But if you want to first know more about the paper, you can read a brief summary and conclusive remarks [below](#illegible).
+These logos were all created for a paper called '**Illegible Semantics: Exploring the Design Space of Metal Logos**,' which was submitted to and accepted by **alt.VIS**, a workshop at **IEEE VIS**. It's about how Heavy and Extreme Metal logos tell a story -- even if it isn't always immediately apparent. It's true! Go see for yourself! It just takes one click. But if you want to first know more about the paper, you can read a brief summary and conclusive remarks [below](#illegible).
 
 **Update (Wednesday, September 7, 2021)**: The paper's now available to all readers; you download a PDF version <a href="https://arxiv.org/pdf/2109.01688" target="_blank" rel="noopener"><span>here</span></a>. Its website companion, which contains a link to the MetalVis web tool and a tutorial on how to use it, can be can be found <a href="http://www.illegiblesemantics.com" target="_blank" rel="noopener"><span>here</span></a>.
 
