@@ -106,6 +106,7 @@ I'd like to give a shoutout to everyone who helped me write this guide -- your i
 ##### Kaz, J. IGN: The Best Band Logos: Iconic emblems that put a visual spin on the rock. https://web.archive.org/web/20100324191426/http://music.ign.com/articles/941/941142p1.html, 2009.
 ##### Konow, D. *Bang Your Head: The Rise and Fall of Heavy Metal*, 2002.
 ##### Konow, D. LA Weekly: Drummer Gene Hohlan Was Just 18 When He Recorded an '80s Thrash Classic. https://www.laweekly.com/drummer-gene-hoglan-was-just-18-when-he-recorded-an-80s-thrash-classic/, 2017.
+##### Kühnemund, G. Rockhard, No. 277: Gnadenloser Schlagabtausch, 2006.
 ##### Lombardo, D. Loudwire: Dave Lombardo - Wikipedia: Fact or Fiction? https://www.youtube.com/watch?v=LKppPspVNDs, 2015. 
 ##### Lusty, H. Heavy Metal Microgenres. In A.H. Stevens, M.C. O'Donnell, ed. The Microgenre: A Quick Look at Small Culture, 167, 2020.
 ##### Manea, I.-M. Primal Roots: Ancestry and Race in Extreme Music Discourse. In *Proceedings of IAC-SSaH 2015: International Academic Conference on Social Sciences and Humanities in Prague 2015*, 2015.
@@ -124,6 +125,7 @@ I'd like to give a shoutout to everyone who helped me write this guide -- your i
 ##### Poole, S. Retro Rock and Heavy History. *Global Metal Music and Culture: Current Directions in Metal Studies*, 2016.
 ##### Rampton, M. Kerrang: Inside The World Of Extreme Metal Logos. https://www.kerrang.com/features/inside-the-world-of-extreme-metal-logos, 2018.
 ##### Spracklen, K. and B. Spracklen. *The Evolution of Goth Culture: The Origins and Deeds of the New Goths*, 2018.
+##### Spracklen, K. Ch. 6: Manowar: True Metal Warriors. In Metal Music and the Re-Imagining of Masculinity, Place, Race, and Nation, 2020. 
 ##### Stinson, L. Wired: The Beauty and Total Illegibility of Extreme Metal Logos. https://www.wired.com/2015/10/the-beauty-and-total-illegibility-of-extreme-metal-logos, 2015.
 ##### Sturman, J., ed. *The SAGE International Encyclopedia of Music and Culture*, 2019.
 ##### Taylor, M. Eternal Defiance: Celtic Identity and the Classical Past in Heavy Metal. In K.F.B. Fletcher and O. Umurhan, ed. Introduction: Where Metal and Classics Meet. In *Classical Antiquity in Heavy Metal Music*, 2020.
