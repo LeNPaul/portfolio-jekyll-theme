@@ -41,14 +41,27 @@ Power Metal takes its inspiration from both "traditional" Heavy Metal and Speed 
 ### Power Metal and True Metal (continued)
 Though most Power Metal bands' content is of epic nature (i.e. inspired by "high" fantasy and swords-and-sorcery fantasy writing), a very specific subset of Power Metal bands rather deal with "authenticity." Collectively, this microgenre can be accurately dubbed "True Metal." Bands in this genre (**Majesty**, **Manowar**, **Wizard**) strive to create music that is "true" to the style and feel of classic Heavy Metal, and their lyrics focus not so much on swords-and-sorcery fantasy -- they only sing on matters of the heart. 
 
+
+<script type="text/javascript">
+    function toggle_visibility(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'none')
+          e.style.display = 'block';
+       else
+          e.style.display = 'none';
+    }
+</script>
+<a href="#bar" name="bar" onclick="toggle_visibility('foo');">Read more ...</a>
+<div id="foo" style="display:none;">
 Don't get too excited, however. What matters most to them is not quite profound. It may be in fact even more cheesy than the plot of your average fantasy CRPG; because it's only ever really about celebrating masculine prowess and "warrior-hood." Indeed, "[True Metal] is defined by the Other: wimps and posers, men who are weak or effeminate or gay, men who are not true (heterosexual, warrior and essential) men and bourgeois men who seek to turn their omnivore gaze to heavy metal while simultaneously mocking it."<sup>1</sup>
-
-Of course, it's hard *not* to mock the genre, when not even **Manowar**, the self-proclaimed "<a href="https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR?si=b59422c6642e4184" target="_blank" rel="noopener"><span>Kings of Metal</span></a>," can guarantee to give a good live show. In 2006, the band fumbled a live concert in Germany, though calling it a "concert" seems overly polite; for sure because the fans had to put up with a two-hour long soundcheck. When Joey DeMaio, the band's bassist, was pressed on this in an interview with Rockhard -- there was no stopping the train to crazy town. 
-
+<br><br>
+Of course, it's hard *not* to mock the genre, when not even <strong>Manowar</strong>, the self-proclaimed "<a href="https://open.spotify.com/track/28TcG73tbc4iGrGBFjiBnR?si=b59422c6642e4184" target="_blank" rel="noopener"><span>Kings of Metal</span></a>," can guarantee to give a good live show. In 2006, the band fumbled a live concert in Germany, though calling it a "concert" seems overly polite; for sure because the fans had to put up with a two-hour long soundcheck. When Joey DeMaio, the band's bassist, was pressed on this in an interview with Rockhard -- there was no stopping the train to crazy town. 
+<br><br>
 Said DeMaio: "Ich glaube an die Fans. Ich glaube an den Metal, mehr als jeder andere, den Du je getroffen hast. Und noch etwas: Ich bin bereit, für den Metal zu sterben. Du auch?"<sup>2</sup> (This translates to: "I believe in the fans. I believe in Metal more than anybody you've ever met. And another thing: I'm prepared to die for Metal. Are you?") This was then followed by an invitation to come to one of their shows and shoot him on stage. 
-
+<br><br>
 Whether this was serious or just for laugs, it's hard to tell with DeMaio. Either way, it makes a mockery of the genre. And that's where we are right now with True Metal. It is one big joke.
-
+<br><br>
+</div>
 
 ##### Some True Metal bands to check out:
 <ul>
