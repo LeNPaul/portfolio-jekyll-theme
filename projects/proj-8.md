@@ -5,7 +5,7 @@ title: 'Sample Guide'
 
 These logos were all created for a paper called '**Illegible Semantics: Exploring the Design Space of Metal Logos**,' which was submitted to and accepted by **alt.VIS**, a workshop at **IEEE VIS**. It's about how Heavy and Extreme Metal logos tell a story -- even if it isn't always immediately apparent. It's true! Go see for yourself! It just takes one click. But if you want to first know more about the paper, you can read a brief summary and conclusive remarks [below](#illegible).
 
-**Update (Wednesday, September 7, 2021)**: The paper's now available to all readers; you download a PDF version <a href="https://arxiv.org/pdf/2109.01688" target="_blank" rel="noopener"><span>here</span></a>. Its website companion, which contains a link to the MetalVis web tool and a tutorial on how to use it, can be can be found <a href="http://www.illegiblesemantics.com" target="_blank" rel="noopener"><span>here</span></a>.
+The paper's now available open access; you download a PDF version <a href="https://arxiv.org/pdf/2109.01688" target="_blank" rel="noopener"><span>here</span></a>. Its website companion, which contains a link to the MetalVis web tool and a tutorial on how to use it, can be can be found <a href="http://www.illegiblesemantics.com" target="_blank" rel="noopener"><span>here</span></a>.
 
 [<img src="..\assets\img\projects\proj-9\avantgarde.jpg" alt="Avant-Garde Metal" width=140 >](/AVANTGARDE/)
 [<img src="..\assets\img\projects\proj-9\baythrash.jpg" alt="Bay Area Thrash" width=140 >](/THRASHMETAL3/)
@@ -86,6 +86,7 @@ It may well be that you have other ideas on what these logos are supposed to loo
 
 #### Acknowledgements
 I'd like to give a shoutout to everyone who helped me write this guide -- your insights and thoughts were much appreciated! I owe a special thanks to three in particular who shared their time and expertise with me throughout this project and provided me with useful feedback on my guide: Erik <a href="https://www.instagram.com/negakinu/" target="_blank" rel="noopener"><span>Negakinu</span></a>, Marco W., and Melle Gerritsen. 
+
 
 #### References
 ##### Rosenberg, A. Metalsucks: Sunn O))) are Peeved That Someone is Aping Their Aped Logo. https://www.metalsucks.net/2015/03/16/sunn-o-peeved, 2015
