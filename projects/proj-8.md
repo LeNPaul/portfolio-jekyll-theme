@@ -64,7 +64,7 @@ These logos were all created for a paper called **'Illegible Semantics: Explorin
 <a name="illegible"></a> 
 # Illegible Semantics
 #### Introduction
-September 1, 2021
+Wednesday, September 1, 2021
 
 About a month ago, I, together with a crack team of scientists and researchers, submitted a paper called **Illegible Semantics: Exploring the Design Space of Metal Logos** to alt.VIS, a workshop at IEEE VIS, the premier forum for Visualization and Visual Analytics. Last night we got the news that it was accepted.
 
