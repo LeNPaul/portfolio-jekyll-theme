@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pagan Black Metal'
+title: 'Pagan Black Metal and Viking Metal'
 permalink: /PAGANBLACK/
 ---
 
@@ -30,7 +30,7 @@ Pagan Black Metal is one of many off-shoots of traditional "mainstream" Black Me
 <li><a href="https://open.spotify.com/track/2lL0Z7Ko5vfW6pVtKRgfu9?si=2179f17dbcac48b9" target="_blank" rel="noopener"><span>Spotify</span></a></li>
 </ul>
 </li>
-
+</ul>
 
 <!--
 <li>Falkenbach
@@ -42,10 +42,19 @@ Pagan Black Metal is one of many off-shoots of traditional "mainstream" Black Me
 </ul>
 -->
 
+### Pagan Metal and Viking Metal (continued)
+
+So just what is Pagan Black Metal, you might ask? I'd answer it is Black Metal whose lyrical content usually deals with Germanic Neo-Pagan romanticism -- evoking images of past greatness -- which may raise some eyebrows (in some cases rightfully so). And, compared to conventional Black Metal, the music, which quite often includes folk melodies, is played in a generally slower, but more varying, pace.
+
+If a band's lyrical content deals not so much with Germanic Paganism and its ancient roots, as with Vikings and their deep rooted mythologies, or Nordic ethnic heritage, then you're probably looking at a Viking Metal band. 
+
+But there's a caveat, which concerns the workableness of the genre label "Viking Metal." It's that it's not really workable. The problem is that Viking Metal as a term is so broad; it runs the whole gamut from bands rooted in Black Metal (**Enslaved**, **Helheim**, **Naglfar**) to those who lean more towards Folk Metal (**Einherjer**, **Windir**), to still others who play (Melodic) Death Metal (**Amon Amarth**, **Unleashed**). 
+
+Of course, this means that a Viking Metal logo could look like anything from a **conventional Black Metal logo** to a **Nordic runic inscription**. 
+
 ##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\black3.jpg" alt="Black Metal" width=130 >](/BLACK METAL/)
-[<img src="..\assets\img\projects\proj-9\folk1.jpg" alt="Folk Metal" width=130 >](/Metal METAL/)
-
+[<img src="..\assets\img\projects\proj-9\folk1.jpg" alt="Folk Metal" width=130 >](/FOLKMETAL/)
+[<img src="..\assets\img\projects\proj-9\melodic.jpg" alt="Folk Metal" width=130 >](/MELODICDEATH/)
 
 Take me back to the [sample overview](../projects/proj-8).
-
