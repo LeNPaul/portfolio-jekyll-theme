@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Illegible Semantics: The Digital World's New Darling?"
+title: "Illegible Semantics, Pt. I: The Digital World's New Darling?"
 ---
 
 I kinda want to move on from Illegible Semantics because I have to design some prints for a little business venture, but -- we're just launching a media offensive of sorts. And it's picking up steam really nicely. Certainly more than my own efforts.
