@@ -6,7 +6,7 @@ permalink: /BLACKENEDCRUST/
 
 "Blackened Crust (Punk)." After reading up on the term, I'm just as confused as I was when I first encountered the term. I don't even know what to make of Crust Punk because I don't know about Punk, but insofar as I understand it, Crust is a genre that blends English Punk with elements of Extreme Metal. It then of course follows that Blackened Crust specifically fuses Crust with Black Metal. That's easy enough to understand. But I still don't understand the genre. And listening to it now -- it feels like the genre doesn't quite understand me, either. (But I expected worse. I really expected worse.)
 
-If I had to describe it, I'd say it's raw, fast, and crude, with a thick dirty, bassy sound. And this is probably why Crust Punk logos all seem to have a dirty look to them, much like with Melodic Death Metal logos. But those tend to be modern wordmarks (i.e. type-only logos) that are sometimes dirtied up, whereas Blackened Crust acts seem to favor wordmarks that are based on (modified versions of) the German Fraktur or Gothic script. 
+If I had to describe it, I'd say it's raw, fast, and crude, with a thick dirty, bassy sound. And this is probably why Crust Punk logos all seem to have a **dirty look** to them, much like with Melodic Death Metal logos. But those tend to be modern wordmarks (i.e. type-only logos) that are sometimes dirtied up, whereas Blackened Crust acts seem to favor **wordmarks** that are based on (modified versions of) the **German Fraktur** or **Gothic script**. 
 
 ![Blackened Crust](..\assets\img\projects\proj-9\blackenedcrust.jpg)
 
