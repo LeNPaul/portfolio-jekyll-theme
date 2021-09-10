@@ -95,6 +95,11 @@ Ultimately it boils down to a difference in taste or opinion. Do you enjoy (trad
 </li>
 </ul>
 
+##### Related (sub)genre(s):
+[<img src="..\assets\img\projects\proj-9\black12.jpg" alt="Black Metal" width=130 >](/BLACKMETAL/)
+[<img src="..\assets\img\projects\proj-9\pirate.jpg" alt="Pirate Metal" width=130 >](/PIRATEMETAL/)
+
+
 ### Folk Metal and Viking Metal (Continued)
 Some Folk bands take things to the next level by incorporating **viking helmets** and **drinking-horns** in their logos to signal to people, "When you come to our show, you're free to live out your viking fantasy vicariously. By all means, bring your plastic drinking-horn!" And why wouldn't you, if you're a fan of Folk Metal. You've already ostracized yourself from typical metalheads anyway, you may as well commit to the LARP thing.
 
@@ -131,11 +136,37 @@ This isn't really helping, is it? I thought as much, which is why I already prep
 
 Show me the <a href="..\assets\img\blog\howdrunk.jpg" target="_blank" rel="noopener"><span>bigger picture</span></a>.<sup>11</sup>
 
+##### Some Folk Metal bands to check out:
+
+<ul>
+<li>Enslaved
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Enslaved/104" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/27vcwfCcgCaso2A0hifBT9?si=88f12640dace4f35" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Unleashed
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Unleashed/359" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/1SvsK5tkR5R73DOAcsW8wz?si=4c3405497d244534" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+
+<li>Windir
+<ul>
+<li><a href="https://www.metal-archives.com/bands/Windir/360" target="_blank" rel="noopener"><span>Band information</span></a></li>
+<li><a href="https://open.spotify.com/track/6heyQdo27FXSVTR0VS5F5H?si=9d196e003a664c9a" target="_blank" rel="noopener"><span>Spotify</span></a></li>
+</ul>
+</li>
+</ul>
 
 
 ##### Related (sub)genre(s):
+[<img src="..\assets\img\projects\proj-9\black12.jpg" alt="Black Metal" width=130 >](/BLACKMETAL/)
+[<img src="..\assets\img\projects\proj-9\melodic.jpg" alt="Melodic Death Metal" width=130 >](/MELODICDEATH/)
 [<img src="..\assets\img\projects\proj-9\pagan.jpg" alt="Pagan Black Metal" width=130 >](/PAGANBLACK/)
-[<img src="..\assets\img\projects\proj-9\pirate.jpg" alt="Pirate Metal" width=130 >](/PIRATEMETAL/)
+
 
 ##### Reference(s):
 ##### [1] T. Neilson. Where Myth and Metal Collide: Finnish Folk Metal. In S.A. Wilson, ed. *Music at the Extremes: Essays on Sounds Outside the Mainstream*, p. 136, 2015. 
