@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Folk Metal'
+title: 'Folk Metal and Viking Metal'
 permalink: /FOLKMETAL/
 ---
 Closely related to the Pagan Metal is Folk Metal. Where they differ is that while Pagan Black Metal still kinda has the cool factor of Black Metal, Folk Metal has little to no coolness at all, and this shows in the logos. They often take their inspiration from Black Metal aesthetics, with logos made of **lowercase blackletters** or some **Celtic type**, with only **some degree of symmetry** on both opposite ends of the logo, if at all, and even then usually through **decorative curls** rather than through cool letter design.   
@@ -70,11 +70,6 @@ Ultimately it boils down to a difference in taste or opinion. Do you enjoy (trad
 (Sigh.) That's it. I'm done. I did my part. 
 </div>
 
-### Folk Metal (Continued)
-Some Folk bands take things to the next level by incorporating **viking helmets** and **drinking-horns** in their logos to signal to people, "When you come to our show, you're free to live out your viking fantasy vicariously. By all means, bring your plastic drinking-horn!" And why wouldn't you, if you're a fan of Folk Metal. You've already ostracized yourself from typical metalheads anyway, you may as well commit to the LARP thing.
-
-![Folk Metal](..\assets\img\projects\proj-8\folk2.jpg)
-
 ##### Some Folk Metal bands to check out:
 
 <ul>
@@ -100,6 +95,44 @@ Some Folk bands take things to the next level by incorporating **viking helmets*
 </li>
 </ul>
 
+### Folk Metal and Viking Metal (Continued)
+Some Folk bands take things to the next level by incorporating **viking helmets** and **drinking-horns** in their logos to signal to people, "When you come to our show, you're free to live out your viking fantasy vicariously. By all means, bring your plastic drinking-horn!" And why wouldn't you, if you're a fan of Folk Metal. You've already ostracized yourself from typical metalheads anyway, you may as well commit to the LARP thing.
+
+![Folk Metal](..\assets\img\projects\proj-8\folk2.jpg)
+
+Although this may give the impression that you're dealing with a Viking Metal band, this doesn't necessarily have to be so because it can still be a Folk Metal band. Now this is where things can get confusing ... 
+
+<script type="text/javascript">
+    function toggle_visibility(id) {
+       var e = document.getElementById(id);
+       if(e.style.display == 'none')
+          e.style.display = 'block';
+       else
+          e.style.display = 'none';
+    }
+</script>
+<a href="#bar" name="bar" onclick="toggle_visibility('foo4');">Read more ...</a>
+<div id="foo2" style="display:none;">
+Folk Metal is an offshoot of Black Metal in which traditional folk instruments and melodies are dominant, often to the point where there's no trace left of the old Black Metal spirit. Now think of Black Metal and Folk Metal as two opposite ends of a single continuum on which Pagan (Black) Metal bands fall, leaning more on the Black Metal side of the continuum than the other. 
+<br><br>
+When a Pagan (Black) Metal band's content deals with Norse or Viking mythology instead of Neo-Pagan -- that's when we're dealing with a Viking metal band. After all, what is a Pagan but a Viking without a ship?
+<br><br>
+True enough, the German "Asa" (i.e. Germanic neo-Pagan) Metal band **Falkenbach**, a band that pioneered the Folk Metal genre, have quite often been labeled as a Viking Metal band by media outlets and scholars (see Update 2 above).
+<br><br>
+But wait! What if a Folk Metal band's lyrics are a loveletter to Scandinavian national romanticism? Well, then that band, too, is a Viking Metal band. (Unless the band is called **Ensiferum**. They don't call themselves Viking Metal, instead preferring the label of "Melodic Folk Metal.") 
+<br><br>
+</div>
+
+Depending on a given band's content, Viking Metal can be anything from Black(ish) Metal (**Enslaved**, **Naglfar**) to Folk(ish) Metal (**Einherjer**, **Windir**), to even Death(ish) Metal (**Amon Amarth**, **Unleashed**); and this because it's a superficial crossgenre label that encompasses just about every band dealing with viking-age Scandinavia on whatever level. 
+
+This isn't really helping, is it? I thought as much, which is why I already prepared something in advance to help you understand it more clearly. If you want to know if you're dealing with a Black, Pagan, Folk, or Viking Metal band, you just have to ask yourself one question or two actually: **If I am a non-drinker, will I enjoy this? Or should I start drinking?**
+
+![Folk Metal](..\assets\img\blog\howdrunk.jpg)
+
+Show me the <a href="..\assets\img\blog\howdrunk.jpg" target="_blank" rel="noopener"><span>bigger picture</span></a>.<sup>11</sup>
+
+
+
 ##### Related (sub)genre(s):
 [<img src="..\assets\img\projects\proj-9\pagan.jpg" alt="Pagan Black Metal" width=130 >](/PAGANBLACK/)
 [<img src="..\assets\img\projects\proj-9\pirate.jpg" alt="Pirate Metal" width=130 >](/PIRATEMETAL/)
@@ -115,5 +148,6 @@ Some Folk bands take things to the next level by incorporating **viking helmets*
 ##### [8] S. von Hoyningen-Huene. *Religiosität bei rechtsextrem orientierten Jugendlichen*, p. 247, 2002.
 ##### [9] A. Buchy. Camion blanc: Bathory: The Root of Darkness and Evil, 2011; S. Yandell. The Future *Is* What It Used to Be: Medieval Prophecy and Popular Culture. In D.W. Marshall, ed. *Mass Market Medieval: Essays on the Middle Ages in Popular Culture*, p. 68, 2007; D. Patterson. Enslaved: Folk and Folklore in Black Metal Part I. In *Black Metal: Evolution of the Cult*, 2013; and K.F.B. Fletcher O. Umurhan, ed. Introduction: Where Metal and Classics Meet. In *Classical Antiquity in Heavy Metal Music*, 2020. 
 ##### [10] I.-M. Manea. Primal Roots: Ancestry and Race in Extreme Music Discourse. In *Proceedings of IAC-SSaH 2015: International Academic Conference on Social Sciences and Humanities in Prague 2015*, p. 188, 2015.
+##### [11] These pictures were lifted from an April 2014 article on Independent online. A. Molloy. Independent: Feeling disgustedly surprised? Scientists identify 21 facial expressions. https://www.independent.co.uk/news/science/feeling-disgustedly-surprised-scientists-identify-21-facial-expressions-9227589.html, 2014.
 
 Take me back to the [sample overview](../projects/proj-8).

@@ -145,6 +145,7 @@ I'd like to give a shoutout to everyone who helped me write this guide -- your i
 ##### Manea, I.-M. Primal Roots: Ancestry and Race in Extreme Music Discourse. In *Proceedings of IAC-SSaH 2015: International Academic Conference on Social Sciences and Humanities in Prague 2015*, 2015.
 ##### Mengerink, M.A. Hitler, the Holocaust, and Heavy Metal Music: Holocaust Memory and Representation in the Heavy Metal Subculture, 1980-Present. In S.T. Horsfall, J.-M. Meij, and M. Probstfield, ed. *Music Sociology: Examining the Role of Music in Social Life*, 2013.
 ##### Miranovic, M. Metal Sound Magazine: Falkenbach: Heathen Pride https://metal-sound.net/falkenbach-heathen-pride, 2005.
+##### Molloy, A. Independent: Feeling disgustedly surprised? Scientists identify 21 facial expressions. https://www.independent.co.uk/news/science/feeling-disgustedly-surprised-scientists-identify-21-facial-expressions-9227589.html, 2014.
 ##### Moore, R. *Sells Like Teen Spirit: Music, Youth Culture, and Social Crisis*, 2010.
 ##### Neilson, T. Where Myth and Metal Collide: Finnish Folk Metal. In S.A. Wilson, ed. *Music at the Extremes: Essays on Sounds Outside the Mainstream*, 2015. 
 ##### Nielson, E. Paragraph on Metal on Trial. *Rap on Trial: Race, Lyrics, and Guilt in America*, 2019.
