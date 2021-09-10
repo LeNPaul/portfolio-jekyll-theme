@@ -107,26 +107,13 @@ Some Folk bands take things to the next level by incorporating **viking helmets*
 
 Although this may give the impression that you're dealing with a Viking Metal band, this doesn't necessarily have to be so because it can still be a Folk Metal band. Now this is where things can get confusing ... 
 
-<script type="text/javascript">
-    function toggle_visibility(id) {
-       var e = document.getElementById(id);
-       if(e.style.display == 'none')
-          e.style.display = 'block';
-       else
-          e.style.display = 'none';
-    }
-</script>
-<a href="#bar" name="bar" onclick="toggle_visibility('foo4');">Read more ...</a>
-<div id="foo2" style="display:none;">
 Folk Metal is an offshoot of Black Metal in which traditional folk instruments and melodies are dominant, often to the point where there's no trace left of the old Black Metal spirit. Now think of Black Metal and Folk Metal as two opposite ends of a single continuum on which Pagan (Black) Metal bands fall, leaning more on the Black Metal side of the continuum than the other. 
-<br><br>
+
 When a Pagan (Black) Metal band's content deals with Norse or Viking mythology instead of Neo-Pagan -- that's when we're dealing with a Viking metal band. After all, what is a Pagan but a Viking without a ship?
-<br><br>
+
 True enough, the German "Asa" (i.e. Germanic neo-Pagan) Metal band **Falkenbach**, a band that pioneered the Folk Metal genre, have quite often been labeled as a Viking Metal band by media outlets and scholars (see Update 2 above).
-<br><br>
+
 But wait! What if a Folk Metal band's lyrics are a loveletter to Scandinavian national romanticism? Well, then that band, too, is a Viking Metal band. (Unless the band is called **Ensiferum**. They don't call themselves Viking Metal, instead preferring the label of "Melodic Folk Metal.") 
-<br><br>
-</div>
 
 Depending on a given band's content, Viking Metal can be anything from Black(ish) Metal (**Enslaved**, **Naglfar**) to Folk(ish) Metal (**Einherjer**, **Windir**), to even Death(ish) Metal (**Amon Amarth**, **Unleashed**); and this because it's a superficial crossgenre label that encompasses just about every band dealing with viking-age Scandinavia on whatever level. 
 
