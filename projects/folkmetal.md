@@ -105,12 +105,12 @@ Some Folk bands take things to the next level by incorporating **viking helmets*
 
 ![Folk Metal](..\assets\img\projects\proj-8\folk2.jpg)
 
-Although this may give the impression that you're dealing with a Viking Metal band, this doesn't necessarily have to be so because it can still be a Folk Metal band. Now this is where things can get confusing ... 
+Although a logo like this may give the impression that you're actually dealing with a Viking Metal band, this doesn't necessarily have to be so because it can still be a Folk Metal band. Now this is where things can get confusing ... 
 
 
 Folk Metal is an offshoot of Black Metal in which traditional folk instruments and melodies are dominant, often to the point where there's no trace left of the old Black Metal spirit. Now think of Black Metal and Folk Metal as two opposite ends of a single continuum on which Pagan (Black) Metal bands fall, leaning more on the Black Metal side of the continuum than the other. 
 
-When a Pagan (Black) Metal band's content deals with Norse or Viking mythology instead of Neo-Pagan -- that's when we're dealing with a Viking metal band. After all, what is a Pagan but a Viking without a ship?
+When a Pagan (Black) Metal band's content deals with Norse or Viking mythology instead of Neo-Pagan mythology and way of life -- that's when we're dealing with a Viking metal band. After all, what is a Pagan but a Viking without a ship?
 
 True enough, the German "Asa" (i.e. Germanic neo-Pagan) Metal band **Falkenbach**, a band that pioneered the Folk Metal genre, have quite often been labeled as a Viking Metal band by media outlets and scholars (see Update 2 above).
 
