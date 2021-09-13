@@ -76,7 +76,7 @@ While I was just browing on the Internet looking for new ideas and references, I
 [<img src="..\assets\img\projects\proj-9\tech901.jpg" alt="1990s Technical Death Metal" width=130 >](/TECHDEATH90S/)
 
 ##### Reference(s):
-##### [1] M. Unger. *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, p. 20, 2016.\
+##### [1] M. Unger. *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, p. 20, 2016.
 ##### [2] E.T. Smialek. *Genre and Expression in Extreme Metal Music, ca. 1990-2015*, pp. 155-157, 2015.
 
 Take me back to the [sample overview](../projects/proj-8).
