@@ -41,6 +41,12 @@ It's fairly easy to recognize a post-2000s Technical Death band from a 1990s ban
 
 ![Technical Death Metal](..\assets\img\projects\proj-8\tech00.jpg)
 
+When I originally wrote this entry a few weeks ago, I did so half-jokingly. It was based on my own personal observation. Little did I know then that I was right on the money. 
+
+While I was just browing on the Internet looking for new ideas and references, I stumbled upon a dissertation on genre and expression in Extreme Metal music, which has a paragraph in it on band logos and font styles and that specifically deals with genre and periodization. I therefore add it here in full, as it perfectly backs up my idea that things went down the shitter after the turn of the millennium:
+
+> "... a trend can be observed beginning the mid-1990s of bands from multiple extreme metal subgenres retiring their older, hand-drawn logos for a more legible, digital look. Whether these transformations are in some cases marketing decisions to attract larger audiences or simply the results of computer illustration software making professional typography more common, they have the cumulative effect of antiquating the older, DIY-style logos that were commonplace during the 1980s. In terms of genre, what this does is create a set of visual connotations for DIY logos that they did not previously carry. A present-day recording with a band logo similar to the [original] Necrophagia logo ... would take on an 'old school' aura or be associated with older genres of metal. To put it in another way, someone browsing in a used CD store for death metal would likely associate such a logo with the thrash-inflected death metal of the late 1980s or early '90s rather than the more technical styles that gained popularity around the turn of the millennium. Another consequence is that fans who are accustomed to newer styles of death metal, along with their digitally-illustrated logos, are likely to similarly associated DIY-inflected subgenres such as grindcore with an older era. Thus that same death metal shopper might glance upon Pig Destroyer's *Phantom Limb* (2007), associate the band's cover art and logo with metal of the 1980s, and later make a comment to someone about 'old-school grindcore.' In this way, something a subtle and seemingly incidental as a logo font can contribute to the historical process whereby musical genres are retrospectively codified and separated from one another within the popular imagination, both in terms of trait-based discussions and historical narratives."<sup>2</sup>
+
 <ul>
 <li>Archspire	
 <ul>
@@ -70,6 +76,7 @@ It's fairly easy to recognize a post-2000s Technical Death band from a 1990s ban
 [<img src="..\assets\img\projects\proj-9\tech901.jpg" alt="1990s Technical Death Metal" width=130 >](/TECHDEATH90S/)
 
 ##### Reference(s):
-##### [1] M. Unger. *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, p. 20, 2016.
+##### [1] M. Unger. *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, p. 20, 2016.\
+##### [2] E.T. Smialek. *Genre and Expression in Extreme Metal Music, ca. 1990-2015*, pp. 155-157, 2015.
 
 Take me back to the [sample overview](../projects/proj-8).

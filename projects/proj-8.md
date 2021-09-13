@@ -121,8 +121,8 @@ I'd like to give a shoutout to everyone who helped me write this guide -- your i
 
 
 #### References
-##### Rosenberg, A. Metalsucks: Sunn O))) are Peeved That Someone is Aping Their Aped Logo. https://www.metalsucks.net/2015/03/16/sunn-o-peeved, 2015
 ##### Archer-Capuzzo, S. and G. Capuzzo. *Metaldata: A Bibliography of Heavy Metal Resources*, 2021.
+##### Asphyx, J. Translated by Duzl. Deadly Storm zine: Mark Riddick - I Do Think That Critique Is a Vital Tool for Developing as an Artist. http://www.deadlystormzine.com/2018/09/interview-mark-riddick-i-do-think-that.html, 2018
 ##### Buchy, A. Camion blanc: Bathory: The Root of Darkness and Evil, 2011.
 ##### Davies, J.K. BandLogoJukeBox: Iron Maiden. https://www.bandlogojukebox.com/blog/2020/11/29/i2-iron-maiden, 2020.
 ##### Dickstein, M. The Aesthetics of Fright. In B.K. Grant, ed. *Plans of Reason: Essays on the Horror Film*, 1984.
@@ -158,6 +158,8 @@ I'd like to give a shoutout to everyone who helped me write this guide -- your i
 ##### Pilo, B. True Norwegian Black Metal: Nationalism and Authenticity in the Norwegian Black Metal of the '90s. In T.M. Karjalainen, ed. *Sounds of Origin in Heavy Metal Music*, 2018.
 ##### Poole, S. Retro Rock and Heavy History. *Global Metal Music and Culture: Current Directions in Metal Studies*, 2016.
 ##### Rampton, M. Kerrang: Inside The World Of Extreme Metal Logos. https://www.kerrang.com/features/inside-the-world-of-extreme-metal-logos, 2018.
+##### Rosenberg, A. Metalsucks: Sunn O))) are Peeved That Someone is Aping Their Aped Logo. https://www.metalsucks.net/2015/03/16/sunn-o-peeved, 2015
+##### Smialek, E.T. *Genre and Expression in Extreme Metal Music, ca. 1990-2015*, 2015.
 ##### Spracklen, K. and B. Spracklen. *The Evolution of Goth Culture: The Origins and Deeds of the New Goths*, 2018.
 ##### Spracklen, K. Ch. 6: Manowar: True Metal Warriors. In Metal Music and the Re-Imagining of Masculinity, Place, Race, and Nation, 2020. 
 ##### Stinson, L. Wired: The Beauty and Total Illegibility of Extreme Metal Logos. https://www.wired.com/2015/10/the-beauty-and-total-illegibility-of-extreme-metal-logos, 2015.
@@ -166,5 +168,6 @@ I'd like to give a shoutout to everyone who helped me write this guide -- your i
 ##### Towe Horsfall, S., J.-M. Meij, and M. Probstfield, *Music Sociology: Examining the Role of Music in Social Life*, 2013.
 ##### Unger, U. *Sound, Symbol, Sociality: The Aesthetic Experience of Extreme Metal Music*, 2016.
 ##### Weinstein, D. Ch. 5: Pagan Metal. In D. Weston and A. Bennett, ed. *Pop Pagans: Paganism and Popular Music*, 2013.
+##### Williams, P. Highsnobiety: Black & White: A Conversation with Death Metal Illustrator Mark Riddick. https://www.highsnobiety.com/p/mark-riddick-interview/, 2017.
 ##### Yandell, S. The Future *Is* What It Used to Be: Medieval Prophecy and Popular Culture. In D.W. Marshall, ed. *Mass Market Medieval: Essays on the Middle Ages in Popular Culture*, 2007.
 ##### (unknown), S. The Progressive Subway: Interview: Psalmtanic. http://theprogressivesubway.com/2020/04/13/interview-psalmtanic, 2020.

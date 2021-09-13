@@ -34,7 +34,7 @@ Lyrically and thematically, songs often deal with the occult or the metaphysical
 
 In the mid-1980s, and especially in the early-1990s, there were created a few logos that proved seminal in the years to come, most notably the logos of **Mayhem** and **Emperor**. Basically, every Black Metal logo created now takes its cues from both of these. Also, the guy who did the Emperor logo went on to do 10,000(!) logos -- mostly in the Black (and Death) Metal scene.<sup>5</sup> Which is why, regardless of subgenre (Ambient Black Metal, Depressive Suicidal Black Metal, Raw Black Metal, Psychedelic Black Metal, Symphonic Black Metal), Black Metal logos tend to look alike. Indeed, they all share a couple of logo and letter design traits: 
 
-1. The logos often display a **high degree of symmetry**; 
+1. The logos often display a **high degree of symmetry**, supposedly because of its "arcane feel" and the genre's "reputation for elitism."<sup>6</sup>
 ![Black Metal](..\assets\img\projects\proj-8\black2.jpg)
 2. Black Metal logos also often incorporate (background) **graphics of medieval weapons** (swords, axes, maces, flails, shields). It's most likely done to ground the band in History, with a capital H. It's the Black Metal equivalent of opening a new restaurant in 2021 and hanging up a sign that says, "In business since 1991."
 ![Black Metal](..\assets\img\projects\proj-8\blackshield.jpg)
@@ -42,8 +42,11 @@ In the mid-1980s, and especially in the early-1990s, there were created a few lo
 ![Black Metal](..\assets\img\projects\proj-8\black4.jpg)
 4. The letters are often in **blackletter(-like) form**, either in lowercase or uppercase, with **flourishes (curls and spikes)** and **exaggerated edges**; <!-- Flourishes and exaggerated are commonplace, "with extraneous strokes running parallel, rather than one single stroke." -->
 ![Black Metal](..\assets\img\projects\proj-8\black1.jpg)
-5. And the logos are often **unreadable** and purposely made to resemble a **lump of tree roots**. To fans of the genre, it signals, "Good luck seeing the forest to the trees." To anyone else, "Good luck finding something -- *anything* -- interesting in this musical mess."
+5. And the logos are often **unreadable** and purposely made to resemble a **lump of tree roots**, "reflecting the genre's obsession for wintry forests."<sup>7</sup> To fans of the genre, it signals, "Good luck seeing the forest to the trees." To anyone else, "Good luck finding something -- *anything* -- interesting in this musical mess." 
+
 ![Black Metal](..\assets\img\projects\proj-8\black3.jpg)
+6. Oh, and they tend to be **monochromatic (black-and-white)**. According to at least one observer, this is due to "the subgenre's discourses of purity and bleakness."<sup>8</sup> But I would add here that the print realities being what they are, it's easy to understand why these logos tend to be monochromatic. Most Black Metal albums are or were released in the underground Metal scene -- and often purposely so -- and thus don't expect to a lot of copies. So while mainstream bands are likely to spend on printing, underground bands tend to favor black-and-white, or monochrome, art for band t-shirts and album covers, to keep costs low; indeed it's why artists like Mark Riddick and Chris Moyen, whose graphic work has defined the look of underground Metal since the 1990s and before, specialize in black-and-white ink drawings.<sup>9</sup> 
+
 
 The Black Metal scene, as we commonly know it today, emerged in Norway in the late-1980s and early-1990s. But the Norwegian bands that made up the scene were actually part of the second wave of Black Metal. 
 
@@ -143,6 +146,10 @@ Today, Black Metal is an international phenomenon, and there are many Black Meta
 ##### [3] B. Pilo. True Norwegian Black Metal: Nationalism and Authenticity in the Norwegian Black Metal of the '90s. In T.M. Karjalainen, ed. *Sounds of Origin in Heavy Metal Music*, pp. 45-46, 2018.
 ##### [4] B. Hutcherson and R. Haenfler. Musical Genre as a Gendered Process: Authenticity in Extreme Metal. In N.K. Denzin, ed. *Studies in Symbolic Interaction*, p. 116, 2015.
 ##### [5] L. Stinson. Wired: The Beauty and Total Illegibility of Extreme Metal Logos. https://www.wired.com/2015/10/the-beauty-and-total-illegibility-of-extreme-metal-logos, 2015; and M. Rampton. Kerrang: Inside The World Of Extreme Metal Logos. https://www.kerrang.com/features/inside-the-world-of-extreme-metal-logos, 2018.
+##### [6] E.T. Smialek. *Genre and Expression in Extreme Metal Music, ca. 1990-2015*, pp. 154-155, 2015.
+##### [7] Ibidem.
+##### [8] Idem, p. 155.
+##### [9] J. Asphyx. Translated by Duzl. Deadly Storm zine: Mark Riddick - I Do Think That Critique Is a Vital Tool for Developing as an Artist. http://www.deadlystormzine.com/2018/09/interview-mark-riddick-i-do-think-that.html, 2018; P. Williams. Highsnobiety: Black & White: A Conversation with Death Metal Illustrator Mark Riddick. https://www.highsnobiety.com/p/mark-riddick-interview/, 2017.
 
 Take me back to the [sample overview](../projects/proj-8).
 
