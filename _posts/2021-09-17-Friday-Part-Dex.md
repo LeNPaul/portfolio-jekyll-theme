@@ -15,7 +15,7 @@ And yet, that doesn't seem to be case.
 
 Is it because our paper's too complex to contemplate or to spend time on? Is it because it's frankly not interesting? Have we done a poor job in communicating to the metal audience what we have done exactly, and why it matters? 
 
-W, the authors, should have perhaps stressed that we consist of three generations of metalheads. Perhaps we should have stressed, too, that we employed feedback from scene who veterans who have earned their spurs, some through three decades of experience in international touring bands. 
+We, the authors, should have perhaps stressed that we consist of three generations of metalheads. Perhaps we should have stressed, too, that we employed feedback from scene who veterans who have earned their spurs, some through three decades of experience in international touring bands. 
 
 Maybe I'm just rambling now, so I'll just stop. But if you have any thoughts on the matter, let me know. 
 
