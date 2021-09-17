@@ -2,14 +2,12 @@
 layout: post
 title: 'Illustrations'
 ---
-
-These illustrations were all done in **Clip Studio Paint**
-
-[<img src="..\assets\img\projects\proj-2\Intero2.jpg" alt="Intero" width=500 >](/INTERO/)
-[<img src="..\assets\img\projects\proj-2\Psalmtanic.jpg" alt="Psalmtanic" width=500 >](/PSALMTANIC/)
-[<img src="..\assets\img\projects\proj-2\Dauthuz2.jpg" alt="Dauthuz" width=500 >](/DAUTHUZ/)
+[<img src="..\assets\img\projects\proj-2\interos.jpg" alt="Intero" width=200 >](/INTERO/)
+[<img src="..\assets\img\projects\proj-2\psalmtanics.jpg" alt="Psalmtanic" width=200 >](/PSALMTANIC/)
+[<img src="..\assets\img\projects\proj-2\dauthuzs.jpg" alt="Dauthuz" width=200 >](/DAUTHUZ/)
 
 
+These illustrations were all done in **Clip Studio Paint**.
 
 
 
