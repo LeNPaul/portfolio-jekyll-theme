@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Way of the Goat"
+title: "What Ever Happened to Illegible Semantics?"
 ---
 
 For the past few days, my thoughts have been plagued by a single question: why is the metal community sleeping on the alt.VIS paper that I worked on. I'm completely baffled -- I thought metalheads would jump on it. 
