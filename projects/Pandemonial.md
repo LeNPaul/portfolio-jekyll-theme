@@ -12,6 +12,6 @@ permalink: /PANDEMONIAL/
 <img src="..\assets\img\projects\Logos\pandemonial6.jpg" alt="Step 6" width="600"/>
 <img src="..\assets\img\projects\Logos\pandemonial7.jpg" alt="Step 7" width="600"/>
 <img src="..\assets\img\projects\Logos\pandemonial8.jpg" alt="Step 8" width="600"/>
-
+<img src="..\assets\img\projects\proj-3\pandemonialxs.jpg" alt="Step 8" width="600"/>
 
 

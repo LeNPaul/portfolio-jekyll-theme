@@ -18,7 +18,7 @@ Unless stated different, these logos were done digitally by hand, using *Clip St
 
 -->
 
-[<img src="..\assets\img\projects\proj-3\pangray.jpg" alt="Pandemonial">](/PANDEMONIAL/)
+[<img src="..\assets\img\projects\proj-3\pandemonialxs.jpg" alt="Pandemonial">](/PANDEMONIAL/)
 
 [<img src="..\assets\img\projects\proj-3\Okkultation.jpg" alt="Okkultation">](/OKKULTATION/)
 
