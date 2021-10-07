@@ -3,19 +3,18 @@ layout: post
 title: 'Logos'
 ---
 
-Unless stated different, these logos were done digitally by hand, using *Clip Studio Paint*. (How many are you able to read? Find the answers below.)
-
 <!--
 
-
-
-
 ![Vathr](..\assets\img\projects\proj-3\vathr.jpg)
-
 ![Vathr](..\assets\img\projects\proj-3\vathrwingless.jpg)
-
 ![Vinterbris](..\assets\img\projects\proj-3\vinterbris.png)
 
+
+
+[<img src="..\assets\img\projects\proj-3\pandemonialxs1.jpg" alt="Intero" width=400 >](/PANDEMONIAL/)
+[<img src="..\assets\img\projects\proj-3\Okkultation1.jpg" alt="Okkultation" width=400 >](/OKKULTATION/)
+[<img src="..\assets\img\projects\proj-3\TragicSerenades1.jpg" alt="Funeral Void" width=400 >](/TRAGICSERENADES/)
+<img src="..\assets\img\projects\proj-3\WolfsCommand1.jpg" alt="Wolf's Command" width=400 >
 -->
 
 [<img src="..\assets\img\projects\proj-3\pandemonialxs.jpg" alt="Pandemonial">](/PANDEMONIAL/)
@@ -42,6 +41,8 @@ Unless stated different, these logos were done digitally by hand, using *Clip St
 
 ![Obeah](..\assets\img\projects\proj-3\Obeah.jpg)
 
+<!--
+
 ---
 
 In order of appearance:
@@ -63,7 +64,9 @@ In order of appearance:
 ##### [2] This one I made for myself.
 ##### [3] A conceptual redesign of friend's band logo.
 
-<!-- [^1]
+-->
 
+<!--
 [^1]: These two were made for a paper that will be submitted to a conference for publication.
-[^2]: This one I made for myself. -->
+[^2]: This one I made for myself.
+-->
