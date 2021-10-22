@@ -17,6 +17,8 @@ title: 'Logos'
 <img src="..\assets\img\projects\proj-3\WolfsCommand1.jpg" alt="Wolf's Command" width=400 >
 -->
 
+[<img src="..\assets\img\projects\proj-3\pandemonial_definitive.jpg" alt="Pandemonial">](/PANDEMONIAL/)
+
 [<img src="..\assets\img\projects\proj-3\pandemonialxs.jpg" alt="Pandemonial">](/PANDEMONIAL/)
 
 [<img src="..\assets\img\projects\proj-3\Okkultation.jpg" alt="Okkultation">](/OKKULTATION/)
