@@ -23,31 +23,56 @@ title: 'Logos'
 [<img src="..\assets\img\projects\proj-3\vathr1.jpg)" alt="Vathr">](/VATHR/)
 -->
 
+### Vathr
+
 ![Vathr](..\assets\img\projects\proj-3\vathr2.jpg)
 
 ![Vathr](..\assets\img\projects\proj-3\vathr1.jpg)
+
+### Pandemonial
 
 [<img src="..\assets\img\projects\proj-3\pandemonial_definitive.jpg" alt="Pandemonial">](/PANDEMONIAL/)
 
 [<img src="..\assets\img\projects\proj-3\pandemonialxs.jpg" alt="Pandemonial">](/PANDEMONIAL/)
 
+### Okkultation
+
 [<img src="..\assets\img\projects\proj-3\Okkultation.jpg" alt="Okkultation">](/OKKULTATION/)
+
+### Funeral Void
 
 [<img src="..\assets\img\projects\proj-3\FuneralVoid.jpg" alt="Funeral Void">](/FUNERALVOID/)
 
+### Tragic Serenades
+
 [<img src="..\assets\img\projects\proj-3\TragicSerenades.jpg" alt="Tragic Serenades">](/TRAGICSERENADES/)
+
+
+### Wolf's Command
 
 ![Wolf's Command](..\assets\img\projects\proj-3\WolfsCommand.jpg)
 
+### Wraakzucht 333
+
 ![Wraakzucht](..\assets\img\projects\proj-3\Wraakzucht.jpg)
+
+### Ghostheart Nebula
 
 ![Ghostheart Nebula](..\assets\img\projects\proj-3\GhostheartNebula.jpg)
 
+### Dauthuz
+
 ![Dauthuz](..\assets\img\projects\proj-3\Dauthuz.jpg)
+
+### Illegible Semantics (and Related Logos)
 
 ![Illegible Semantics](..\assets\img\projects\proj-3\Illegible.jpg)
 
+![Sharpness](..\assets\img\projects\proj-3\sharpness3.jpg)
+
 ![Visceral Encoding](..\assets\img\projects\proj-3\Visceral.jpg)
+
+### Miscellaneous
 
 ![Tundra Toucan](..\assets\img\projects\proj-3\toucan2.png)
 
