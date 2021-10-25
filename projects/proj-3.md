@@ -17,9 +17,15 @@ title: 'Logos'
 <img src="..\assets\img\projects\proj-3\WolfsCommand1.jpg" alt="Wolf's Command" width=400 >
 -->
 
+<!--
 [<img src="..\assets\img\projects\proj-3\vathr2.jpg)" alt="Vathr">](/VATHR/)
 
 [<img src="..\assets\img\projects\proj-3\vathr1.jpg)" alt="Vathr">](/VATHR/)
+-->
+
+![Vathr](..\assets\img\projects\proj-3\vathr2.jpg)
+
+![Vathr](..\assets\img\projects\proj-3\vathr1.jpg)
 
 [<img src="..\assets\img\projects\proj-3\pandemonial_definitive.jpg" alt="Pandemonial">](/PANDEMONIAL/)
 
