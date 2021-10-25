@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello Mudda, Hello Vathr"
+title: "Hello Muddah, Hello Vathr"
 ---
 
 From time to time there are slow news days. Today's not one of them.
