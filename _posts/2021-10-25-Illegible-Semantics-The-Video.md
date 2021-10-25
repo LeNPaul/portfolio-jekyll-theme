@@ -9,7 +9,7 @@ Last night I presented my paper 'Illegible Semantics: Exploring the Design Space
 
 It was my first and only and probably likely last academic presentation. Setting it up took me some time -- a bit over a week in total! --, though I received precious help and feedback from my co-authors while preparing the script and the video. All in all it was a fun and new experience for me, and the reaction I got for the presentation to the Visualization community made me feel like I actually had a purpose for being there. Like I knew what I was talking about.
 
-Anyway. If you're intereted in seeing and hearing the presentation, check the video below.
+Anyway. If you're interested in seeing and hearing the presentation, check the video below.
 
 <iframe width="1131" height="636" src="https://www.youtube.com/embed/BZOdIhU-mrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
