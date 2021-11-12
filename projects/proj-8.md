@@ -102,6 +102,7 @@ I'd like to give a shoutout to everyone who helped me write this guide -- your i
 
 
 <a name="logos"></a>
+#### Sample Logos
 [<img src="..\assets\img\projects\proj-9\avantgarde.jpg" alt="Avant-Garde Metal" width=140 >](/AVANTGARDE/)
 [<img src="..\assets\img\projects\proj-9\baythrash.jpg" alt="Bay Area Thrash" width=140 >](/THRASHMETAL3/)
 [<img src="..\assets\img\projects\proj-9\blackenedcrust.jpg" alt="Blackened Crust" width=140 >](/BLACKENEDCRUST/)
