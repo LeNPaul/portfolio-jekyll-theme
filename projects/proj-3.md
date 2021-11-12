@@ -41,7 +41,7 @@ To get a glimpse of how these logos were made, you can click on some of them.
 <a name="black"></a> 
 ### Black Metal
 
-![Vathr](..\assets\img\projects\proj-3\vathr1.jpg)
+[<img src="..\assets\img\projects\proj-3\vathr1.jpg" alt="Pandemonial">](/VATHR/)
 
 ![Vathr](..\assets\img\projects\proj-3\vathr2.jpg)
 
