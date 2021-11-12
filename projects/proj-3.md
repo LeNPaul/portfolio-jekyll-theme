@@ -61,9 +61,9 @@ To get a glimpse of how these logos were made, you can click on some of them.
 ### Death Metal
 
 ![Fleshbound](..\assets\img\projects\proj-3\fleshbound.jpg)
-
+<!--
 ![Dauthuz](..\assets\img\projects\proj-3\Dauthuz.jpg)
-
+-->
 <a name="gothic"></a> 
 ### Gothic Rock and Metal
 
