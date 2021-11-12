@@ -2,6 +2,15 @@
 layout: post
 title: 'Logos'
 ---
+<!--
+[<img src="..\assets\img\projects\Thumbnails\fleshbound.jpg" alt="Fleshbound" width=200 >](/FLESHBOUND/)
+[<img src="..\assets\img\projects\Thumbnails\funeralvoid.jpg" alt="Fleshbound" width=200 >](/FUNERALVOID/)
+[<img src="..\assets\img\projects\Thumbnails\okkultation.jpg" alt="Okkultation" width=200 >](/OKKULTATION/)
+[<img src="..\assets\img\projects\Thumbnails\pandemonial.jpg" alt="Pandemonial" width=200 >](/PANDEMONIAL/)
+[<img src="..\assets\img\projects\Thumbnails\tragicserenades.jpg" alt="Tragic Serenades" width=200 >](/TRAGICSERENADES/)
+[<img src="..\assets\img\projects\Thumbnails\vathr.jpg" alt="Vathr" width=200 >](/VATHR/)
+-->
+
 
 <!--
 
