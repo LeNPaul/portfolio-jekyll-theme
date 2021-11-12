@@ -42,6 +42,8 @@ To get a glimpse of how these logos were made, you can click on some of them.
 ### Black
 [<img src="..\assets\img\projects\proj-3\Okkultation.jpg" alt="Okkultation">](/OKKULTATION/)
 
+![Pandemonial](..\assets\img\projects\proj-3\pandemonial_definitive.jpg)
+
 [<img src="..\assets\img\projects\proj-3\pandemonialxs.jpg" alt="Pandemonial">](/PANDEMONIAL/)
 
 ![Vathr](..\assets\img\projects\proj-3\vathr1.jpg)
