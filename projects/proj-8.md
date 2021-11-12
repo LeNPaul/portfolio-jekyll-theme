@@ -1,12 +1,19 @@
 ---
 layout: post
-title: 'Sample Guide'
+title: 'The Science of Logos'
 ---
 
-These logos were all created for a paper called '**Illegible Semantics: Exploring the Design Space of Metal Logos**,' which was submitted to and accepted by **alt.VIS**, a workshop at **IEEE VIS**. It's about how Heavy and Extreme Metal logos tell a story -- even if it isn't always immediately apparent. It's true! Go see for yourself! It just takes one click. But if you want to first know more about the paper, you can read a brief summary and conclusive remarks [below](#illegible).
+During the summer of 2021, I co-authored a paper called **'Illegible Semantics: Exploring the Design Space of Metal Logos'**, which was submitted to and accepted by the **alt.VIS** workshop at **IEEE VIS**, the premier forum for visualization research and technology.
 
-The paper's now available open access; you download a PDF version <a href="https://arxiv.org/pdf/2109.01688" target="_blank" rel="noopener"><span>here</span></a>. Its website companion, which contains a link to the MetalVis web tool and a tutorial on how to use it, can be can be found <a href="http://www.illegiblesemantics.com" target="_blank" rel="noopener"><span>here</span></a>.
+It's basically about how Heavy and Extreme Metal logos communicate a story -- even if it isn't always immediately apparent. It's true! Go see for yourself! It just takes one click on one of 50 [sample logos](#logos).
 
+But if you want to first know more about the paper, you can read a brief summary and conclusive remarks [below](#illegible). There you can also find some additional links.
+
+If you find academic reading too technical, and if you got eight minutes to spare, I got just the thing for you. To present the methods and the results to the Visualization community, I wrote, created, recorded, and edited a video, which went up on YouTube.
+
+<iframe width="600" height="355" src="https://www.youtube.com/embed/BZOdIhU-mrA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a name="logos"></a>
 [<img src="..\assets\img\projects\proj-9\avantgarde.jpg" alt="Avant-Garde Metal" width=140 >](/AVANTGARDE/)
 [<img src="..\assets\img\projects\proj-9\baythrash.jpg" alt="Bay Area Thrash" width=140 >](/THRASHMETAL3/)
 [<img src="..\assets\img\projects\proj-9\blackenedcrust.jpg" alt="Blackened Crust" width=140 >](/BLACKENEDCRUST/)
@@ -67,16 +74,22 @@ The paper's now available open access; you download a PDF version <a href="https
 Metal logos can be by turns gaudy, uncouth, or nearly illegible. Yet, these logos work: they communicate sophisticated notions of genre and emotional effect. Now if you're a metalhead, you already know that. But it has never been investiged scientifically that Metal logos actually tell a story -- even if it's not always immediately apparent. Well, not until now, that is. 
 
 #### Background
-We, a group of international researchers and myself, worked on a paper on Metal logo design that was submitted to and accepted by alt.VIS, a workshop at IEEE VIS, the premier forum for Visualization and Visual Analytics research. 
+We, a group of international researchers and myself, worked on a paper on Metal logo design that was submitted to and accepted by the **alt.VIS** workshop at **IEEE VIS**, the premier forum for Visualization and Visual Analytics research. 
+
+On Sunday October the 24th of 2021, we presented our work to the Visualization community, and the feedback we have received from its members has been overwhelmingly positive.
 
 #### Results
-The paper is called "Illegible Semantics: Exploring the Design Space of Metal Logos," and as you can surmise from the title, it's about all Metal logo designs and what information they encode and how. Oh, and when we say "Metal," we refer to Heavy Metal and its Extreme Metal subgenres and microgenres. 
-
 What we did, and why did it, is best explained in the paper, but the short of it is that --
 - we worked on a framework, which we dubbed the "Dimensions of Doom," to help characterize "illegible" band logos. To test and further develop this, I created almost 50 logos of the same word (VIS) in various genre-representative styles.
 - we developed a web tool that is based on machine learning that (1) allows the user to explore a "cloud" of thousands of existing band logos that were scraped from Encyclopaedia Metallum and (2) group them based on certain characteristics such as genre, color, and "image-likenes."
 
 The main result of the paper is that we can now say that there is definitely more to designing Metal logos than just making them as unreadable as possible; that there is indeed a visual language in the logos, which may have implications for visualization research topics.
+
+But don't believe us; see for yourself! The paper's available open access; you download a PDF version <a href="https://arxiv.org/pdf/2109.01688" target="_blank" rel="noopener"><span>here</span></a>. 
+
+Its website companion, which contains a link to the MetalVis web tool and a tutorial on how to use it, can be can be found <a href="http://www.illegiblesemantics.com" target="_blank" rel="noopener"><span>here</span></a>.
+
+
 
 #### What's Next?
 In the future, we plan to continue working to both extend, refine, and unify our parallel approaches. Doing this should help us get a better understanding of how visual style creates meaning in band logos.
@@ -109,7 +122,6 @@ The main result of the paper is that we can now say that there is definitely mor
 
 But it doesn’t end there. Over the past few weeks, I also worked on a fairly comprehensive genre guide for the paper’s companion on the web, featuring a ton of samples that have been “vetted” by scene veterans and a fellow-metal designer. I had much fun with it. And I sincerely believe that it can be of help to someone, which is why I added it to my website.
 -->
-
 
 #### Full Disclosure
 With these genre samples I tried to represent as faithfully as possible a broad range of genres, based on my own years of experience in designing Metal logos and studying up on genres that I'm not too familiar with. I then had them checked by several scene veterans and a fellow designer to confirm style accuracy and coverage. As of yet, some of these have not officially been checked and validated by the "field experts." But, ultimately, these remain interpretations, anyway. 
