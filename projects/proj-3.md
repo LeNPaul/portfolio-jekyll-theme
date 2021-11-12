@@ -92,10 +92,9 @@ To get a glimpse of how these logos were made, you can click on some of them.
 
 ![Illegible Semantics](..\assets\img\projects\proj-3\Illegible.jpg)
 
+![Tundra Toucan](..\assets\img\projects\proj-3\toucan2.png)
 
 ![Obeah](..\assets\img\projects\proj-3\Obeah.jpg)
-
-![Tundra Toucan](..\assets\img\projects\proj-3\toucan2.png)
 
 <!--
 
