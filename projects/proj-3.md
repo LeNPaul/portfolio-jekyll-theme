@@ -24,7 +24,7 @@ title: 'Logos'
 -->
 
 <a name="top"></a> 
-Pick your poison: [Black](#black) | [Death](#death) | [Gothic](#gothic) | [Miscellaneous](#miscellaneous)
+Pick your poison: [Black Metal](#black) | [Death Metal](#death) | [Gothic Rock and Metal](#gothic) | [Miscellaneous](#miscellaneous)
 
 
 ### Tools Used
@@ -39,16 +39,17 @@ To get a glimpse of how these logos were made, you can click on some of them.
 
 
 <a name="black"></a> 
-### Black
-[<img src="..\assets\img\projects\proj-3\Okkultation.jpg" alt="Okkultation">](/OKKULTATION/)
+### Black Metal
+
+![Vathr](..\assets\img\projects\proj-3\vathr1.jpg)
+
+![Vathr](..\assets\img\projects\proj-3\vathr2.jpg)
 
 ![Pandemonial](..\assets\img\projects\proj-3\pandemonial_definitive.jpg)
 
 [<img src="..\assets\img\projects\proj-3\pandemonialxs.jpg" alt="Pandemonial">](/PANDEMONIAL/)
 
-![Vathr](..\assets\img\projects\proj-3\vathr1.jpg)
-
-![Vathr](..\assets\img\projects\proj-3\vathr2.jpg)
+[<img src="..\assets\img\projects\proj-3\Okkultation.jpg" alt="Okkultation">](/OKKULTATION/)
 
 ![Wolf's Command](..\assets\img\projects\proj-3\WolfsCommand.jpg)
 
@@ -57,14 +58,14 @@ To get a glimpse of how these logos were made, you can click on some of them.
 -->
 
 <a name="death"></a> 
-### Death
+### Death Metal
 
 ![Fleshbound](..\assets\img\projects\proj-3\fleshbound.jpg)
 
 ![Dauthuz](..\assets\img\projects\proj-3\Dauthuz.jpg)
 
 <a name="gothic"></a> 
-### Gothic
+### Gothic Rock and Metal
 
 [<img src="..\assets\img\projects\proj-3\FuneralVoid.jpg" alt="Funeral Void">](/FUNERALVOID/)
 <!--
