@@ -4,7 +4,7 @@ title: 'Vathr'
 permalink: /VATHR/
 ---
 
-### Ballpoint Sketch
+### Ballpoint Sketches
 
 <img src="..\assets\img\projects\proj-3\vathrsketch.jpg" alt="Sketch" width="700"/>
 
