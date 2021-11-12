@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fleshbound"
+title: "Fleshbound: A Blast From the Past"
 ---
 
 Talk about your blast from the past!
