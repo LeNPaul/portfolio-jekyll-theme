@@ -7,7 +7,8 @@ title: 'Illustrations'
 [<img src="..\assets\img\projects\proj-2\dauthuzs.jpg" alt="Dauthuz" width=200 >](/DAUTHUZ/)
 
 
-These illustrations were all done in **Clip Studio Paint**.
+### Tools Used
+These illustrations were all hand drawn and finished digitally, using **Clip Studio Paint**.
 
 
 

@@ -23,64 +23,80 @@ title: 'Logos'
 [<img src="..\assets\img\projects\proj-3\vathr1.jpg)" alt="Vathr">](/VATHR/)
 -->
 
-### Vathr
+<a name="top"></a> 
+Pick your poison: [Black](#black) | [Death](#death) | [Gothic](#gothic) | [Miscellaneous](#miscellaneous)
 
-![Vathr](..\assets\img\projects\proj-3\vathr2.jpg)
 
-![Vathr](..\assets\img\projects\proj-3\vathr1.jpg)
+### Tools Used
+These logos were all hand drawn and finished digitally, using **Clip Studio Paint**; some from start to finish, others were done using my own 3D reference models that I created in **Blender**.
 
-### Pandemonial
+<!--
+For some of these I created my own 3D reference models in **Blender**.
+-->
 
-[<img src="..\assets\img\projects\proj-3\pandemonial_definitive.jpg" alt="Pandemonial">](/PANDEMONIAL/)
+To get a glimpse of how these logos were made, you can click on some of them.
+
+
+
+<a name="black"></a> 
+### Black
+[<img src="..\assets\img\projects\proj-3\Okkultation.jpg" alt="Okkultation">](/OKKULTATION/)
 
 [<img src="..\assets\img\projects\proj-3\pandemonialxs.jpg" alt="Pandemonial">](/PANDEMONIAL/)
 
-### Okkultation
+![Vathr](..\assets\img\projects\proj-3\vathr1.jpg)
 
-[<img src="..\assets\img\projects\proj-3\Okkultation.jpg" alt="Okkultation">](/OKKULTATION/)
-
-### Funeral Void
-
-[<img src="..\assets\img\projects\proj-3\FuneralVoid.jpg" alt="Funeral Void">](/FUNERALVOID/)
-
-### Tragic Serenades
-
-[<img src="..\assets\img\projects\proj-3\TragicSerenades.jpg" alt="Tragic Serenades">](/TRAGICSERENADES/)
-
-
-### Wolf's Command
+![Vathr](..\assets\img\projects\proj-3\vathr2.jpg)
 
 ![Wolf's Command](..\assets\img\projects\proj-3\WolfsCommand.jpg)
 
-### Wraakzucht 333
-
+<!--
 ![Wraakzucht](..\assets\img\projects\proj-3\Wraakzucht.jpg)
+-->
 
-### Ghostheart Nebula
+<a name="death"></a> 
+### Death
 
-![Ghostheart Nebula](..\assets\img\projects\proj-3\GhostheartNebula.jpg)
-
-### Dauthuz
-
+![Fleshbound](..\assets\img\projects\proj-3\fleshbound.jpg)
+<!--
 ![Dauthuz](..\assets\img\projects\proj-3\Dauthuz.jpg)
+-->
 
+<a name="gothic"></a> 
+### Gothic
+
+[<img src="..\assets\img\projects\proj-3\FuneralVoid.jpg" alt="Funeral Void">](/FUNERALVOID/)
+<!--
+![Ghostheart Nebula](..\assets\img\projects\proj-3\GhostheartNebula.jpg)
+-->
+
+
+
+[<img src="..\assets\img\projects\proj-3\TragicSerenades.jpg" alt="Tragic Serenades">](/TRAGICSERENADES/)
+
+<!--
 ### Illegible Semantics (and Related Logos)
 
 ![Illegible Semantics](..\assets\img\projects\proj-3\Illegible.jpg)
 
+
 ![Sharpness](..\assets\img\projects\proj-3\sharpness3.jpg)
 
+
 ![Visceral Encoding](..\assets\img\projects\proj-3\Visceral.jpg)
+-->
 
 ### Miscellaneous
 
-![Tundra Toucan](..\assets\img\projects\proj-3\toucan2.png)
+![Illegible Semantics](..\assets\img\projects\proj-3\Illegible.jpg)
+
 
 ![Obeah](..\assets\img\projects\proj-3\Obeah.jpg)
 
+![Tundra Toucan](..\assets\img\projects\proj-3\toucan2.png)
+
 <!--
 
----
 
 In order of appearance:
 - Pandemonial
@@ -95,15 +111,11 @@ In order of appearance:
 - Visceral Encoding<sup>2</sup>
 - Tundra Toucan<sup>3</sup>
 - Obeah<sup>4</sup> 
-
 ##### [1] Done in ArtRage.
 ##### [1] These two were made for a paper that will be submitted to a conference for publication.
 ##### [2] This one I made for myself.
 ##### [3] A conceptual redesign of friend's band logo.
 
--->
-
-<!--
 [^1]: These two were made for a paper that will be submitted to a conference for publication.
 [^2]: This one I made for myself.
 -->
