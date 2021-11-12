@@ -10,11 +10,11 @@ permalink: /VATHR/
 
 ### Conceptual 3D Renders
 
-<img src="..\assets\img\projects\proj-3\vathr3d3.jpg" alt="Conceptual 3D Render" width="700"/>
+<img src="..\assets\img\projects\Vathr\vathr3d3.JPG" alt="Conceptual 3D Render" width="700"/>
 
-<img src="..\assets\img\projects\proj-3\vathr3d1.jpg" alt="Conceptual 3D Render" width="700"/>
+<img src="..\assets\img\projects\Vathr\vathr3d1.JPG" alt="Conceptual 3D Render" width="700"/>
 
-<img src="..\assets\img\projects\proj-3\vathr3d2.jpg" alt="Conceptual 3D Render" width="700"/>
+<img src="..\assets\img\projects\Vathr\vathr3d2.JPG" alt="Conceptual 3D Render" width="700"/>
 
 ### Final 2D Drawings
 
