@@ -60,7 +60,9 @@ To get a glimpse of how these logos were made, you can click on some of them.
 <a name="death"></a> 
 ### Death Metal
 
-![Fleshbound](..\assets\img\projects\proj-3\fleshbound.jpg)
+[<img src="..\assets\img\projects\proj-3\fleshbound.jpg" alt="Fleshbound">](/FLESHBOUND/)
+
+
 <!--
 ![Dauthuz](..\assets\img\projects\proj-3\Dauthuz.jpg)
 -->
