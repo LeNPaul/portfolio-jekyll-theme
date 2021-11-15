@@ -42,7 +42,7 @@ Pagan Black Metal is one of many off-shoots of traditional "mainstream" Black Me
 </ul>
 -->
 
-### Pagan Metal and Viking Metal (continued)
+### Pagan Black Metal and Viking Metal (continued)
 
 So just what is Pagan Black Metal, you might ask? I'd answer it is Black Metal whose lyrical content usually deals with Germanic Neo-Pagan romanticism -- evoking images of past greatness -- which may raise some eyebrows (in some cases rightfully so). And, compared to conventional Black Metal, the music, which quite often includes folk melodies, is played in a generally slower, but more varying, pace.
 
