@@ -4,7 +4,7 @@ title: 'Logos (continued)'
 ---
 
 <a name="top"></a> 
-Pick your poison: [Black Metal](#black) | [Death Metal](#death) | [Doom Metal](#doom) |[Ecumenical Metal](#ecumenical) | [Psychedelic Rock](#psychedelic) | [Thrash Metal](#thrash) | [Miscellaneous](#miscellaneous) 
+Pick your poison: [Black Metal](#black) | [Death Metal](#death) | [Doom Metal](#doom) | [Ecumenical Metal](#ecumenical) | [Psychedelic Rock](#psychedelic) | [Thrash Metal](#thrash) | [Miscellaneous](#miscellaneous) 
 
 <a name="alphabetic"></a> 
 In particular in alphabetic order: [Cardinal](#cardinal) | [Chorus of Torments](#chorus) | [Dauthuz](#dauthuz) | [Deicide](#deicide) | [Fleshbound](#fleshbound) | [Ghostheart Nebula](#ghostheart) | [Hatred](#hatred) | [Marquis of Snakes](#marquis) | [Obeah](#obeah) | [Psalmtanic](#psalmtanic) | [Sharpness](#sharpness) | [Slave Machinery](#slave) | [Toxocara](#toxocara) | [Visceral Encoding](#visceral) | [Wergild](#wergild) | [Wraakzucht 333](#wraakzucht) | [Witches of Dune](#witchesofdune)
