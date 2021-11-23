@@ -24,13 +24,13 @@ Two exceptions aside (**Cardinal** and **Toxocara**), all of the logos below wer
 <a name="black"></a> 
 ### Black Metal
 <a name="chorus"></a> 
-![Wergild](..\assets\img\projects\proj-3\chorus.jpg)
+[<img src="..\assets\img\projects\proj-3\chorus.jpg" alt="Chorus of Torments">](/CHORUSOFTORMENTS/)
 
 <a name="wraakzucht"></a> 
-![Marquis of Snakes](..\assets\img\projects\proj-3\marquis.jpg)
+[<img src="..\assets\img\projects\proj-3\marquis.jpg" alt="Marquis of Snakes">](/MARQUISOFSNAKES/)
 
 <a name="wergild"></a> 
-![Wergild](..\assets\img\projects\proj-3\wergild.jpg)
+[<img src="..\assets\img\projects\proj-3\wergild.jpg" alt="Wergild">](/WERGILD/)
 
 <a name="wraakzucht"></a> 
 ![Wraakzucht](..\assets\img\projects\proj-3\Wraakzucht.jpg)
@@ -40,7 +40,6 @@ Two exceptions aside (**Cardinal** and **Toxocara**), all of the logos below wer
 <a name="cardinal"></a> 
 ![Cardinal](..\assets\img\projects\proj-3\cardinal.jpg)
 ![Cardinal](..\assets\img\projects\proj-3\cardinal2.jpg)
-
 
 <a name="dauthuz"></a> 
 ![Dauthuz](..\assets\img\projects\proj-3\Dauthuz.jpg)
@@ -59,7 +58,7 @@ Two exceptions aside (**Cardinal** and **Toxocara**), all of the logos below wer
 
 <a name="Toxocara"></a> 
 ![Toxocara](..\assets\img\projects\proj-3\toxoori.jpg)
-![Toxocara](..\assets\img\projects\proj-3\toxoskull.jpg)
+[<img src="..\assets\img\projects\proj-3\toxoskull.jpg" alt="Toxocara">](/TOXOCARA/)
 
 <a name="doom"></a> 
 ### Doom Metal
@@ -76,10 +75,12 @@ Two exceptions aside (**Cardinal** and **Toxocara**), all of the logos below wer
 <a name="witchesofdune"></a> 
 ![Witches of Dune](..\assets\img\projects\proj-3\witchesofdune.jpg)
 
+
 <a name="thrash"></a> 
 ### Thrash Metal
 <a name="slavemachinery"></a> 
-![Slave Machinery](..\assets\img\projects\proj-3\slavemachinery.jpg)
+[<img src="..\assets\img\projects\proj-3\slavemachinery.jpg" alt="Slave Machinery">](/SLAVEMACHINERY/)
+
 
 <a name="miscellaneous"></a> 
 ### Miscellaneous
