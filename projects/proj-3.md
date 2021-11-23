@@ -36,7 +36,7 @@ title: 'Logos'
 Pick your poison: [Black Metal](#black) | [Death Metal](#death) | [Gothic Rock and Metal](#gothic) | [Heavy Metal](#heavy) | [Miscellaneous](#miscellaneous)
 
 <a name="alphabetic"></a> 
-In particular in alphabetic order: [alt.VIS](#altvis) | [Funeral Void](#funeralvoid) |  [Fleshbound](#fleshbound) | [Illegible Semantics](#illegiblesemantics) | [Okkultation](#okkultation) | [Pandemonial](#pandemonial) | [RSH](#rsh)| [Tragic Serenades](#tragicserenades) | [Tundra Toucan](#toucan) | [Vathr](#vathr) | [Wolf's Command](#wolfscommand)
+In particular in alphabetic order: [alt.VIS](#altvis) | [Funeral Void](#funeralvoid) | [Fleshbound](#fleshbound) | [Illegible Semantics](#illegiblesemantics) | [Okkultation](#okkultation) | [Pandemonial](#pandemonial) | [RSH](#rsh) | [Tragic Serenades](#tragicserenades) | [Tundra Toucan](#toucan) | [Vathr](#vathr) | [Wolf's Command](#wolfscommand)
 
 
 If that's not enough for you, there's more on the [next page](../projects/proj-9).
