@@ -1,9 +1,10 @@
 ---
 layout: post
-title: 'Illegible Semantics'
+title: 'Exploring the Design Space of Metal Logos'
 permalink: /ILLEGIBLESEMANTICS/
 ---
-# Illegible Semantics
+![Illegible Semantics](..\assets\img\projects\proj-3\Illegible.jpg)
+
 #### Introduction
 Metal logos can be by turns gaudy, uncouth, or nearly illegible. Yet, these logos work: they communicate sophisticated notions of genre and emotional effect. Now if you're a metalhead, you already know that. But it has never been investiged scientifically that Metal logos actually tell a story -- even if it's not always immediately apparent. Well, not until now, that is. 
 
