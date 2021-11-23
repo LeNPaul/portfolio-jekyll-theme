@@ -17,7 +17,7 @@ Some are truly original designs; others are redesigns. In the odd case I stayed 
 
 Most were happy with my work; some still use my logo to this day. If they're still around, that is. 
 
-###### **Deicide** went back to their original logo, once it was settled who was to own the rights over the name and the (original) logo -- but I can hardly blame them since theirs is such an iconic logo!
+##### **Deicide** went back to their original logo, once it was settled who was to own the rights over the name and the (original) logo -- but I can hardly blame them since theirs is such an iconic logo!
 
 
 ### Tools Used
