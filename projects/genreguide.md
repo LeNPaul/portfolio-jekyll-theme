@@ -41,6 +41,8 @@ I'd like to give a shoutout to everyone who helped me write this guide -- your i
 Furthermore, and just as important, I also did my homework on Metal artists, songs, and genres. For a full list of resources used in the guide, go <a href="../REFERENCES" target="_blank" rel="noopener"><span>here</span></a>.
 </div>
 
+
+#### Sample Logos
 [<img src="..\assets\img\projects\proj-9\avantgarde.jpg" alt="Avant-Garde Metal" width=140 >](/AVANTGARDE/)
 [<img src="..\assets\img\projects\proj-9\baythrash.jpg" alt="Bay Area Thrash" width=140 >](/THRASHMETAL3/)
 [<img src="..\assets\img\projects\proj-9\blackenedcrust.jpg" alt="Blackened Crust" width=140 >](/BLACKENEDCRUST/)
