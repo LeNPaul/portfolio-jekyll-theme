@@ -13,7 +13,7 @@ In particular in alphabetic order: [Cardinal](#cardinal) | [Chorus of Torments](
 ### About
 Some of these logos were commissioned; others were created for portfolio purposes (**Chorus of Torments**, **Marquis of Snakes**, and **Slave Machinery**); 
 
-Some are truly original designs (**Dauthuz**, **Fleshbound**, **Ghostheart Nebula**, **Psalmtanic**, **Wraakzucht 333**, and **Witches of Dune**); others are redesigns. In one case I stayed as close to the original as possible (**Deicide**); but most other times I redesigned them from the ground up (**Cardinal**, **Hatred**, and **Toxocara**). I did this either because I was asked to, or because I personally felt like doing so (**Obeah**), or both (**Cardinal** and **Toxocara**, again). 
+Some are truly original designs (**Dauthuz**, **Fleshbound**, **Ghostheart Nebula**, **Psalmtanic**, **Wraakzucht 333**, and **Witches of Dune**); others are redesigns. In one case I stayed as close to the original as possible (**Deicide**); but most other times I redesigned them from the ground up (**Cardinal**, **Hatred**, and **Toxocara**). I did this either because I was asked to, or because I personally felt like doing so (**Obeah**), or both (**Cardinal** and **Toxocara**). 
 
 Most were happy with my work; some still use my logo to this day. If they're still around, that is (**Dauthuz**, **Ghostheart Nebula**, and **Toxocara**). **Deicide** went back to their original logo, once it was settled who was to own the rights over the name and the (original) logo -- but I can hardly blame them since theirs is such an iconic logo!
 
