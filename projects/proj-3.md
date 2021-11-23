@@ -33,7 +33,14 @@ title: 'Logos'
 -->
 
 <a name="top"></a> 
-Pick your poison: [Black Metal](#black) | [Death Metal](#death) | [Gothic Rock and Metal](#gothic) | [Miscellaneous](#miscellaneous)
+Pick your poison: [Black Metal](#black) | [Death Metal](#death) | [Gothic Rock and Metal](#gothic) | [Heavy Metal](#heavy) | [Miscellaneous](#miscellaneous)
+
+<a name="alphabetic"></a> 
+In particular in alphabetic order: [alt.VIS](#altvis) | [Funeral Void](#funeralvoid) |  [Fleshbound](#fleshbound) | [Illegible Semantics](#illegiblesemantics) | [Okkultation](#okkultation) | [Pandemonial](#pandemonial) | [RSH](#rsh)| [Tragic Serenades](#tragicserenades) | [Tundra Toucan](#toucan) | [Vathr](#vathr) | [Wolf's Command](#wolfscommand)
+
+
+If that's not enough for you, there's more on the [next page](../projects/proj-9).
+
 
 
 ### Tools Used
@@ -49,17 +56,19 @@ To get a glimpse of how these logos were made, you can click on some of them.
 
 <a name="black"></a> 
 ### Black Metal
-
+<a name="vathr"></a> 
 [<img src="..\assets\img\projects\proj-3\vathr1.jpg" alt="Pandemonial">](/VATHR/)
 
 ![Vathr](..\assets\img\projects\proj-3\vathr2.jpg)
 
+<a name="pandemonial"></a> 
 ![Pandemonial](..\assets\img\projects\proj-3\pandemonial_definitive.jpg)
 
 [<img src="..\assets\img\projects\proj-3\pandemonialxs.jpg" alt="Pandemonial">](/PANDEMONIAL/)
 
 [<img src="..\assets\img\projects\proj-3\Okkultation.jpg" alt="Okkultation">](/OKKULTATION/)
 
+<a name="wolfscommand"></a> 
 ![Wolf's Command](..\assets\img\projects\proj-3\WolfsCommand.jpg)
 
 <!--
@@ -68,7 +77,7 @@ To get a glimpse of how these logos were made, you can click on some of them.
 
 <a name="death"></a> 
 ### Death Metal
-
+<a name="fleshbound"></a> 
 [<img src="..\assets\img\projects\proj-3\fleshbound.jpg" alt="Fleshbound">](/FLESHBOUND/)
 
 
@@ -77,14 +86,12 @@ To get a glimpse of how these logos were made, you can click on some of them.
 -->
 <a name="gothic"></a> 
 ### Gothic Rock and Metal
-
+<a name="funeralvoid"></a> 
 [<img src="..\assets\img\projects\proj-3\FuneralVoid.jpg" alt="Funeral Void">](/FUNERALVOID/)
 <!--
 ![Ghostheart Nebula](..\assets\img\projects\proj-3\GhostheartNebula.jpg)
 -->
-
-
-
+<a name="tragicserenades"></a> 
 [<img src="..\assets\img\projects\proj-3\TragicSerenades.jpg" alt="Tragic Serenades">](/TRAGICSERENADES/)
 
 <!--
@@ -99,13 +106,32 @@ To get a glimpse of how these logos were made, you can click on some of them.
 ![Visceral Encoding](..\assets\img\projects\proj-3\Visceral.jpg)
 -->
 
-### Miscellaneous
 
+<a name="heavy"></a> 
+### Heavy Metal
+<a name="rsh"></a> 
+![RSH](..\assets\img\projects\proj-3\redrunes.jpg)
+
+
+### Miscellaneous
+<a name="altvis"></a> 
+![alt.VIS](..\assets\img\projects\proj-3\altvis.jpg)
+
+<a name="illegiblesemantics"></a> 
 ![Illegible Semantics](..\assets\img\projects\proj-3\Illegible.jpg)
 
+<a name="toucan"></a> 
 ![Tundra Toucan](..\assets\img\projects\proj-3\toucan2.png)
 
+<!--
+<a name="obeah"></a> 
 ![Obeah](..\assets\img\projects\proj-3\Obeah.jpg)
+-->
+
+- Go to the next [page](../projects/proj-9).
+- Back to the [top](#top).
+
+
 
 <!--
 
