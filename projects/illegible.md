@@ -10,6 +10,7 @@ Metal logos can be by turns gaudy, uncouth, or nearly illegible. Yet, these logo
 
 #### Background
 We, a group of international researchers and myself, worked on a paper on Metal logo design that was submitted to and accepted by the **alt.VIS** workshop at **IEEE VIS**, the premier forum for Visualization and Visual Analytics research. 
+![alt.VIS](..\assets\img\projects\proj-3\altvis.jpg)
 
 On Sunday October the 24th of 2021, we presented our work to the Visualization community, and the feedback we have received from its members has been overwhelmingly positive.
 
