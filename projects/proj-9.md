@@ -7,11 +7,11 @@ title: 'Logos (continued)'
 Pick your poison: [Black Metal](#black) | [Death Metal](#death) | [Doom Metal](#doom) | [Ecumenical Metal](#ecumenical) | [Psychedelic Rock](#psychedelic) | [Thrash Metal](#thrash) | [Miscellaneous](#miscellaneous) 
 
 <a name="alphabetic"></a> 
-In particular in alphabetic order: [Cardinal](#cardinal) | [Chorus of Torments](#chorus) | [Dauthuz](#dauthuz) | [Deicide](#deicide) | [Fleshbound](#fleshbound) | [Ghostheart Nebula](#ghostheart) | [Hatred](#hatred) | [Marquis of Snakes](#marquis) | [Obeah](#obeah) | [Psalmtanic](#psalmtanic) | [Sharpness](#sharpness) | [Slave Machinery](#slave) | [Toxocara](#toxocara) | [Visceral Encoding](#visceral) | [Wergild](#wergild) | [Wraakzucht 333](#wraakzucht) | [Witches of Dune](#witchesofdune)
+Specifically, in alphabetic order: [Cardinal](#cardinal) | [Chorus of Torments](#chorus) | [Dauthuz](#dauthuz) | [Deicide](#deicide) | [Fleshbound](#fleshbound) | [Ghostheart Nebula](#ghostheart) | [Hatred](#hatred) | [Marquis of Snakes](#marquis) | [Obeah](#obeah) | [Psalmtanic](#psalmtanic) | [Sharpness](#sharpness) | [Slave Machinery](#slave) | [Toxocara](#toxocara) | [Visceral Encoding](#visceral) | [Wergild](#wergild) | [Wraakzucht 333](#wraakzucht) | [Witches of Dune](#witchesofdune)
 
 
 ### About
-Some of these logos were commissioned; others were created for portfolio purposes. 
+Some of these logos were commissioned; others were created for portfolio purposes; still others were designed for <a href="../projects/proj-8" target="_blank" rel="noopener"><span>**'Illegible Semantics'**</span></a>. 
 
 Some are truly original designs; others are redesigns. In the odd case I stayed as close to the original as possible; but most other times I redesigned them from the ground up. I did this either because I was asked to, or because I personally felt like doing so. 
 
