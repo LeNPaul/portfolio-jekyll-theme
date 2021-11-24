@@ -6,7 +6,9 @@ permalink: /GENREGUIDE/
 
 Each genre of Metal, of which there are many, has its own rules and aesthetics. Here things can get weirdly specific. For example, bands in a genre often have the same kind of logos, but depending on subgenre or microgenre, bands may have a different kind of logo, and a logo style can even depend on a band's locality!
 
-As you can imagine, it can get complicated fairly quickly when you're trying to get a handle on what's what and how things play out visually, concretely, and practically -- especially if you're not in the know. In order to facilitate understanding, I created a ton of sample logos -- covering a broad range of genres and subgenres, and microgenres -- that have been "vetted" by scene veterans. Additionally, I added some humorous, insightful, tongue-in-cheek commentary to give you some idea into the design process of each of these genre logos. 
+As you can imagine, it can get complicated fairly quickly when you're trying to get a handle on what's what and how things play out visually, concretely, and practically -- especially if you're not in the know. 
+
+In order to facilitate understanding, I created a ton of sample logos -- covering a broad range of genres and subgenres, and microgenres -- that have been "vetted" by scene veterans. Additionally, I added some humorous, insightful, tongue-in-cheek commentary to give you some idea into the design process of each of these genre logos. 
 
 
 <script type="text/javascript">
@@ -22,7 +24,7 @@ As you can imagine, it can get complicated fairly quickly when you're trying to 
 <div id="disclosure" style="display:none;">
 With these genre samples I tried to represent as faithfully as possible a broad range of genres, based on my own years of experience in designing Metal logos and studying up on genres that I'm not too familiar with. I then had them checked by several scene veterans and a fellow designer to confirm style accuracy and coverage. As of yet, some of these have not officially been checked and validated by the "field experts." But, ultimately, these remain interpretations, anyway. 
 <br><br>
-It may well be that you have other ideas on what these logos are supposed to look like. Maybe you don't think my comments are clever or helpful or funny. In that case, drop me a line on Twitter, and tell me what needs improving
+It may well be that you have other ideas on what these logos are supposed to look like. Maybe you don't think my comments are clever or helpful or funny. In that case, drop me a line on Twitter, and tell me what needs improving.
 </div>
 
 <script type="text/javascript">
