@@ -49,6 +49,10 @@ Two exceptions aside (**Cardinal** and **Toxocara**), all of the logos below wer
 <a name="deicide"></a> 
 ![Deicide](..\assets\img\projects\proj-3\deicide.jpg)
 
+<a name="El Baréjo"></a> 
+![El Baréjo](..\assets\img\projects\proj-3\barejo.jpg)
+
+
 <a name="fleshbound"></a> 
 ![Fleshbound](..\assets\img\projects\proj-3\fleshboundori.jpg)
 
