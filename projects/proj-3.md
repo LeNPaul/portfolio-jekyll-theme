@@ -110,7 +110,7 @@ To get a glimpse of how these logos were made, you can click on some of them.
 <a name="heavy"></a> 
 ### Heavy Metal
 <a name="rsh"></a> 
-![RSH](..\assets\img\projects\proj-3\redrunes.jpg)
+![RSH](..\assets\img\projects\proj-3\rshmetal.png)
 
 
 ### Miscellaneous
