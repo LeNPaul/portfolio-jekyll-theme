@@ -8,6 +8,6 @@ I've been working on some commissions lately. One of them is an **AC/DC**-like l
 
 <img src="..\assets\img\projects\proj-3\rshkeyline.jpg" alt="RSH" width="600"/>
 
-It's a simple, no-thrills logo, but it looks decent, and it allows for some cool 3D customization.
+It's a simple, no frills logo, but it looks decent, and it allows for some cool 3D customization.
 
 <img src="..\assets\img\projects\proj-3\redrunes.jpg" alt="RSH" width="600"/>
