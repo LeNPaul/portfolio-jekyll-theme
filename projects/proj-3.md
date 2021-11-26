@@ -111,6 +111,7 @@ To get a glimpse of how these logos were made, you can click on some of them.
 ### Heavy Metal
 <a name="rsh"></a> 
 ![RSH](..\assets\img\projects\proj-3\rshmetal.png)
+[<img src="..\assets\img\projects\proj-3\rshmetal.png" alt="RSH">](/RSH/)
 
 
 ### Miscellaneous
