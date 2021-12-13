@@ -36,7 +36,7 @@ title: 'Logos'
 Pick your poison: [Black Metal](#black) | [Death Metal](#death) | [Gothic Rock and Metal](#gothic) | [Heavy Metal](#heavy) | [Miscellaneous](#miscellaneous)
 
 <a name="alphabetic"></a> 
-Specifically, in alphabetic order: [alt.VIS](#altvis) | [Funeral Void](#funeralvoid) | [Fleshbound](#fleshbound) | [Illegible Semantics](#illegiblesemantics) | [Okkultation](#okkultation) | [Pandemonial](#pandemonial) | [RSH](#rsh) | [Tragic Serenades](#tragicserenades) | [Tundra Toucan](#toucan) | [Vathr](#vathr) | [Wolf's Command](#wolfscommand)
+Specifically, in alphabetic order: [Everything Hertz](#hertz) | [Funeral Void](#funeralvoid) | [Fleshbound](#fleshbound) | [Illegible Semantics](#illegiblesemantics) | [Okkultation](#okkultation) | [Pandemonial](#pandemonial) | [RSH](#rsh) | [Tragic Serenades](#tragicserenades) | [Tundra Toucan](#toucan) | [Vathr](#vathr) | [Wolf's Command](#wolfscommand)
 
 
 If that's not enough for you, there's more on the [next page](../projects/proj-9).
@@ -114,8 +114,9 @@ To get a glimpse of how these logos were made, you can click on some of them.
 
 
 ### Miscellaneous
-<a name="altvis"></a> 
-![alt.VIS](..\assets\img\projects\proj-3\altvis.jpg)
+
+<a name="hertz"></a> 
+![Everything Hertz](..\assets\img\projects\proj-3\everything.jpg)
 
 <a name="illegiblesemantics"></a> 
 ![Illegible Semantics](..\assets\img\projects\proj-3\Illegible.jpg)

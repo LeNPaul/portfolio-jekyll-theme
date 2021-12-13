@@ -7,7 +7,7 @@ title: 'Logos (continued)'
 Pick your poison: [Black Metal](#black) | [Death Metal](#death) | [Doom Metal](#doom) | [Ecumenical Metal](#ecumenical) | [Psychedelic Rock](#psychedelic) | [Thrash Metal](#thrash) | [Miscellaneous](#miscellaneous) 
 
 <a name="alphabetic"></a> 
-Specifically, in alphabetic order: [Cardinal](#cardinal) | [Chorus of Torments](#chorus) | [Dauthuz](#dauthuz) | [Deicide](#deicide) | [El Baréjo](#barejo) | [Fleshbound](#fleshbound) | [Ghostheart Nebula](#ghostheart) | [Hatred](#hatred) | [Marquis of Snakes](#marquis) | [Obeah](#obeah) | [Psalmtanic](#psalmtanic) | [Sharpness](#sharpness) | [Slave Machinery](#slave) | [Toxocara](#toxocara) | [Visceral Encoding](#visceral) | [Wergild](#wergild) | [Wraakzucht 333](#wraakzucht) | [Witches of Dune](#witchesofdune)
+Specifically, in alphabetic order: [alt.VIS](#altvis) | [Cardinal](#cardinal) | [Chorus of Torments](#chorus) | [Dauthuz](#dauthuz) | [Deicide](#deicide) | [El Baréjo](#barejo) | [Fleshbound](#fleshbound) | [Ghostheart Nebula](#ghostheart) | [Hatred](#hatred) | [Marquis of Snakes](#marquis) | [Obeah](#obeah) | [Psalmtanic](#psalmtanic) | [Sharpness](#sharpness) | [Slave Machinery](#slave) | [Toxocara](#toxocara) | [Visceral Encoding](#visceral) | [Wergild](#wergild) | [Wraakzucht 333](#wraakzucht) | [Witches of Dune](#witchesofdune)
 
 
 ### About
@@ -89,6 +89,10 @@ Two exceptions aside (**Cardinal** and **Toxocara**), all of the logos below wer
 
 <a name="miscellaneous"></a> 
 ### Miscellaneous
+
+<a name="altvis"></a> 
+![alt.VIS](..\assets\img\projects\proj-3\altvis.jpg)
+
 <a name="sharpness"></a> 
 ![Sharpness](..\assets\img\projects\proj-3\sharpness3.jpg)
 
