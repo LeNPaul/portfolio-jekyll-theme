@@ -2,7 +2,7 @@
 ---
 
 <!DOCTYPE html>
-<html class="">
+<html>
   <head>
     <meta charset="UTF-8">
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -18,6 +18,7 @@
       {% endif %}
     </title>
     <link rel="stylesheet" href="{{ site.github.url }}/assets/css/all.css">
+    <link rel="stylesheet" href="{{ site.github.url }}/assets/libs/bootstrap/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
     <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
@@ -31,10 +32,14 @@
     {% seo %}
   </head>
   <body>
-    <div class="site-container">
-      {% include header.html %}
-      {{ content }}
-      {% include footer.html %}
+    <div class="container">
+      <div class="row">
+        <div class="col-7 mx-auto">
+          {% include header.html %}
+          {{ content }}
+          {% include footer.html %}
+        </div>
+      </div>
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
   </body>
