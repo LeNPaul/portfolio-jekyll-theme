@@ -1,14 +1,7 @@
 <footer>
-  <div class="footer-wrap">
-    <div class="footer-tagline">
-      <p>{{ site.data.settings.footer }}</p>
-    </div>
-    <div class="social-media">
-      <nav>
-        {% for item in site.data.settings.social %}
-          <a href="{{ item.link }}" target="_blank"><i class="fa fa-{{ item.icon }}" aria-hidden="true"></i></a>
-        {% endfor %}
-      </nav>
-    </div>
-  </div>
+  <nav class="text-center py-4">
+    {% for item in site.data.settings.social %}
+      <a href="{{ item.link }}" target="_blank"><i class="fs-5 fa fa-{{ item.icon }} text-dark mx-2" aria-hidden="true"></i></a>
+    {% endfor %}
+  </nav>
 </footer>
