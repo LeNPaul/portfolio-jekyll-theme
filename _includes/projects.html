@@ -1,12 +1,12 @@
 <section>
   {% for project in site.data.settings.projects %}
-    <a href="{{ site.github.url }}/projects/{{ project.url }}">
-      <div class="card-body mb-4 project-container">
-        <img src="{{ site.github.url }}/assets/img/projects/{{ project.url }}/thumbnail.jpg" class="card-img-top image" alt="...">
-        <div class="overlay">
-          <div class="text">{{ project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></div>
-        </div>
+    <div class="card-body mx-5 mb-5 project-container">
+      <a href="{{ site.github.url }}/projects/{{ project.url }}">
+      <img src="{{ site.github.url }}/assets/img/projects/{{ project.url }}/thumbnail.jpg" class="card-img-top image" alt="...">
+      <div class="overlay">
+        <div class="text">{{ project.name }} <i class="fa fa-arrow-right" aria-hidden="true"></i></div>
       </div>
-    </a>
+      </a>
+    </div>
   {% endfor %}
 </section>
