@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'technical debt (tchncldbt)'
+title: 'Nr. 1'
 ---
 Technical debt is a concept that reflects the implied cost of additional rework caused by choosing an limited solution now instead of using a better approach that would take longer.
 
