@@ -52,8 +52,8 @@ contact: >
 # Work Section
 
 projects:
-- {name: 'Nr.1 - Bohnapfel Cuvee', folder: 'proj-0', file: 'projects/proj-0.html'}
-- {name: 'Nr.2 - Bohnapfel Cuvee', folder: 'proj-1', file: 'projects/fass-2.html'}
+- {name: 'Nr.1 - Bohnapfel Cuvee', folder: 'proj-0', file: 'projects/5B0001-2022.html'}
+- {name: 'Nr.2 - Bohnapfel Cuvee', folder: 'proj-1', file: 'projects/5B0002-2022.html'}
 - {name: 'Nr.3', folder: 'proj-2', file: 'projects/2022-3.html'}
 - {name: 'Nr.4', folder: 'proj-3', file: 'projects/2022-4.html'}
 - {name: 'Nr.5', folder: 'proj-4', file: 'projects/2022-5.html'}
