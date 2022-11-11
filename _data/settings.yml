@@ -50,7 +50,7 @@ contact: >
 
 #-------------------------------
 # Work Section
-
+#
 projects:
 - {name: 'Nr.1 - Bohnapfel Cuvee', folder: 'proj-0', file: 'projects/5B0001-2022.html'}
 - {name: 'Nr.2 - Bohnapfel Cuvee', folder: 'proj-1', file: 'projects/5B0002-2022.html'}
