@@ -77,6 +77,9 @@ To get a glimpse of how these logos were made, you can click on some of them.
 
 <a name="death"></a> 
 ### Death Metal
+<a name="Consolation"></a> 
+[<img src="..\assets\img\projects\proj-3\consolation.png" alt="Consolation">](/CONSOLATION/)
+
 <a name="fleshbound"></a> 
 [<img src="..\assets\img\projects\proj-3\fleshbound.jpg" alt="Fleshbound">](/FLESHBOUND/)
 
