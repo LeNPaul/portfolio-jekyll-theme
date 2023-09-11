@@ -4,8 +4,11 @@ title: 'Consolation'
 permalink: /CONSOLATION/
 ---
 
-### Final Design
-<img src="..\assets\img\projects\proj-2\consolation.png" alt="Final design" width="700"/>
+### Front
+<img src="..\assets\img\projects\proj-2\consolation.png" alt="Front" width="700"/>
+
+### Back
+<img src="..\assets\img\projects\proj-2\consolationback.png" alt="Back" width="700"/>
 
 
 
