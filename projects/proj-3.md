@@ -101,10 +101,6 @@ To get a glimpse of how these logos were made, you can click on some of them.
 [<img src="..\assets\img\projects\proj-3\FuneralVoid.jpg" alt="Funeral Void">](/FUNERALVOID/)
 
 
-<a name="ghostheart"></a> 
-![Ghostheart Nebula](..\assets\img\projects\proj-3\GhostheartNebula.jpg)
-
-
 <a name="tragicserenades"></a> 
 [<img src="..\assets\img\projects\proj-3\TragicSerenades.jpg" alt="Tragic Serenades">](/TRAGICSERENADES/)
 
