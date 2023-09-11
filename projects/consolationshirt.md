@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Consolation'
-permalink: /CONSOLATION/
+permalink: /CONSOLATIONSHIRT/
 ---
 
 ### Front
