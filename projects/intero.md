@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Intero (T-shirt design)'
+title: 'Intero (T-Shirt Design)'
 permalink: /INTERO/
 ---
 
