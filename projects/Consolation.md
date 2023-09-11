@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Consolation'
+title: 'Consolation Logo Redesign'
 permalink: /CONSOLATION/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Consolation'
+title: 'Consolation T-Shirt'
 permalink: /CONSOLATIONSHIRT/
 ---
 
