@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Dauthuz, Destined for Death (album cover)'
+title: 'Dauthuz, Destined for Death (Album Cover)'
 permalink: /DAUTHUZ/
 ---
 
