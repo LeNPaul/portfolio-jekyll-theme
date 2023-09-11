@@ -17,7 +17,7 @@ After graduation from high school, I entered the Erasmus University Rotterdam to
 
 Now, after years of operating as a semi-professional illustrator creating logos and T-shirt designs for bands mostly, I'm hoping to become a full-fledged professional. And to that end, I've enrolled in the University of Bergen to study Visual Communication.
 
-What else ...? If I'm not working on a commission, then I'm working on my own science fiction comic book.  
+What else ...? When I'm not working on a commission or a study assignment, then I'm usually working on my own science fiction comic book.
 
 <!-- # My Process
 Here's how I typically work. First, I ask you what kind of design you have in mind. Then I'll do some sketches and send them your way, and you can choose which design you favor. 
