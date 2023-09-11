@@ -4,21 +4,10 @@ title: 'Consolation'
 permalink: /CONSOLATION/
 ---
 
-### Preliminary Sketch
-<img src="..\assets\img\projects\Consolation\consolationred.png" alt="Preliminary sketch" width="700"/>
-
-### Proposed Alternative Design
-<img src="..\assets\img\projects\Consolation\consolationorange.png" alt="Alternative concept" width="700"/>
-
-### Iterating Towards a Final Design
-<img src="..\assets\img\projects\Consolation\consolationskeleton.png" alt="Fleshed out sketch" width="700"/>
-
-<img src="..\assets\img\projects\Consolation\consolationadvanced.png" alt="Getting there" width="700"/>
-
-<img src="..\assets\img\projects\Consolation\consolationadvanced2.png" alt="Almost done" width="700"/>
-
 ### Final Design
-<img src="..\assets\img\projects\proj-3\consolation.png" alt="Definitive logo" width="700"/>
+<img src="..\assets\img\projects\proj-2\consolation.png" alt="Final design" width="700"/>
+
+
 
 
 

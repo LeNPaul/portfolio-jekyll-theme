@@ -2,7 +2,7 @@
 layout: post
 title: 'Illustrations'
 ---
-[<img src="..\assets\img\projects\proj-2\consolation.png" alt="Consolation" width=200 >](/CONSOLATION/)
+[<img src="..\assets\img\projects\proj-2\consolation.png" alt="Consolation" width=200 >](/CONSOLATIONSHIRT/)
 [<img src="..\assets\img\projects\proj-2\interos.jpg" alt="Intero" width=200 >](/INTERO/)
 [<img src="..\assets\img\projects\proj-2\psalmtanics.jpg" alt="Psalmtanic" width=200 >](/PSALMTANIC/)
 [<img src="..\assets\img\projects\proj-2\dauthuzs.jpg" alt="Dauthuz" width=200 >](/DAUTHUZ/)
