@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Psalmtanic, Psalmtanic Verses (album cover)'
+title: 'Psalmtanic, Psalmtanic Verses (Album Cover)'
 permalink: /PSALMTANIC/
 ---
 
