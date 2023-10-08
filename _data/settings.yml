@@ -11,8 +11,8 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Project One',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
+- {name: 'Design Graphique',   url: 'proj-1'}
+- {name: 'Photoshop',   url: 'proj-2'}
 - {name: 'Project Three', url: 'proj-3'}
 - {name: 'Project Four',  url: 'proj-4'}
 - {name: 'Project Five',  url: 'proj-5'}
