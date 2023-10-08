@@ -11,11 +11,11 @@ menu:
 
 projects:
 - {name: 'Maquettte du redesign du site Promis',   url: 'design'}
-- {name: 'Maquette d'un site de galerie d'Art ',   url: 'proj-2'}
+- {name: 'Maquette d'un site de galerie d'Art ',   url: 'galerie'}
 - {name: 'Générique de film ',   url: 'generique'}
-- {name: 'scene 3d', url: 'proj-3'}
-- {name: 'Personnage 3d',  url: 'proj-4'}
-- {name: 'Animation 3d',  url: 'proj-5'}
+- {name: 'scene 3d', url: 'willy'}
+- {name: 'Personnage 3d',  url: 'leif'}
+- {name: 'Animation 3d',  url: 'sphere'}
 
 #-------------------------------
 # Contact Section
