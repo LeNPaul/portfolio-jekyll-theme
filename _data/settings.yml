@@ -10,11 +10,12 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Design Graphique',   url: 'design'}
-- {name: 'Photoshop',   url: 'proj-2'}
-- {name: '3D', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
+- {name: 'Maquettte du redesign du site Promis',   url: 'design'}
+- {name: 'Maquette d'un site de galerie d'Art ',   url: 'proj-2'}
+- {name: 'Générique de film ',   url: 'generique'}
+- {name: 'scene 3d', url: 'proj-3'}
+- {name: 'Personnage 3d',  url: 'proj-4'}
+- {name: 'Animation 3d',  url: 'proj-5'}
 
 #-------------------------------
 # Contact Section
