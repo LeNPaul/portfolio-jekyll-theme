@@ -2,20 +2,20 @@
 # General Site Settings
 
 menu:
-- {name: 'Projects', url: ''}
-- {name: 'Blog',     url: 'blog'}
-- {name: 'About',    url: 'about'}
+
+- {name: 'allo',  url: 'contact'}
 - {name: 'Contact',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
 
 projects:
-- {name: 'Project One',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
+- {name: 'Maquettte du redesign du site Promis',   url: 'design'}
+- {name: 'Maquette d'un site de galerie d'Art ',   url: 'galerie'}
+- {name: 'Générique de film ',   url: 'generique'}
+- {name: 'scene 3d', url: 'willy'}
+- {name: 'Personnage 3d',  url: 'leif'}
+- {name: 'Animation 3d',  url: 'sphere'}
 
 #-------------------------------
 # Contact Section
