@@ -2,9 +2,9 @@
 # General Site Settings
 
 menu:
-- {name: ' gigighihar', url: ''}
-- {name: 'gros caca',     url: 'blog'}
-- {name: 'About',    url: 'about'}
+
+
+- {name: 'À propos',    url: 'about'}
 - {name: 'Contact',  url: 'contact'}
 
 #-------------------------------
